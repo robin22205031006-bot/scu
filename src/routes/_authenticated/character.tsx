@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { ArrowLeft, Heart, X } from "lucide-react";
@@ -65,6 +65,68 @@ function journeyScore(r: { arc_role?: string | null; status?: string | null; rol
   if (st === "dead" || st === "presumed dead") return 1;
   if (st === "alive") return 3;
   return 2;
+}
+
+const COMPARE_COLORS = ["hsl(190 85% 60%)", "hsl(30 90% 60%)", "hsl(300 75% 65%)", "hsl(120 65% 55%)"];
+
+type JRow = { id: string; series?: { title?: string | null } | null; arc_role?: string | null; status?: string | null; role_in_series?: string | null };
+
+function CompareRowsLoader({ id, onRows }: { id: string; onRows: (id: string, rows: JRow[]) => void }) {
+  const { data } = useQuery(characterSeriesQuery(id));
+  useEffect(() => { if (data) onRows(id, (data as JRow[]).filter((r) => r.series)); }, [data, id, onRows]);
+  return null;
+}
+
+function CompareJourney({ baseName, baseRows, others }: { baseName: string; baseRows: JRow[]; others: Array<{ id: string; name: string }> }) {
+  const [picked, setPicked] = useState<string[]>([]);
+  const [rowsBy, setRowsBy] = useState<Record<string, JRow[]>>({});
+  const onRows = useCallback((cid: string, rows: JRow[]) => setRowsBy((p) => ({ ...p, [cid]: rows })), []);
+  const lines = [{ name: baseName, rows: baseRows }, ...picked.map((p) => ({ name: others.find((o) => o.id === p)?.name ?? "?", rows: rowsBy[p] ?? [] }))];
+  const titles = Array.from(new Set(lines.flatMap((l) => l.rows.map((r) => r.series?.title ?? "?"))));
+  const W = 560, H = 140, pad = 24;
+  const step = (W - pad * 2) / Math.max(titles.length - 1, 1);
+  const y = (s: number) => H - pad - (s / 5) * (H - pad * 2);
+  return (
+    <div className="mb-4 rounded-lg border border-white/10 bg-white/5 p-3">
+      {picked.map((p) => <CompareRowsLoader key={p} id={p} onRows={onRows} />)}
+      <div className="mb-2 flex flex-wrap items-center gap-2 text-[10px] uppercase tracking-widest">
+        <span className="text-accent">Compare Journey</span>
+        {picked.length < 3 && (
+          <select
+            value=""
+            onChange={(ev) => ev.target.value && setPicked((p) => [...p, ev.target.value])}
+            className="rounded border border-white/15 bg-black/60 px-2 py-1 text-[11px] normal-case tracking-normal"
+          >
+            <option value="">+ Add character</option>
+            {others.filter((o) => !picked.includes(o.id)).map((o) => <option key={o.id} value={o.id}>{o.name}</option>)}
+          </select>
+        )}
+      </div>
+      <div className="mb-2 flex flex-wrap gap-2 text-[11px]">
+        {lines.map((l, i) => (
+          <span key={l.name + i} className="flex items-center gap-1 rounded-full bg-black/40 px-2 py-0.5">
+            <span className="h-2 w-2 rounded-full" style={{ background: i === 0 ? "var(--accent)" : COMPARE_COLORS[(i - 1) % COMPARE_COLORS.length] }} />
+            {l.name}
+            {i > 0 && <button aria-label={`Remove ${l.name}`} onClick={() => setPicked((p) => p.filter((_, j) => j !== i - 1))} className="ml-1 text-muted-foreground hover:text-foreground">×</button>}
+          </span>
+        ))}
+      </div>
+      <svg viewBox={`0 0 ${W} ${H}`} className="w-full">
+        {[1, 2, 3, 4, 5].map((g) => <line key={g} x1={pad} x2={W - pad} y1={y(g)} y2={y(g)} stroke="rgba(255,255,255,0.06)" />)}
+        {lines.map((l, i) => {
+          const color = i === 0 ? "var(--accent)" : COMPARE_COLORS[(i - 1) % COMPARE_COLORS.length];
+          const pts = l.rows.map((r) => ({ x: pad + titles.indexOf(r.series?.title ?? "?") * step, y: y(journeyScore(r)) })).sort((a, b) => a.x - b.x);
+          return (
+            <g key={i}>
+              <polyline points={pts.map((p) => `${p.x},${p.y}`).join(" ")} fill="none" stroke={color} strokeWidth={2} />
+              {pts.map((p, k) => <circle key={k} cx={p.x} cy={p.y} r={3.5} fill={color} />)}
+            </g>
+          );
+        })}
+        {titles.map((t, i) => <text key={t} x={pad + i * step} y={H - 6} fontSize={9} textAnchor="middle" fill="rgba(255,255,255,0.55)">{t.length > 14 ? t.slice(0, 13) + "…" : t}</text>)}
+      </svg>
+    </div>
+  );
 }
 
 function JourneyBars({ rows }: { rows: Array<{ id: string; series?: { title?: string | null } | null; arc_role?: string | null; status?: string | null; role_in_series?: string | null }> }) {
@@ -407,6 +469,9 @@ function CharacterDossier() {
                 <div className="mb-4">
                   <JourneyBars rows={seasons} />
                 </div>
+              )}
+              {tab === "progress" && seasons.length > 0 && (
+                <CompareJourney baseName={e.name} baseRows={seasons} others={(allChars ?? []).filter((c) => c.id !== id)} />
               )}
               {tab === "progress" && (
                 <ul className="grid gap-1.5 text-xs">
