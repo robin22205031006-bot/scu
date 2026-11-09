@@ -14,19 +14,19 @@ export function WelcomeVfx() {
     try { seen = sessionStorage.getItem(KEY); } catch { /* storage unavailable */ }
     if (seen) return;
     setShow(true);
-    const t1 = setTimeout(() => setLeaving(true), 2400);
+    const t1 = setTimeout(() => setLeaving(true), 1200);
     const t2 = setTimeout(() => {
       // Mark as seen only once it has finished, so a re-run effect never strands the overlay on screen.
       try { sessionStorage.setItem(KEY, "1"); } catch { /* storage unavailable */ }
       setShow(false);
-    }, 3000);
+    }, 1800);
     return () => { clearTimeout(t1); clearTimeout(t2); setShow(false); };
   }, []);
 
   if (!show) return null;
   return (
     <motion.div
-      className="pointer-events-none fixed inset-0 z-[100] grid place-items-center overflow-hidden bg-black"
+      className="pointer-events-none fixed inset-0 z-[100] grid place-items-center overflow-hidden bg-black/60 backdrop-blur-sm"
       initial={{ opacity: 1 }}
       animate={{ opacity: leaving ? 0 : 1 }}
       transition={{ duration: 0.6 }}
