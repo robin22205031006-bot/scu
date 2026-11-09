@@ -8,7 +8,7 @@ import { characterSeriesQuery, seriesQuery } from "@/lib/series";
 import { AbilityCardCanvas } from "@/components/ability-canvas";
 import { AbilityBadge } from "@/components/ability-badge";
 import { KineticText } from "@/components/kinetic-text";
-import { isFavorite, toggleFavorite } from "@/lib/favorites";
+import { isFavorite, toggleFavorite, onFavoritesChange } from "@/lib/favorites";
 import { useUiToggles } from "@/lib/ui-toggles";
 import { useAnimationsEnabled, setAnimationsEnabled } from "@/lib/animations";
 import { sfx } from "@/lib/scu-audio";
@@ -103,6 +103,16 @@ function CharacterDossier() {
   const [ctxSeason, setCtxSeason] = useState<string | null>(null);
   const [seasonIdx, setSeasonIdx] = useState(-1);
   const [descOpen, setDescOpen] = useState(false);
+  const [, setFavTick] = useState(0);
+  useEffect(() => onFavoritesChange(() => setFavTick((t) => t + 1)), []);
+  const stepChar = (dir: 1 | -1) => {
+    const list = allChars ?? [];
+    if (!list.length) return;
+    const i = list.findIndex((c) => c.id === id);
+    const next = list[(i + dir + list.length) % list.length]!;
+    sfx.pop();
+    void nav({ to: "/character", search: { e: next.id } });
+  };
 
   const { data: e, isError: entityError, error: entityErr } = useQuery({ ...entityByIdQuery(id ?? ""), enabled: !!id });
   // Auto-select first character when no ?e param — never show an empty dossier.
@@ -218,7 +228,7 @@ function CharacterDossier() {
       </span>
 
       {/* 3-COLUMN GRID */}
-      <div className="relative grid min-h-0 grid-cols-1 min-[860px]:grid-cols-[280px_minmax(0,1fr)_350px]">
+      <div className="relative grid min-h-0 grid-cols-1 min-[860px]:grid-cols-[240px_minmax(0,1fr)_clamp(150px,22vw,350px)]">
         {/* LEFT — series & season accordion */}
         <aside className="hidden min-h-0 flex-col border-r border-white/10 bg-black/50 p-3 min-[860px]:flex">
           {/* Character switcher */}
@@ -271,7 +281,9 @@ function CharacterDossier() {
             })}
           </div>
           <div className="mt-2 flex flex-col items-center gap-0.5 border-t border-white/10 pt-2 text-white/40">
-            <span>▲</span><span className="text-[8px] uppercase tracking-[0.3em]">Scroll</span><span>▼</span>
+            <button aria-label="Previous character" onClick={() => stepChar(-1)} className="px-3 hover:text-accent">▲</button>
+            <span className="text-[8px] uppercase tracking-[0.3em]">Scroll</span>
+            <button aria-label="Next character" onClick={() => stepChar(1)} className="px-3 hover:text-accent">▼</button>
           </div>
         </aside>
 
