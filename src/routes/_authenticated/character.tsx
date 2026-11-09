@@ -7,6 +7,7 @@ import { entityByIdQuery, notesQuery, type Entity } from "@/lib/entities";
 import { characterSeriesQuery, seriesQuery } from "@/lib/series";
 import { AbilityCardCanvas } from "@/components/ability-canvas";
 import { AbilityBadge } from "@/components/ability-badge";
+import { ElementalWallpaper, ELEMENT_LABEL, resolveElement } from "@/components/elemental-wallpaper";
 import { KineticText } from "@/components/kinetic-text";
 import { isFavorite, toggleFavorite, onFavoritesChange } from "@/lib/favorites";
 import { useUiToggles } from "@/lib/ui-toggles";
@@ -243,6 +244,8 @@ function CharacterDossier() {
     return <div className="grid min-h-screen place-items-center bg-[#020408] text-sm text-muted-foreground">Loading dossier…</div>;
   }
 
+  const element = resolveElement(e.abilities, activeSeason?.card_theme ?? e.card_theme);
+
   const scopedNotes = activeSeason?.series?.title
     ? cleanNotes.filter((n) => n.text.includes(activeSeason.series!.title))
     : cleanNotes;
@@ -250,6 +253,7 @@ function CharacterDossier() {
   return (
     // Full viewport height (not `fixed`): the page-transition wrapper's transform would collapse a fixed box to zero height.
     <div className="relative grid h-dvh w-full grid-rows-[auto_1fr] overflow-hidden bg-[#020408] text-foreground">
+      <ElementalWallpaper element={element} enabled={animOn} />
       {/* TOP HEADER */}
       <header className="relative z-20 flex items-center justify-between border-b border-white/10 bg-black/60 px-4 py-2 backdrop-blur-xl">
         <Link to="/" className="font-display text-sm tracking-[0.3em] text-accent">SCU</Link>
@@ -286,7 +290,7 @@ function CharacterDossier() {
         <span key={pos} className={`pointer-events-none absolute z-10 h-5 w-5 border-white/25 ${pos}`} />
       ))}
       <span className="pointer-events-none absolute left-4 top-[4.5rem] z-10 font-mono text-[9px] uppercase tracking-widest text-white/30">
-        SCU // {e.name.slice(0, 12).toUpperCase()} — {String(Math.max(seasonIdx + 1, 1)).padStart(2, "0")} / {String(Math.max(seasons.length, 1)).padStart(2, "0")}
+        SCU // {e.name.slice(0, 12).toUpperCase()} · {ELEMENT_LABEL[element].toUpperCase()} — {String(Math.max(seasonIdx + 1, 1)).padStart(2, "0")} / {String(Math.max(seasons.length, 1)).padStart(2, "0")}
       </span>
 
       {/* 3-COLUMN GRID */}
