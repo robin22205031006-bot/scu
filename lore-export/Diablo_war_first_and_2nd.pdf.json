@@ -1,0 +1,86 @@
+{
+  "file": "Diablo war first and 2nd.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Silas Duskmoor",
+      "alias": null,
+      "role": "Right hand of demon god Diablo",
+      "status": "Alive",
+      "description": "Member of the Duskmoor bloodline, an executioner known for spirit-infused blue flame.",
+      "quote": "Silas Duskmoor To dragons, he was ancestral nightmare. The Duskmoor bloodline carries spirit-infused blue flame. A legacy born from dragon betrayal and spirit vengeance."
+    },
+    {
+      "kind": "character",
+      "name": "Tedmond",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "Silas's father, a formidable warrior who once challenged Diablo.",
+      "quote": "Tedmond appeared in thay fight with out any invitation.his enterfearance made diablo shook!"
+    },
+    {
+      "kind": "character",
+      "name": "Dorian",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "A warrior who fought alongside Tedmond and eventually joined the Nullborn.",
+      "quote": "Dorian was not in his prime because he was only a kid back then.but his battle iq and potential he alongside eldrich and norman faught diablo and his army."
+    },
+    {
+      "kind": "character",
+      "name": "Eldrich",
+      "alias": null,
+      "role": "Team Leader",
+      "status": "Alive",
+      "description": "An Aldercrest wizard cursed into half-demonic existence who masked his magic with demonic aura.",
+      "quote": "It was eldrich who was the caster basically,before that eldrich was cursed by khalid making him half demonic."
+    },
+    {
+      "kind": "character",
+      "name": "Aeric",
+      "alias": null,
+      "role": "Weapon Forger",
+      "status": null,
+      "description": "A legendary figure known for forging powerful cursed weapons.",
+      "quote": "Another member who used that cursed weapon was none other than aeric.who is known for making cursed weapons."
+    },
+    {
+      "kind": "character",
+      "name": "Soa",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "A rare host of Athena's Judgement who died by suicide due to intense training pressure.",
+      "quote": "Soa was trained. Pressured. Burdened. She broke. Her suicide wasn’t just tragedy — it was the philosophical wound that shaped Dorian forever."
+    },
+    {
+      "kind": "organization",
+      "name": "Aldercrest",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "A clan known for arcane strategies and hosting the rare ability Athena's Judgement.",
+      "quote": "So after that war,when aldercrest learns soa has that athenas judgements ability,which choses it's host very rarely.so aldercrest tried to train her."
+    },
+    {
+      "kind": "organization",
+      "name": "Nullborn",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "A group that Dorian joined after the death of Soa.",
+      "quote": "After soas death,dorian had a very rough impact on his head and led him joining nullborn slowly."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "First Diablo Incursion",
+      "era": "The Era After Tedmond",
+      "description": "Tedmond interfered in a major war against Diablo, forcing the demon to retreat.",
+      "quote": "Tedmond appeared in thay fight with out any invitation.his enterfearance made diablo shook!and then we also see normans bravery and dorians madness too.yes!diablo had to fall back."
+    }
+  ]
+}

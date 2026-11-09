@@ -1,0 +1,65 @@
+{
+  "file": "Vanguard x (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Rifat",
+      "alias": null,
+      "role": "Trained soldier",
+      "status": "Alive",
+      "description": "A highly skilled soldier with exceptional physical strength who was captured by the DEW.",
+      "quote": "rifat is a trained soldier who actually trained his body that way that if that injury happened to any normal human,they would die.but he was still alive."
+    },
+    {
+      "kind": "character",
+      "name": "Anthony",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An entity whose essence was used as a parasite to control Rifat's brain.",
+      "quote": "and the parasite none other than the essence of ANTHONY!"
+    },
+    {
+      "kind": "character",
+      "name": "Ghost",
+      "alias": null,
+      "role": "Former DEW operative",
+      "status": null,
+      "description": "A former operative who served the DEW before realizing the organization was pathetic.",
+      "quote": "unlike ghost who served DEW and later finds out that DEW is pathetic,he understood it from the start."
+    },
+    {
+      "kind": "organization",
+      "name": "DEW",
+      "alias": null,
+      "role": "Military and intelligence organization",
+      "status": "Active",
+      "description": "A powerful organization that recruits skilled fighters and utilizes parasitic technology.",
+      "quote": "he was invited by the DEW for his skilled fighting and his brutal stength as human is actually very surprising."
+    },
+    {
+      "kind": "organization",
+      "name": "NULLBORN",
+      "alias": null,
+      "role": "Infiltrators",
+      "status": "Active",
+      "description": "A group that infiltrated the DEW and manipulated them into implanting a parasite.",
+      "quote": "in DEW there are some spy of NULLBORN.who are here with false intentions."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Mall Incident",
+      "era": null,
+      "description": "A violent confrontation where Rifat was brutally injured and subsequently captured by the DEW.",
+      "quote": "but at that mall incident he actually survived till the end.but end up dying..or brutally hit. but here is the fact,he was taken by DEW."
+    },
+    {
+      "title": "Implantation of the Parasite",
+      "era": null,
+      "description": "The DEW implanted the essence of Anthony into Rifat's brain to turn him into a puppet.",
+      "quote": "DEW knew he would deny,so they planted the parasyte in his brain.and the parasite none other than the essence of ANTHONY!"
+    }
+  ]
+}

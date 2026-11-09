@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "sdk_version": "3.4.0",
+  "path": "/mcp",
+  "auth": {
+    "type": "oauth",
+    "issuer": "https://apxjbxcwxuzudzywzyyw.supabase.co/auth/v1",
+    "accepted_audiences": [
+      "authenticated"
+    ]
+  },
+  "mcp": {
+    "server": {
+      "name": "screenshot-perfect",
+      "version": "0.1.0",
+      "title": "Screenshot Perfect"
+    },
+    "tools": [
+      {
+        "name": "list_entities",
+        "title": "List archive entries",
+        "description": "List SCU characters, organizations, clans, bloodlines or factions, optionally filtered by type or name.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "type": "string",
+              "enum": [
+                "character",
+                "organization",
+                "clan",
+                "bloodline",
+                "faction"
+              ],
+              "description": "Only this type of entry."
+            },
+            "search": {
+              "type": "string",
+              "maxLength": 100,
+              "description": "Part of a name to match."
+            }
+          },
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "get_entity",
+        "title": "Get dossier",
+        "description": "Get the full dossier of one archive entry, including its lore notes.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "format": "uuid",
+              "description": "Entry id from list_entities."
+            }
+          },
+          "required": [
+            "id"
+          ],
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "list_timeline",
+        "title": "List timeline",
+        "description": "List SCU timeline events in chronological order.",
+        "annotations": {
+          "readOnlyHint": true,
+          "idempotentHint": true,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {},
+          "additionalProperties": false
+        },
+        "outputSchema": null
+      },
+      {
+        "name": "add_lore_note",
+        "title": "Add lore note",
+        "description": "Append a lore note to an archive entry's dossier (admin only).",
+        "annotations": {
+          "readOnlyHint": false,
+          "destructiveHint": false,
+          "openWorldHint": false
+        },
+        "inputSchema": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "format": "uuid",
+              "description": "Entry id from list_entities."
+            },
+            "text": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 5000,
+              "description": "The lore to append."
+            }
+          },
+          "required": [
+            "id",
+            "text"
+          ],
+          "additionalProperties": false,
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "outputSchema": null
+      }
+    ]
+  }
+}

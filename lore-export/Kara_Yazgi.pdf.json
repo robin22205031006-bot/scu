@@ -1,0 +1,107 @@
+{
+  "file": "Kara Yazgi.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Anna",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "Guard of Kara Yazgı who was killed by Khalid when she failed to bring the sword.",
+      "quote": "in khalids stroy,she dies by the hands of khalid."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "Killer of Anna who was later defeated and killed by Ravenblade using Kara Yazgı.",
+      "quote": "Ravenblade kills Khalid using Kara Yazgı"
+    },
+    {
+      "kind": "character",
+      "name": "Aeric Valenheart",
+      "alias": "Aeric",
+      "role": null,
+      "status": null,
+      "description": "An ancient being trapped in a pocket dimension who originally forged Kara Yazgı.",
+      "quote": "The sword was originally made by Aeric Valenheart"
+    },
+    {
+      "kind": "character",
+      "name": "Ravenblade",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Warrior who survives the psychological demands of Kara Yazgı and kills Khalid.",
+      "quote": "Ravenblade uses Kara Yazgı to kill Khalid"
+    },
+    {
+      "kind": "character",
+      "name": "Samuel",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Character described as too reactive to hold Kara Yazgı.",
+      "quote": "Samuel → too reactive"
+    },
+    {
+      "kind": "character",
+      "name": "Vanguard",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Character described as too procedural to wield Kara Yazgı.",
+      "quote": "Vanguard → too procedural"
+    },
+    {
+      "kind": "character",
+      "name": "Yoshiko",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Character described as too strategic to wield Kara Yazgı.",
+      "quote": "Yoshiko → too strategic, not final"
+    },
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Character described as too chaotic to wield Kara Yazgı.",
+      "quote": "Elizah → too chaotic"
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Character described as too burdened by ideology to wield Kara Yazgı.",
+      "quote": "Zayn → too burdened by ideology"
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Forging of Kara Yazgı",
+      "era": null,
+      "description": "Aeric Valenheart creates the legendary sword Kara Yazgı as a failsafe weapon that exposes the truth of its wielder.",
+      "quote": "The sword was originally made by Aeric Valenheart"
+    },
+    {
+      "title": "Death of Anna",
+      "era": null,
+      "description": "Anna misjudges Khalid and is killed by him before her summoned sword Kara Yazgı can reach her.",
+      "quote": "Khalid kills Anna without Kara Yazgı"
+    },
+    {
+      "title": "Death of Khalid",
+      "era": null,
+      "description": "Ravenblade uses Kara Yazgı to kill Khalid, turning his own fear against him.",
+      "quote": "Ravenblade kills Khalid using Kara Yazgı"
+    }
+  ]
+}

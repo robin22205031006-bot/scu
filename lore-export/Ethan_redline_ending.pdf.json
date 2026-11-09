@@ -1,0 +1,23 @@
+{
+  "file": "Ethan redline ending.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": "Soldier",
+      "status": "Dead",
+      "description": "A soldier who dies on the battlefield, leaving behind a legacy of resilience and hope.",
+      "quote": "Reality returned. Cold. Merciless. The battlefield remained exactly where it had been. Broken earth. Ash. Blood. Silence. Ethan's body lay motionless."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Death of Ethan",
+      "era": null,
+      "description": "Ethan dies on a battlefield, experiencing a vision of his childhood self before passing away.",
+      "quote": "Reality returned. Cold. Merciless. The battlefield remained exactly where it had been. Broken earth. Ash. Blood. Silence. Ethan's body lay motionless."
+    }
+  ]
+}

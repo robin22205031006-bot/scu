@@ -1,0 +1,54 @@
+{
+  "file": "Docs All the institute of SCU.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Francisco",
+      "alias": "Nasab ibn Khalil",
+      "role": null,
+      "status": null,
+      "category": null,
+      "description": "Khalid's father, operating under the cover name Nasab ibn Khalil in Ottoman territory, sent with Ramiz to locate the Architect Cube in 1417.",
+      "quote": "Ramiz and Francisco — Khalid's father, operating under the cover name Nasab ibn Khalil in Ottoman territory — are sent to locate the Architect Cube."
+    },
+    {
+      "kind": "character",
+      "name": "Dirham",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "category": null,
+      "description": "Half-blind leader of the Forgotten Ones community outside Ottoman Istanbul.",
+      "quote": "Dirham, half-blind, and Abbas, one-legged, led this community."
+    },
+    {
+      "kind": "character",
+      "name": "Madhobi",
+      "alias": "Nytheris",
+      "role": null,
+      "status": null,
+      "category": null,
+      "description": "Introduced Issabela and Anthony to the Hidden Ones after the Rome cell collapse.",
+      "quote": "Madhobi (in-story name: Nytheris) introduced Issabela and Anthony to the Hidden Ones after the Rome collapse."
+    },
+    {
+      "kind": "organization",
+      "name": "Nullborn",
+      "alias": null,
+      "role": "Cross-faction rebellion and secret committee",
+      "status": "Active",
+      "category": "Organization",
+      "description": "The oldest active organization in the SCU's modern story, assembled in 1417 to ignore institutional rules and handle problems officials refused to touch.",
+      "quote": "Nullborn is the oldest active organization in the SCU's modern story. It was assembled in 1417, and the reason it was founded tells you everything about how this universe works: the people and institutions that were supposed to protect the world had rules. Nullborn was built specifically to ignore those rules."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Nullborn Assembly",
+      "era": "15th Century",
+      "description": "Nullborn is assembled in 1417 as a cross-faction rebellion to ignore rules and handle problems officials refused to touch.",
+      "quote": "Nullborn is the oldest active organization in the SCU's modern story. It was assembled in 1417, and the reason it was founded tells you everything about how this universe works: the people and institutions that were supposed to protect the world had rules. Nullborn was built specifically to ignore those rules."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "file": "Dragons and their cons.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Silas Duskmoor",
+      "alias": null,
+      "role": "Dragon hunter",
+      "status": "Legend",
+      "description": "A legendary hunter whose divine blue flame served as the ultimate weapon to purify demonic corruption from dragons.",
+      "quote": "Silas Duskmoor’s divine blue flame = the dragons’ bane. It purified their demonic corruption."
+    },
+    {
+      "kind": "character",
+      "name": "Azwain",
+      "alias": "Prince",
+      "role": "Heir to the wolf-kingdom",
+      "status": "Alive",
+      "description": "A disciplined prince struggling with his father's legacy and the wolf-kingdom's pack instincts.",
+      "quote": "Prince, polished, royalty-trained, heir to the wolf-kingdom. Grumpy, disciplined, but emotionally tied to his father’s legacy."
+    },
+    {
+      "kind": "character",
+      "name": "Azwar",
+      "alias": null,
+      "role": "Tribal wolf",
+      "status": "Alive",
+      "description": "A raw, tribal wolf fated to be the rival and potential killer of the wolf king and his pack.",
+      "quote": "Tribal wolf, raw, ordinary in appearance, no royal etiquette. The twist: destiny marks him as the killer of Azwain’s father and his pack."
+    },
+    {
+      "kind": "organization",
+      "name": "Duskmoor clan",
+      "alias": null,
+      "role": "Dragon hunters",
+      "status": "Active",
+      "description": "A group of specialized hunters dedicated to the destruction of colossal beasts and the culling of dragons.",
+      "quote": "Enter Duskmoor clan → dragon hunters, slayers of colossal beasts."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Jessy’s Betrayal Era",
+      "era": "Pre-Separation",
+      "description": "Dragons manipulated Jessy’s rage to incite genocide, hoping to dismantle the established balance of the beast realm.",
+      "quote": "When humans and allied races turned against Jessy → dragons saw their chance. While Jessy’s rage boiled, dragons fueled her fire, whispering and nudging, turning her grief into genocide potential."
+    },
+    {
+      "title": "The Separation",
+      "era": "Separation",
+      "description": "Dragons attempted to infiltrate the human realm by taking human form, but lower dragons were exposed and culled by hunters.",
+      "quote": "When the Separation happened, dragons saw opportunity: Humans trapped in their own realm. Other races blocked out. Perfect time to sneak in and dominate the weakest species."
+    }
+  ]
+}

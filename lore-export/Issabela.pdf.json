@@ -1,0 +1,65 @@
+{
+  "file": "Issabela.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Piedro",
+      "alias": null,
+      "role": "Beggar-turned-renegade",
+      "status": "Alive",
+      "category": "Anti-Hero",
+      "description": "A beggar-turned-renegade corrupted by Anna's stolen sword who later reforms and marries Issabela.",
+      "quote": "The thief? A beggar-turned-renegade: Piedro."
+    },
+    {
+      "kind": "character",
+      "name": "Madhobi",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "category": "Support",
+      "description": "Takes in Issabela and Anthony, introducing them to The Hidden Ones.",
+      "quote": "They are taken in by Madhobi, who introduces them to The Hidden Ones — Zaan’s surviving spiritual order."
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "issabela",
+      "new_facts": "Demoted from leadership of the Nullborn, spared Piedro, married him, and retired from fighting to hide and guard Anna's sacred sword.",
+      "status": "Retired",
+      "quote": "Issabela finally retires, letting go of the blade, the mask, and the shadows."
+    },
+    {
+      "existing_name": "anthony",
+      "new_facts": "Former elite who served under Anna; saved Issabela and rebuilt the Nullborn under Anna's strict ideology after executing its puppet leader.",
+      "status": "Alive",
+      "quote": "Anthony — a former elite who once served under Anna."
+    },
+    {
+      "existing_name": "Nullborn",
+      "new_facts": "Infiltrated and controlled by the Borgia before being rebuilt by Anthony as a ruthless organization operating under Anna's cold ideology.",
+      "status": "Active",
+      "quote": "With loyal survivors and Anna’s disciples, he rebuilds the Nullborn — not with mercy, but with Anna’s cold ideology"
+    },
+    {
+      "existing_name": "Hidden Ones",
+      "new_facts": "Zaan's surviving spiritual order who took in Issabela and Anthony.",
+      "status": "Active",
+      "quote": "The Hidden Ones — Zaan’s surviving spiritual order."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "Demotion of Issabela",
+      "era": null,
+      "description": "Issabela is stripped of her leadership of the Nullborn following the Khalid tragedy.",
+      "quote": "After the Khalid tragedy, Issabela is demoted as leader of the Nullborn."
+    },
+    {
+      "title": "Rebuilding of the Nullborn",
+      "era": "Modern times",
+      "description": "Anthony assassinates the Borgia puppet leader and rebuilds the Nullborn into a relentless force following Anna's uncompromising doctrine.",
+      "quote": "The Nullborn in modern times — feared, relentless, emotionless — are born not from evil, but from righteous vengeance turned rigid law."
+    }
+  ]
+}

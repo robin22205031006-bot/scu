@@ -1,0 +1,101 @@
+{
+  "file": "The start and the end (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Jessy",
+      "alias": "Asetra",
+      "role": "Balance bearer",
+      "status": "Alive",
+      "description": "A human-born girl with divine balance powers chosen by spirits, who was betrayed and sealed, and later hijacked Shina's body to seek the eradication of human civilization.",
+      "quote": "Then came Jessy/Asetra: a girl too powerful, too different. She hadn’t harmed anyone, but her existence terrified them."
+    },
+    {
+      "kind": "character",
+      "name": "Azwar",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An inhabitant of the world on the other side of the barrier representing the truth of the losers.",
+      "quote": "Azwar and Azwain’s world is literally the truth on the other side of the barrier."
+    },
+    {
+      "kind": "character",
+      "name": "Azwain",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An inhabitant of the world on the other side of the barrier whose saga is a rebellion against the lie.",
+      "quote": "Azwar and Azwain’s world is literally the truth on the other side of the barrier."
+    },
+    {
+      "kind": "character",
+      "name": "Shina",
+      "alias": null,
+      "role": "Host",
+      "status": null,
+      "description": "Her body was hijacked by Jessy because her physical form was strong enough to host her soul.",
+      "quote": "So she hijacked Shina’s body, which was strong enough to host her."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Unsealed Jessy when her soul had no body left to return to.",
+      "quote": "When Khalid unsealed her, her soul had no body left to return to."
+    },
+    {
+      "kind": "character",
+      "name": "Tamim",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Received the Cube from Jubayer, opened the portal linking universes, and delivered the Cube to his present-day counterpart.",
+      "quote": "Jubayer later realizes Jessy is the culprit, ambushes her, and steals the Cube — passing it to Tamim. Tamim opens the portal that links universes and delivers the Cube to his present-day counterpart."
+    },
+    {
+      "kind": "character",
+      "name": "Marufa",
+      "alias": null,
+      "role": "Balance bearer",
+      "status": "Alive",
+      "description": "Present-day counterpart who receives the Cube and uses it to nullify Jessy's ancient magic and tear down the barriers.",
+      "quote": "Marufa uses it not to destroy, but to nullify all of Jessy’s ancient magic, which resets nothing but instead tears down the barrier — revealing the hidden realms."
+    },
+    {
+      "kind": "organization",
+      "name": "Nine Clans",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "Clans founded from the myth of sealing Jessy, later divided by ability and ruling the human empire with oppression.",
+      "quote": "That became the founding myth of the Nine Clans. The Aftermath — Human Empire Clans divided by ability, basking in victory."
+    },
+    {
+      "kind": "organization",
+      "name": "Demon clan",
+      "alias": null,
+      "role": null,
+      "status": "Inactive",
+      "description": "The first clan subjected to genocide when humans manipulated the narrative and convinced other clans to wipe them out entirely.",
+      "quote": "They convinced the other clans to wipe the demon clan out entirely. The first genocide."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Beginning - Harmony",
+      "era": "The Beginning",
+      "description": "Humans were the weakest species yet teachable and equal, sharing gifts with elves, witches, beasts, and spirits.",
+      "quote": "Humans were the weakest species, yet the most teachable. Elves, witches, beasts, spirits — they didn’t look down on them. They saw them as equals, even shared their gifts."
+    },
+    {
+      "title": "The Fall - Arrogance & Suspicion",
+      "era": "The Fall",
+      "description": "Humans mastered all forms of magic and arts, believing themselves masters, and grew suspicious of the powerful girl Jessy.",
+      "quote": "They climbed too fast, and started believing they weren’t students anymore but masters. Then came Jessy/Asetra: a girl too powerful, too different."
+    }
+  ]
+}

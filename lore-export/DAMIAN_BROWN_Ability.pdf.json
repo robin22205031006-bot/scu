@@ -1,0 +1,43 @@
+{
+  "file": "DAMIAN BROWN Ability.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Damian Brown",
+      "alias": null,
+      "role": "Strategic Mage | Battlefield Controller | Calm Executioner",
+      "status": "Alive",
+      "description": "A calculated, calm, and disciplined high-tier arcane specialist trained by Eldrich Aldercrest.",
+      "quote": "Damian calculates. PHASE 1 — PRIMARY ABILITIES (Before Eldrich) (White-picture tier: innate magical alignment) Damian is naturally compatible with magic, even before learning it."
+    },
+    {
+      "kind": "character",
+      "name": "Eldrich Aldercrest",
+      "alias": null,
+      "role": "Mentor",
+      "status": null,
+      "description": "Catalyst mentor who teaches Damian structure, restraint, and consequence.",
+      "quote": "Liam / Eldrich Aldercrest doesn’t just teach Damian spells. He teaches him structure, restraint, and consequence."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A character who explodes when pushed, contrasting with Damian's calculated nature.",
+      "quote": "Zayn explodes when pushed. Damian calculates."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Mentioned in relation to a comparison of discipline versus demonic will.",
+      "quote": "Damian vs Khalid (discipline vs demonic will)"
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

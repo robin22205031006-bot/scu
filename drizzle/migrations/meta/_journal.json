@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794185817311,
+      "tag": "0000_import_scu_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794186126137,
+      "tag": "0001_vault_storage_policies",
+      "breakpoints": true
+    }
+  ]
+}

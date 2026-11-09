@@ -1,0 +1,12 @@
+[
+{"capability":"code+pages","source":"code archive","outcome":"migrate","status":"verified","next_action":"none"},
+{"capability":"schema (24 tables, roles, RLS, functions)","source":"supabase-*.sql files","outcome":"migrate","status":"verified","next_action":"none"},
+{"capability":"lore records (174 entries, 115 timeline events)","source":"bundled lore-export","outcome":"migrate","status":"verified","next_action":"none"},
+{"capability":"other records (posts, comments, series, map, episodes, abilities, settings)","source":"old backend","outcome":"migrate","status":"pending","next_action":"user exports CSV/JSON"},
+{"capability":"users + profiles + roles","source":"old backend","outcome":"migrate","status":"pending","next_action":"user exports users; admin email auto-granted on signup"},
+{"capability":"vault file bytes","source":"old backend storage","outcome":"migrate","status":"pending","next_action":"bucket created; re-upload files"},
+{"capability":"Gemini AI (GOOGLE_API_KEY)","source":"Google AI","outcome":"preserve","status":"pending","next_action":"user adds key via secure form"},
+{"capability":"Android shell (Capacitor)","source":"repo","outcome":"preserve","status":"done","next_action":"update APP_URL after publish"},
+{"capability":"signed-in verification","source":"-","outcome":"verify","status":"pending","next_action":"needs a confirmed account"},
+{"capability":"pre-existing failing tests (4, Gemini extraction)","source":"source repo","outcome":"preserve","status":"pending","next_action":"also fail in original; part of open Gemini roadmap task"}
+]

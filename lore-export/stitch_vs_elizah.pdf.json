@@ -1,0 +1,65 @@
+{
+  "file": "stitch vs elizah.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": null,
+      "role": "Protector of Ethan",
+      "status": "Alive",
+      "description": "Ethan's alter ego and defense mechanism born from trauma; he possesses violent wind powers and acts with extreme brutality against oppressors.",
+      "quote": "Elizah directly went for stitch and he beaten him brutally..didn't kill him.where elizah was almost killing him."
+    },
+    {
+      "kind": "character",
+      "name": "Vanguard",
+      "alias": "Rifat",
+      "role": "Experimented soldier",
+      "status": "Alive",
+      "description": "A soldier experimented upon by DEW who shares the same traumatic history of torture as Ethan.",
+      "quote": "When Ethan was captured, you said he was in one cell and Vanguard (Rifat) was being experimented in the next room."
+    },
+    {
+      "kind": "character",
+      "name": "Covenant Leader",
+      "alias": null,
+      "role": "Leader of the Covenant",
+      "status": "Alive",
+      "description": "A cold, formal man who considers his subordinates disposable and personally executes Stitch.",
+      "quote": "he is basically the leader of covenant and now we see a scene where we see vanguard was watching all these.and then walk aways."
+    },
+    {
+      "kind": "organization",
+      "name": "Sentinels",
+      "alias": "OG Sentinels",
+      "role": "Heroes",
+      "status": "Active",
+      "description": "A team of heroes led by Samuel that fights against Stitch and his forces.",
+      "quote": "the og sentinels get together too.where,samuel ,ravenblade ,aariz,saya they were in a fight with stitch."
+    },
+    {
+      "kind": "faction",
+      "name": "Covenant",
+      "alias": null,
+      "role": "Organization",
+      "status": "Active",
+      "description": "A powerful organization led by a man who treats his subordinates as disposable tools.",
+      "quote": "he is basically the leader of covenant and now we see a scene where we see vanguard was watching all these.and then walk aways."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Elizah vs Stitch",
+      "era": "Season 2 ending to early Season 3",
+      "description": "Elizah brutalizes Stitch during a battle with the Sentinels but is stopped from killing him by Samuel.",
+      "quote": "Elizah directly went for stitch and he beaten him brutally..didn't kill him.where elizah was almost killing him."
+    },
+    {
+      "title": "The Execution of Stitch",
+      "era": "Season 2 ending to early Season 3",
+      "description": "After being left injured and crawling from the battle, Stitch is confronted and murdered by the leader of the Covenant.",
+      "quote": "he is basically the leader of covenant and now we see a scene where we see vanguard was watching all these.and then walk aways."
+    }
+  ]
+}

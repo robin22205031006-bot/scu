@@ -1,0 +1,92 @@
+{
+  "file": "zayn and elizah (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "A warrior who killed his father Agnus, leaving him emotionally drained and exhausted, yet remaining defiant against the corrupted agency.",
+      "quote": "his father.who is a greater in power.also killing his own father makes him emotionally tired too. there we see after the great fight zayn was captured by the corrupted agency"
+    },
+    {
+      "kind": "character",
+      "name": "Agnus",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "Zayn's father, described as a man of great power, who was ultimately killed by his son.",
+      "quote": "after agnus and zayn fight where zayn ends agnus.his father.who is a greater in power."
+    },
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": "Leader",
+      "status": "Dead",
+      "description": "The former leader of the Sentinels who died misunderstood and betrayed at the end of Season 1.",
+      "quote": "Season 1 ends with Ethan dying misunderstood and betrayed."
+    },
+    {
+      "kind": "character",
+      "name": "Nur",
+      "alias": null,
+      "role": "Student",
+      "status": "Alive",
+      "description": "One of Ethan's two students who participated in the fight against Elizah.",
+      "quote": "the broken sentinels in season 2 partially fights him.including ethans two student.nur and Aariz."
+    },
+    {
+      "kind": "character",
+      "name": "Aariz",
+      "alias": null,
+      "role": "Student",
+      "status": "Alive",
+      "description": "One of Ethan's two students who participated in the fight against Elizah.",
+      "quote": "the broken sentinels in season 2 partially fights him.including ethans two student.nur and Aariz."
+    },
+    {
+      "kind": "character",
+      "name": "David",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "Zayn's brother, whom Zayn fought to save from the corrupted agency.",
+      "quote": "zayn and saved his brother david and faught yet!he was tired,injured from his previous fight."
+    },
+    {
+      "kind": "character",
+      "name": "Niharo",
+      "alias": null,
+      "role": "Sentinel",
+      "status": "Alive",
+      "description": "A hero serving the new, corrupted Sentinels under the authority.",
+      "quote": "the new sentinels by the authority.where we see niharo and more heros from new sentinels who are not saint like the og sentinels"
+    },
+    {
+      "kind": "organization",
+      "name": "Sentinels",
+      "alias": "OG Sentinels",
+      "role": "Defenders",
+      "status": "Inactive",
+      "description": "The original group of heroes, contrasted against the new corrupted versions.",
+      "quote": "new sentinels who are not saint like the og sentinels!they were brutal and dark."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Rise of Elizah",
+      "era": "Season 2",
+      "description": "Following Ethan's death, Elizah emerges as a brutal, solo operator who defies the established authority.",
+      "quote": "Season 2 opens with Elizah — the embodiment of that pain — rising from his ashes."
+    },
+    {
+      "title": "The Confrontation of Zayn",
+      "era": "Season 2",
+      "description": "Exhausted after killing his father, Zayn faces the new Sentinels alone until Elizah intervenes to save him.",
+      "quote": "Elizah interfared!holding the heavy sword of blow with only one hand and with another hand he offered the ciggerate to zayn."
+    }
+  ]
+}

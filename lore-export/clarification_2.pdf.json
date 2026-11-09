@@ -1,0 +1,142 @@
+{
+  "file": "clarification 2.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Nyxia chooses revenge without losing control, acting closer to an executioner than a monster.",
+      "quote": "Nyxia choosing revenge without losing control — why this matters Up until now, power in your universe has followed this rule: Emotion → loss of control → catastrophe"
+    },
+    {
+      "kind": "character",
+      "name": "Asetra",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A figure whose worldview cracks when Nyxia kills Alter David without losing balance.",
+      "quote": "Asetra Khalid Alter Ethan Even early Nyxia arcs Now you’re breaking that rule."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A figure whose justification collapses after Alter David's death.",
+      "quote": "Asetra’s worldview cracks Khalid’s justification collapses Niharo’s logic weakens"
+    },
+    {
+      "kind": "character",
+      "name": "Alter David",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A character whose worldview involves believing restraint is weakness, emotion is leverage, and kindness is manipulation.",
+      "quote": "Alter David believes: restraint is weakness emotion is leverage kindness is manipulation"
+    },
+    {
+      "kind": "character",
+      "name": "Yoshiko",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A female character whose earlier death can give Nyxia's revenge clarity born from loss.",
+      "quote": "If Yoshiko dies earlier: Nyxia’s revenge is not rage It’s clarity born from loss"
+    },
+    {
+      "kind": "character",
+      "name": "Grace",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "One of the women in the universe who survives quietly and cleans up after wars.",
+      "quote": "Nyxia Yoshiko Grace Nilanjona Ravenblade Even Arzuna (from the other side)"
+    },
+    {
+      "kind": "character",
+      "name": "Nilanjona",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "One of the resilient female characters in the universe.",
+      "quote": "Nyxia Yoshiko Grace Nilanjona Ravenblade Even Arzuna (from the other side)"
+    },
+    {
+      "kind": "character",
+      "name": "Ravenblade",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "One of the women in the universe who carries emotional aftermath.",
+      "quote": "Nyxia Yoshiko Grace Nilanjona Ravenblade Even Arzuna (from the other side)"
+    },
+    {
+      "kind": "character",
+      "name": "Arzuna",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A female character noted as being from the other side.",
+      "quote": "Nyxia Yoshiko Grace Nilanjona Ravenblade Even Arzuna (from the other side)"
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A male character occupied elsewhere dealing with cosmic-level threats or ideological war.",
+      "quote": "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war"
+    },
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A male character dealing with cosmic-level threats or ideological war.",
+      "quote": "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war"
+    },
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A male character occupied elsewhere during Season 5.",
+      "quote": "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war"
+    },
+    {
+      "kind": "character",
+      "name": "Corvani",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A male character occupied elsewhere during Season 5.",
+      "quote": "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war"
+    },
+    {
+      "kind": "character",
+      "name": "Arashi",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A male character dealing with cosmic-level threats or ideological war.",
+      "quote": "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war"
+    },
+    {
+      "kind": "character",
+      "name": "Niharo",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Source of a cosmic-level threat and whose logic weakens when Nyxia kills Alter David.",
+      "quote": "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war"
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

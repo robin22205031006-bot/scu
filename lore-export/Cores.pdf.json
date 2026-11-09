@@ -1,0 +1,25 @@
+{
+  "file": "Cores.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Duskmoor",
+      "alias": null,
+      "role": "Judgment-born figure",
+      "status": "Alive",
+      "description": "A hybrid child raised by spirits who carries the gene memory to end dragons.",
+      "quote": "He was named Duskmoor: Moonlight carried through darkness. Not rage-born. Not power-hungry. Judgement-born."
+    },
+    {
+      "kind": "bloodline",
+      "name": "Duskmoors",
+      "alias": null,
+      "role": "Dragon-enders",
+      "status": "Active",
+      "description": "A lineage formed from the collision of spirit morality, human adaptability, and dragon arrogance.",
+      "quote": "Duskmoors are not dragon-slayers by training. They are dragon-enders by origin. They are what happens when: ● spirit morality ● human adaptability ● and dragon arrogance collide into one lineage."
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

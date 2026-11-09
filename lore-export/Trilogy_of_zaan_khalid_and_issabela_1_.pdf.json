@@ -1,0 +1,80 @@
+{
+  "file": "Trilogy of zaan, khalid and issabela (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Zaan al-Murad",
+      "alias": "The Cursed Prodigy",
+      "role": "Scientist and cursed protagonist",
+      "status": "Alive",
+      "description": "A brilliant, tortured genius attempting to reverse death whose life is defined by tragedy and betrayal.",
+      "quote": "Zaan al-Murad (nickname: The Cursed Prodigy) Age: 26 Appearance: Once considered the most handsome man of his generation. Tall, sharp-jawed, with intense eyes."
+    },
+    {
+      "kind": "character",
+      "name": "Shina Nasrin",
+      "alias": null,
+      "role": "Zaan's companion",
+      "status": "Dead",
+      "description": "An abandoned woman who shared a profound, wordless love with Zaan.",
+      "quote": "Shina Nasrin Age: 24 Appearance: Milk-white skin, long black hair, naturally beautiful, with soft expressive features."
+    },
+    {
+      "kind": "character",
+      "name": "Ayesha Khatoon",
+      "alias": "Grandma Ayesha",
+      "role": "Matriarch figure and caretaker",
+      "status": "Dead",
+      "description": "A wise, partially blind woman who provided refuge to the outcasts.",
+      "quote": "Grandma Ayesha Full Name: Ayesha Khatoon Age: 75 Appearance: Wrinkled, aged, with a kind face. One eye fully blind, another blurry."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": "Nullborn recruit",
+      "status": "Alive",
+      "description": "A young man grappling with the dark legacy of his father and his identity as a survivor.",
+      "quote": "Khalid. He opened the door without a word. The scene outside was one of fury."
+    },
+    {
+      "kind": "organization",
+      "name": "Imperial Institute of Advanced Sciences",
+      "alias": null,
+      "role": "Elite academic institution",
+      "status": "Active",
+      "description": "A prestigious institution in Hayrabad where Zaan and Raisa engaged in advanced studies.",
+      "quote": "Among the most prestigious of these institutions was The Imperial Institute of Advanced Sciences — a place where only the brightest, most privileged minds dared to enter."
+    },
+    {
+      "kind": "organization",
+      "name": "Ottoman Guards",
+      "alias": null,
+      "role": "Law enforcement",
+      "status": "Active",
+      "description": "The military arm of the empire, enforcing imperial law through violence and fear.",
+      "quote": "Represent law, order, and silence. They aren’t entirely evil—but they are products of a broken empire trying to retain control."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Resurrection Experiment",
+      "era": "1904",
+      "description": "Zaan and Raisa attempt a forbidden scientific ritual to revive a corpse, resulting in Zaan's death and miraculous return.",
+      "quote": "Zaan’s body jerked violently. His burnt chest heaved once. Twice. Then— His eyes opened."
+    },
+    {
+      "title": "The Slaughter at the Village",
+      "era": null,
+      "description": "The villagers, manipulated by rumors, kill Shina and Grandma Ayesha, driving Zaan into a vengeful rage.",
+      "quote": "The door shattered. Villagers flooded in. Torches scorched the walls. Shina backed up, terrified, as spears pointed at her womb."
+    },
+    {
+      "title": "Nasab's Assassination",
+      "era": "15th Century",
+      "description": "Nasab ibn Khalil is murdered in his home by masked assassins, prompting the flight of his family.",
+      "quote": "SHINK! A blade pierced straight through Nasab’s chest from behind. He gasped. Blood poured from his mouth."
+    }
+  ]
+}

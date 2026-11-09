@@ -1,0 +1,137 @@
+{
+  "file": "s1 roadmap.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Grace",
+      "alias": null,
+      "role": "Healer",
+      "status": "Alive",
+      "description": "A former romantic interest of Ethan who has a healing ability and provides support to the team.",
+      "quote": "grace was one of the fans of that couple.later while ethan and Grace starts talking as friends.she learns that ethan and nila are already separated."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": "Sentinel Member",
+      "status": "Alive",
+      "description": "Ethan's childhood best friend with the ability to control lightning.",
+      "quote": "then zayn says he also has ability,lightning.and then ethan first learns that there are people like him having ability."
+    },
+    {
+      "kind": "character",
+      "name": "Xinea",
+      "alias": null,
+      "role": "Leader of the Sentinels",
+      "status": "Alive",
+      "description": "A member of the Sentinels who eventually leads the team and possesses cosmic-like powers.",
+      "quote": "then we see xinea was not ethans type.but some how they became friends and slowly they fall for each other."
+    },
+    {
+      "kind": "character",
+      "name": "Samuel",
+      "alias": null,
+      "role": "Solo Vigilante",
+      "status": "Alive",
+      "description": "A highly skilled martial artist and former friend of Xinea who joins DEW and operates as a brutal vigilante.",
+      "quote": "samuel becomes more angry at ethan,cause his dreams of joining sentinels to help people was destroyed by ethan and the same guy whok was xinea with."
+    },
+    {
+      "kind": "character",
+      "name": "David",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "A mysterious individual who uses daggers to open portals and possesses knowledge of alternate realities.",
+      "quote": "he was dancing in the rain,holding a dagger and then a psychopathic brutal fight begins.he dances and kills those people who wants to kill him a dark alley"
+    },
+    {
+      "kind": "character",
+      "name": "Maliha",
+      "alias": null,
+      "role": "Healer",
+      "status": "Alive",
+      "description": "A healer who is closely linked to David and joins the Sentinels.",
+      "quote": "that was david and maliha intro after that we see maliha is healing his injury.(reaviling both their abilities)"
+    },
+    {
+      "kind": "character",
+      "name": "Victor",
+      "alias": null,
+      "role": "Head of ECAP",
+      "status": "Alive",
+      "description": "The leader of the ECAP organization who recruits Ethan.",
+      "quote": "stitch- meet the head of ecap,Victor."
+    },
+    {
+      "kind": "character",
+      "name": "Stitch",
+      "alias": null,
+      "role": "ECAP Operative",
+      "status": "Alive",
+      "description": "A recruiter and operative for ECAP who acts as a mentor to Ethan.",
+      "quote": "Stitch-Don't be shocked,ethan.get used to this place."
+    },
+    {
+      "kind": "character",
+      "name": "Ayaan",
+      "alias": null,
+      "role": "Tech Specialist",
+      "status": "Alive",
+      "description": "A tech-focused individual who provides critical information regarding the Architect Cube.",
+      "quote": "ayaan is someone like Tony starc from mcu.he is all about techs.and then the sentinels calls him to hq."
+    },
+    {
+      "kind": "character",
+      "name": "Asetra",
+      "alias": null,
+      "role": "Antagonist",
+      "status": "Missing",
+      "description": "A powerful being capable of magic who manipulates heroes and causes conflicts across universes.",
+      "quote": "asetra is a very powerful being and at that universe.somehow they heroes knew her existance and the story."
+    },
+    {
+      "kind": "organization",
+      "name": "Sentinels",
+      "alias": null,
+      "role": "Vigilante Team",
+      "status": "Active",
+      "description": "A team organized by ECAP to protect people from those who abuse their abilities.",
+      "quote": "then they gave it the name of sentinels.where basically sentinels is a new org, runs by ecap."
+    },
+    {
+      "kind": "organization",
+      "name": "DEW",
+      "alias": null,
+      "role": "Shadow Operatives",
+      "status": "Active",
+      "description": "A hidden organization focused on training special, brutal soldiers for shadow missions.",
+      "quote": "later samuel joins dew,and then we get to learn it is basically a hidden org,which focuses on very well trained and special soldiers."
+    },
+    {
+      "kind": "organization",
+      "name": "Nullborn",
+      "alias": "Nullborn cult",
+      "role": "Unknown",
+      "status": "Active",
+      "description": "A mysterious cult-like organization associated with the Architect Cube.",
+      "quote": "Valeria is in nullborn.the exact org ayaan knew that knows about cube.and that org isn't a good org."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Rise of the Sentinels",
+      "era": "Season 1",
+      "description": "Ethan is recruited by ECAP and forms the Sentinels alongside Zayn and Xinea.",
+      "quote": "then they gave it the name of sentinels.where basically sentinels is a new org, runs by ecap. later Ethan immdiately calls zayn.his childhood best friend."
+    },
+    {
+      "title": "The Cube Incident",
+      "era": "Season 1",
+      "description": "A powerful reality-altering object known as the Architect Cube causes conflict between realities, leading to the death of Ethan and the arrival of an alternate version.",
+      "quote": "this earth contains a very powerful Element called Architect cube. and the research by him says,several orgs,and some well knowned bloodline used to protect this cube by guardianship."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "file": "Grace vs Arzuna.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Maliha",
+      "alias": "little medic",
+      "role": "healer",
+      "status": "Alive",
+      "description": "A healer who was attacked by Arzuna and rescued by Grace.",
+      "quote": "Maliha lifts a trembling hand, forming a small shimmer of healing light. It fizzles."
+    },
+    {
+      "kind": "character",
+      "name": "Arzuna",
+      "alias": null,
+      "role": "antagonist",
+      "status": "Alive",
+      "description": "A powerful, vengeful individual who feels abandoned by Grace and seeks to punish her.",
+      "quote": "She rushes again, faster than the eye can follow — knee to ribs, elbow to jaw"
+    },
+    {
+      "kind": "character",
+      "name": "Grace",
+      "alias": "angel",
+      "role": "protagonist",
+      "status": "Alive",
+      "description": "A powerful being who wields energy and possesses the golden Locket of Aldercrest.",
+      "quote": "The LOCKET OF ALDERCREST ignites—light bursting through the rain. Her blindfold burns away. The LEFT EYE snaps open—GOLD, radiant and alive."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Night of the Golden Eye",
+      "era": null,
+      "description": "Grace confronts Arzuna on a mall rooftop to rescue Maliha, unleashing her full power.",
+      "quote": "Grace bursts through the exit door—breathless, soaked, eyes wide. Across the rooftop, ARZUNA crouches over MALIHA, whose body lies limp in a puddle of rain and blood."
+    }
+  ]
+}

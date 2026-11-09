@@ -1,0 +1,26 @@
+{
+  "file": "Silas death (1).pdf",
+  "entities": [],
+  "updates": [
+    {
+      "existing_name": "Rowan",
+      "new_facts": "Rowan is recognized as the physically strongest Sentinel, capable of wielding the heavy Duskmoor chain as a weapon. He defeated a weakened Silas in combat and later struggled to carry Silas's body due to the weight of his grief.",
+      "status": "Alive",
+      "quote": "Rowan is called the physically strongest sentinel.Who could carry the chain and use it like a lightweight weapon,but in reality it was too heavy for even for sentinel. That strong rowan asked others to help him carry silas dead body."
+    },
+    {
+      "existing_name": "Arthur",
+      "new_facts": "Arthur is a pure, exceptional dragon and an ancestral enemy of the Duskmoor bloodline. He killed a weakened Silas Duskmoor to complete his mission.",
+      "status": "Alive",
+      "quote": "Arthur is a pure dragon and as you know he is exceptional dragon.And on the other hand silas was sick and also had a great fight with rowan.He couldn't survive arthur."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "The Death of Silas Duskmoor",
+      "era": null,
+      "description": "After being defeated by his student Rowan due to an internal sickness, Silas Duskmoor was killed in battle by the dragon Arthur.",
+      "quote": "when silas dies at the hand of Arthur.while before that when silas wanted to end nyxia,his own student and blood rowan fought him and defeated him."
+    }
+  ]
+}

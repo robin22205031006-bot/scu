@@ -1,0 +1,89 @@
+{
+  "file": "First season structure (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": "Sky Guardian Candidate",
+      "role": "Leader of the Sentinels",
+      "status": "Alive",
+      "description": "A leader who values empathy over raw power, framed by an agency for his perceived weakness to facilitate their experiments.",
+      "quote": "Ethan isn’t the unstoppable prodigy — he’s a leader who people don’t understand. He doesn’t win by might; he holds everyone together through empathy, vision, and heart."
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": null,
+      "role": "Sentinel",
+      "status": "Alive",
+      "description": "A member of the Sentinels who supported Ethan during his public trial and faced persecution for her loyalty.",
+      "quote": "And when Nyxia defends him, and they target her too, Ethan’s rage finally breaks his restraint."
+    },
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": null,
+      "role": "Manifestation of Ethan's suppressed dark lineage",
+      "status": "Alive",
+      "description": "The dangerous, dark personality emerging from Ethan's bloodline, representing pride and rage.",
+      "quote": "Elizah appears fully and we see a black- dark red crack into the whole white cell and camera doesn't show who he was. only shows the guards are brutally kiled and down to the floor."
+    },
+    {
+      "kind": "character",
+      "name": "Zaan",
+      "alias": null,
+      "role": "Ancestor",
+      "status": "Dead",
+      "description": "A bloodline ancestor who used blood techniques for life-based, scientific, and spiritual purposes.",
+      "quote": "Zaan’s art was still blood-based, but his use of it was scientific and spiritual—he treated blood as the essence of life and transformation, not a demonic weapon."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": "Ancestor",
+      "status": "Dead",
+      "description": "An ancestor whose bloodline art was corrupted toward domination and destruction.",
+      "quote": "Khalid corrupted the same root art, bending it toward domination and destruction."
+    },
+    {
+      "kind": "organization",
+      "name": "Sentinels",
+      "alias": null,
+      "role": "Hero group",
+      "status": "Inactive",
+      "description": "A group of heroes who are controlled by an agency and were disbanded following Ethan's supposed death.",
+      "quote": "The public believes Ethan is dead. The Sentinels disband. The agency has crossed a moral line."
+    },
+    {
+      "kind": "organization",
+      "name": "The Agency",
+      "alias": null,
+      "role": "Antagonistic regulatory body",
+      "status": "Active",
+      "description": "A group seeking to create super-soldiers by experimenting on Sentinel blood, utilizing propaganda to control the public.",
+      "quote": "As agency was after the sentinels blood to experiment with their genes and make more super soldier ,they never believed these heroes"
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Public Trial of Ethan",
+      "era": null,
+      "description": "Ethan is seized and brought before a jury due to public demand fueled by the agency's propaganda.",
+      "quote": "he was seized and was tied up to the jury.higher authority jury.where we see him being tired of explaining himself and his honest motive."
+    },
+    {
+      "title": "Imprisonment of Ethan",
+      "era": null,
+      "description": "After being beaten and reported dead to the world, Ethan is held in a white cell for experimentation.",
+      "quote": "he was beaten to death .everywhere its published that he is dead.but in the last part of season 1 we see ethan is still alive but in a white room.trapped or being kept but the agency."
+    },
+    {
+      "title": "Awakening of Elizah",
+      "era": null,
+      "description": "Elizah fully manifests within the white cell, killing the guards and breaking out.",
+      "quote": "Elizah appears fully and we see a black- dark red crack into the whole white cell and camera doesn't show who he was. only shows the guards are brutally kiled and down to the floor."
+    }
+  ]
+}

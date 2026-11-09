@@ -1,0 +1,50 @@
+{
+  "file": "Samuel x Arzuna.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Arzuna",
+      "alias": null,
+      "role": "Vampire anti-hero",
+      "status": "Alive",
+      "description": "A vampire anti-hero with heightened senses who enforces strict rules on herself against drinking innocent or demon blood.",
+      "quote": "Arzuna, the former villain, the vampire anti-hero, the lone wolf who trusts nobody"
+    },
+    {
+      "kind": "character",
+      "name": "Samuel Sterling",
+      "alias": "Ghost-01",
+      "role": "Hunter",
+      "status": "Alive",
+      "description": "A calculated operative who utilizes a soft-state tie capable of hardening into a razor-sharp blade, whip, or spear in combat.",
+      "quote": "Samuel Sterling. Ghost-01."
+    },
+    {
+      "kind": "character",
+      "name": "Aariz",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An individual whose blood Arzuna accidentally drank, sharpening her vampiric instincts.",
+      "quote": "since she drank Aariz’s blood by mistake and survived herself afterward"
+    },
+    {
+      "kind": "character",
+      "name": "Stitch",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "A deceased figure responsible for creating augmented bone and metal human creations.",
+      "quote": "Stitch is dead, but his sins have legs."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Tie the Knife",
+      "era": "Season 4",
+      "description": "Samuel Sterling arrives at a ruined army camp to assist Arzuna in defeating augmented creations and a demonic-blood experiment.",
+      "quote": "EPISODE SEGMENT — “Tie the Knife” (Season 4 | Arzuna × Samuel — Part 2)"
+    }
+  ]
+}

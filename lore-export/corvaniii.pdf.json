@@ -1,0 +1,50 @@
+{
+  "file": "corvaniii.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Marcello Corvani",
+      "alias": "Whale",
+      "role": "Operative",
+      "status": "Alive",
+      "description": "An elite Navy scout known for his immense strength and lack of fear who later became an ECAP operative.",
+      "quote": "Before he became the cold, one-eyed spy you know today... before Stitch molded him into ECAP’s most dangerous young operative... Marcello Corvani served as an elite Navy scout"
+    },
+    {
+      "kind": "organization",
+      "name": "ECAP",
+      "alias": null,
+      "role": "Operative agency",
+      "status": "Active",
+      "description": "An organization that employs operatives like Marcello Corvani.",
+      "quote": "before Stitch molded him into ECAP’s most dangerous young operative"
+    },
+    {
+      "kind": "organization",
+      "name": "DEW",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "An organization that recognizes Marcello Corvani by his codename.",
+      "quote": "The nickname stuck so hard that later ECAP, DEW, and even Nullborn operatives knew him by one name"
+    },
+    {
+      "kind": "organization",
+      "name": "Nullborn",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "A faction that recognizes Marcello Corvani by his codename.",
+      "quote": "The nickname stuck so hard that later ECAP, DEW, and even Nullborn operatives knew him by one name"
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Navy Incident",
+      "era": null,
+      "description": "Marcello Corvani dived into the ocean to clear a whale stuck in a battleship propeller using raw strength.",
+      "quote": "He swam right into the danger, grabbed the twisted metal piece, and RIPPED IT OUT with nothing but raw human strength."
+    }
+  ]
+}

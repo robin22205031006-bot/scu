@@ -1,0 +1,86 @@
+{
+  "file": "Slaughter of Kurohana clan -twin x Mashiho.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Kazumi",
+      "alias": null,
+      "role": "Warrior",
+      "status": "Alive",
+      "description": "Daughter of Arashi and twin sister to Yoshiko, trained by the Kurohana family.",
+      "quote": "kazumi was trained under the kurohana family,which led her to be a rival/enemy of yoshiko."
+    },
+    {
+      "kind": "character",
+      "name": "Yoshiko",
+      "alias": null,
+      "role": "Warrior",
+      "status": "Alive",
+      "description": "Daughter of Arashi and twin sister to Kazumi.",
+      "quote": "she was shocked to know kazumi and yoshiko are sisters and they look same untill they fight and yoshiko's face cover removed."
+    },
+    {
+      "kind": "character",
+      "name": "Arashi",
+      "alias": null,
+      "role": "Father",
+      "status": "Dead",
+      "description": "Father of Kazumi and Yoshiko, killed by his brother Sloth.",
+      "quote": "at some point only sloth and pride were only to live,then alter david came there and thanks to him arashi wasn't able to end him and he was somehow killed from behind by sloth"
+    },
+    {
+      "kind": "character",
+      "name": "Sloth",
+      "alias": null,
+      "role": "Antagonist",
+      "status": "Dead",
+      "description": "Brother of Arashi who killed him, later killed by Kazumi and Yoshiko.",
+      "quote": "where yoshiko and kazumi ended sloth"
+    },
+    {
+      "kind": "character",
+      "name": "Pride",
+      "alias": null,
+      "role": "Antagonist",
+      "status": "Dead",
+      "description": "Father of Mashiho, killed by Mashiho in a fight.",
+      "quote": "mashiho himself having a very intense fight with his own father pride.these two fights were brutal and very intense."
+    },
+    {
+      "kind": "character",
+      "name": "Mashiho",
+      "alias": null,
+      "role": "Warrior",
+      "status": "Alive",
+      "description": "Warrior who joined Kazumi and Yoshiko in slaughtering the Kurohana clan.",
+      "quote": "also mashiho joins them.where these three killed the entire clan!"
+    },
+    {
+      "kind": "clan",
+      "name": "Kurohana",
+      "alias": null,
+      "role": "Clan",
+      "status": "Inactive",
+      "description": "A family clan that was slaughtered by Kazumi, Yoshiko, and Mashiho.",
+      "quote": "from noon to evening to night.both sister slaughtered the entire family clan."
+    },
+    {
+      "kind": "bloodline",
+      "name": "Kara",
+      "alias": null,
+      "role": "Bloodline",
+      "status": "Inactive",
+      "description": "A bloodline associated with cursed weapons, destroyed by the trio.",
+      "quote": "even the kara bloodline people.where those people had curse weapon,but none could stop these three."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Slaughter of the Kurohana Clan",
+      "era": null,
+      "description": "Kazumi, Yoshiko, and Mashiho kill every member of the Kurohana clan and Kara bloodline.",
+      "quote": "from noon to evening to night.both sister slaughtered the entire family clan.also mashiho joins them.where these three killed the entire clan!"
+    }
+  ]
+}

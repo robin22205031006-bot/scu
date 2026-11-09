@@ -1,0 +1,176 @@
+{
+  "file": "canon events.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Silas Duskmoor",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Exhibits extroverted authority, loud dominance, savage humor, and fights like a storm.",
+      "quote": "Silas = extroverted authority, loud dominance, savage humor, sometimes “acts dumb” on purpose, fights like a storm with big explosive movement."
+    },
+    {
+      "kind": "character",
+      "name": "Agnus",
+      "alias": "Altan El-Mansur",
+      "role": null,
+      "status": null,
+      "description": "Exhibits introverted authority, silent finality, and fights with minimal movement.",
+      "quote": "Agnus = introverted authority, silent finality, speaks selectively (especially only with Silas), fights with minimal movement, precise execution energy."
+    },
+    {
+      "kind": "character",
+      "name": "Tedmond",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Presence helped force Diablo to retreat during the Diablo War.",
+      "quote": "Tedmond’s presence + kid-Dorian’s “madness” aura + Norman’s fearlessness forced Diablo to retreat."
+    },
+    {
+      "kind": "character",
+      "name": "Diablo",
+      "alias": "Right Hand of the Devil",
+      "role": null,
+      "status": null,
+      "description": "Ancient demon incursion leader who led an incursion alongside a Prince of Demons.",
+      "quote": "Ancient demon incursion led by Diablo (Right Hand of the Devil) and a Prince of Demons."
+    },
+    {
+      "kind": "character",
+      "name": "Soa Aldercrest",
+      "alias": null,
+      "role": "Athena’s Judgement host",
+      "status": "Dead",
+      "description": "Suffered a stolen childhood due to Aldercrest desperation and died by suicide.",
+      "quote": "Aldercrest desperation pressured Soa Aldercrest (Athena’s Judgement host) → childhood stolen → suicide → Dorian’s ideological fracture."
+    },
+    {
+      "kind": "character",
+      "name": "Dorian Cross",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "Experienced an ideological fracture after Soa's suicide and joined Nullborn.",
+      "quote": "Dorian joins Nullborn because he learns: “Greater good” can kill innocents even without villains."
+    },
+    {
+      "kind": "character",
+      "name": "Eldrich Aldercrest",
+      "alias": null,
+      "role": null,
+      "status": "Missing",
+      "description": "Became half-demonic and vanished after Dorian's death and Khalid's revenge, presumed dead.",
+      "quote": "After Dorian’s death and Khalid’s revenge, Eldrich becomes half-demonic and vanishes; presumed dead."
+    },
+    {
+      "kind": "character",
+      "name": "Elizabeth Pristine",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A shapeshifting girl aligned with Khalid who stages events to break Liam and Norman's trust.",
+      "quote": "A shapeshifting girl aligned with Khalid, Elizabeth Pristine, stages events to break Liam–Norman trust."
+    },
+    {
+      "kind": "character",
+      "name": "Norman",
+      "alias": "Norman the Paleborne",
+      "role": null,
+      "status": null,
+      "description": "Framed as a killer by Elizabeth Pristine, becoming Norman the Paleborne.",
+      "quote": "She frames Norman as the killer, fakes “saving” him, and pushes him into the point-of-no-return."
+    },
+    {
+      "kind": "character",
+      "name": "Liam",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Trusted companion whose bond with Norman was broken by Elizabeth Pristine.",
+      "quote": "stages events to break Liam–Norman trust."
+    },
+    {
+      "kind": "character",
+      "name": "Ethan Thorne",
+      "alias": "Robin/Bunny",
+      "role": null,
+      "status": null,
+      "description": "Has an outside name of Robin or Bunny.",
+      "quote": "Ethan Thorne (outside name: Robin/Bunny), Elizah (outside name: Robi)."
+    },
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": "Robi",
+      "role": null,
+      "status": null,
+      "description": "Has an outside name of Robi.",
+      "quote": "Elizah (outside name: Robi)."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn Hayes",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Featured in the name list.",
+      "quote": "Zayn Hayes, Altan El-Mansur (Agnus), Silas Duskmoor, Eldrich Aldercrest, Dorian Cross, etc."
+    },
+    {
+      "kind": "bloodline",
+      "name": "Duskmoor",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "Bloodline beginning when spirits raised the child of a hybrid and a weak female spirit.",
+      "quote": "Spirits raised that child → Duskmoor bloodline begins."
+    },
+    {
+      "kind": "organization",
+      "name": "Nullborn",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "An organization joined by Dorian Cross after realizing the greater good can kill innocents.",
+      "quote": "Dorian joins Nullborn because he learns: “Greater good” can kill innocents even without villains."
+    },
+    {
+      "kind": "clan",
+      "name": "Al-Ahd",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "Listed as part of the clan anchors.",
+      "quote": "Clan anchors include Al-Ahd, Duskmoor, Eldercrest, El-Mansur, and demonic-clan line threads."
+    },
+    {
+      "kind": "clan",
+      "name": "Eldercrest",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "Listed as part of the clan anchors.",
+      "quote": "Clan anchors include Al-Ahd, Duskmoor, Eldercrest, El-Mansur, and demonic-clan line threads."
+    },
+    {
+      "kind": "clan",
+      "name": "El-Mansur",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "Listed as part of the clan anchors.",
+      "quote": "Clan anchors include Al-Ahd, Duskmoor, Eldercrest, El-Mansur, and demonic-clan line threads."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Diablo War",
+      "era": "Ancient",
+      "description": "Ancient demon incursion led by Diablo and a Prince of Demons, which was forced to retreat.",
+      "quote": "Ancient demon incursion led by Diablo (Right Hand of the Devil) and a Prince of Demons. Tedmond’s presence + kid-Dorian’s “madness” aura + Norman’s fearlessness forced Diablo to retreat."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "file": "Freya writing suggestion.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Freya",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A woman whose life and tragedy unfold through an emotional collapse, involving a relationship with Gabriel, motherhood, abandonment, and the roots of Arthur's inherited revenge.",
+      "quote": "So if you want her story to hit properly, these are the key things that need time and explanation. 1) Who Freya is before Gabriel"
+    },
+    {
+      "kind": "character",
+      "name": "Gabriel",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A man whose moral collapse turns him from a loving partner into someone who throws Pristine and Freya away.",
+      "quote": "Gabriel should not be a flat “lover who later becomes cruel.” That would be too easy. His story needs proper emotional logic"
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A force who enters Freya's orbit close to The Demon Before the Storm when the wound is already open, taking Pristine and later finding Freya.",
+      "quote": "Khalid’s direct involvement comes later, close to The Demon Before the Storm. That is actually good structure."
+    },
+    {
+      "kind": "character",
+      "name": "Pristine",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Thrown away by Gabriel, later taken by Khalid, and subsequently becoming part of the Norman thread.",
+      "quote": "Since you locked: Gabriel throws Pristine away Khalid later takes Pristine and Pristine later becomes part of the Norman thread Then Pristine in Freya’s story is not just a side detail."
+    },
+    {
+      "kind": "character",
+      "name": "Arthur",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Told a false history that Gabriel and Freya died by Duskmoor hands, motivating his revenge against Silas.",
+      "quote": "You locked that Arthur is later told: Gabriel and Freya died by Duskmoor hands and that becomes his revenge motive against Silas"
+    },
+    {
+      "kind": "character",
+      "name": "Silas",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Target of Arthur's revenge based on the false history of Gabriel and Freya's deaths.",
+      "quote": "that becomes his revenge motive against Silas So Arthur’s story depends on Freya’s story ending in a way that leaves behind narrative poison."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Demon Before the Storm",
+      "era": null,
+      "description": "The time period close to which Khalid directly enters Freya's orbit after her life is already collapsing.",
+      "quote": "Khalid’s direct involvement comes later, close to The Demon Before the Storm. That is actually good structure."
+    }
+  ]
+}

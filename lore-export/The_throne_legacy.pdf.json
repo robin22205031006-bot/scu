@@ -1,0 +1,86 @@
+{
+  "file": "The throne legacy.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "John",
+      "alias": null,
+      "role": "Leader",
+      "status": "Alive",
+      "description": "A character who claimed the throne by defeating Khalid while severely injured.",
+      "quote": "John dragged himself across the floor of fire and corpses. Khalid lay defeated at his feet, yet still claimed the throne as his own. John gave no crown, no ceremony, no speech of order."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": "Ruler",
+      "status": "Dead",
+      "description": "The original creator of the throne who ruled through fear.",
+      "quote": "Khalid carved it as a symbol of fear, a monument to his dominance. Many bent the knee before it — none sat upon it by right. Until John."
+    },
+    {
+      "kind": "character",
+      "name": "Liam",
+      "alias": null,
+      "role": "Guardian",
+      "status": "Alive",
+      "description": "An idealist and brother-in-arms to John who guarded the throne rather than ruling from it.",
+      "quote": "John’s brother-in-arms, Liam, the idealist, refused to sit. To him, the throne was not a prize but a burden — a reminder of John’s rebellion and sacrifice."
+    },
+    {
+      "kind": "character",
+      "name": "Ariyan",
+      "alias": null,
+      "role": "Warrior",
+      "status": "Alive",
+      "description": "A former disciple of Robin who claimed the throne out of pride after felling chaos.",
+      "quote": "Ariyan — once Robin’s disciple, now hardened by neglect and twisted by Sammam’s gray creed — stumbled upon the throne."
+    },
+    {
+      "kind": "character",
+      "name": "Sammam",
+      "alias": null,
+      "role": "Mentor",
+      "status": "Alive",
+      "description": "An associate of Ariyan who warned him about the nature of mercy.",
+      "quote": "Sammam warned him: “If Robin wanted you gone, you’d be dust already. Mercy isn’t weakness. It’s a blade he chose not to draw.”"
+    },
+    {
+      "kind": "character",
+      "name": "Robin",
+      "alias": null,
+      "role": "Warrior",
+      "status": "Alive",
+      "description": "The one who shattered the throne to prevent it from being used by others.",
+      "quote": "And so, with blood and wind, Robin shattered it into dust. No words. No rage. No acknowledgment."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Throne of Defiance",
+      "era": "1800s",
+      "description": "John defeats Khalid and claims the throne as a symbol of defiance.",
+      "quote": "The throne was born in cruelty. Khalid carved it as a symbol of fear, a monument to his dominance. Many bent the knee before it — none sat upon it by right. Until John."
+    },
+    {
+      "title": "The Throne of Guardianship",
+      "era": "1800s",
+      "description": "Liam and his bloodline protect the throne as a monument of loyalty to John.",
+      "quote": "Through Liam’s bloodline, generation after generation stood watch over the chair. Not to rule from it, but to honor the one who had."
+    },
+    {
+      "title": "The Throne of Ego",
+      "era": "2026",
+      "description": "Ariyan claims the throne as a symbol of his superiority and pride.",
+      "quote": "Centuries later, Ariyan — once Robin’s disciple, now hardened by neglect and twisted by Sammam’s gray creed — stumbled upon the throne."
+    },
+    {
+      "title": "The Throne of Silence",
+      "era": "2026",
+      "description": "Robin destroys the throne, ending its legacy.",
+      "quote": "And so, with blood and wind, Robin shattered it into dust. No words. No rage. No acknowledgment. The throne that had stood for centuries was gone in a blink."
+    }
+  ]
+}

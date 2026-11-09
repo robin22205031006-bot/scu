@@ -1,0 +1,50 @@
+{
+  "file": "behave of characters.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Weston Hale",
+      "alias": null,
+      "role": "Sentinel",
+      "status": "Alive",
+      "description": "A charismatic and athletic Sentinel known for being clumsy yet capable of sudden brilliance in battle using wind and lightning abilities.",
+      "quote": "WESTON HALE — Canon Personality (Your Exact Version) • Core Nature clumsy super athletic charming in any situation friendly with literally everyone extremely handsome (most handsome male Sentinel)"
+    },
+    {
+      "kind": "character",
+      "name": "Damian Brown",
+      "alias": null,
+      "role": "Sentinel",
+      "status": "Alive",
+      "description": "A perceptive, quiet analyzer who uses logic and observation, often acting as a brother-in-arms to Rowan.",
+      "quote": "DAMIAN BROWN — Canon Personality (Based on Rohan) • Similar to Zayn, but with key differences good IQ (2nd after Zayn) calmer and quieter in analysis less lazy than Zayn"
+    },
+    {
+      "kind": "character",
+      "name": "Zayn Hayes",
+      "alias": "Knight of the Sentinel",
+      "role": "2nd in command",
+      "status": "Alive",
+      "description": "An extremely calculative, research-heavy strategist who acts as the team's official problem solver.",
+      "quote": "ZAYN HAYES — Your Canon Personality (No Additions) • Based on Jubayer (your real best friend) physically: dark brown skin, athletic witty, charming, respectful huge knowledge"
+    },
+    {
+      "kind": "character",
+      "name": "Ethan Thorne",
+      "alias": null,
+      "role": "Leader",
+      "status": "Alive",
+      "description": "The leader of the group, serving as the team's moral compass with wind-based abilities and an ambivert personality.",
+      "quote": "Ethan = your own personality reflection childlike → witty → fun → teasing → stylish → hair always back • Leadership: → best leader → serious when leading → moral compass is strong"
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Damian Brown",
+      "new_facts": "Added traits of being witty, fun-loving, and savage when needed, blending Zayn's wit, Ethan's calm, and Rowan's chaos.",
+      "status": "Alive",
+      "quote": "UPDATE — DAMIAN BROWN (Added Traits) also witty like Zayn fun-loving savage when needed, same vibe as Zayn so his personality is a mix of: Zayn’s wit + Ethan’s calm + Rowan’s chaos-partners vibe"
+    }
+  ],
+  "timeline_events": []
+}

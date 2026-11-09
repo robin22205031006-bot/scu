@@ -1,0 +1,80 @@
+{
+  "file": "Ethan and his past bonds .pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": "Subject of psychological study",
+      "status": "Alive",
+      "description": "An individual living with bipolar disorder and an internal persona named Elizah.",
+      "quote": "Ethan had already developed bipolar disorder from childhood (your canon terminology). ● His darker inner persona (later known as Elizah) already existed."
+    },
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": "Darker inner persona",
+      "role": "Inner persona of Ethan",
+      "status": "Alive",
+      "description": "Ethan's inner persona who became less evil through the influence of Nilanjona.",
+      "quote": "His darker inner persona (later known as Elizah) already existed. ● The toxic relationship accelerated Elizah's awakening, making that inner self significantly more toxic, angry, and destructive."
+    },
+    {
+      "kind": "character",
+      "name": "Derek Miles",
+      "alias": "Vanguard",
+      "role": "Partner of Grace",
+      "status": "Alive",
+      "description": "Grace's partner after her relationship with Ethan ended.",
+      "quote": "Grace later moves on and eventually builds a life with Derek Miles (Vanguard)."
+    },
+    {
+      "kind": "character",
+      "name": "Xinea",
+      "alias": null,
+      "role": "Romantic partner",
+      "status": "Alive",
+      "description": "Ethan's final and most compatible partner who understands and accepts both Ethan and Elizah.",
+      "quote": "Xinea becomes the final and most compatible partner. Like Grace... she notices Ethan's changes. Unlike Grace... she instinctively knows how to handle them."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": "Friend",
+      "status": "Alive",
+      "description": "A figure who maintains independent friendships with the women in Ethan's life.",
+      "quote": "Zayn's relationship doesn't revolve around Ethan. He has independent relationships with every important woman in Ethan's life."
+    },
+    {
+      "kind": "character",
+      "name": "Stitch",
+      "alias": null,
+      "role": "Entity",
+      "status": "Alive",
+      "description": "The entity responsible for separating Ethan and Elizah into distinct bodies.",
+      "quote": "After Stitch separates Ethan and Elizah... it feels natural that she already understands Elizah."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Elizah's Awakening",
+      "era": null,
+      "description": "Ethan's darker inner persona was further developed and intensified by a toxic relationship prior to meeting Nilanjona.",
+      "quote": "The toxic relationship accelerated Elizah's awakening, making that inner self significantly more toxic, angry, and destructive."
+    },
+    {
+      "title": "Nilanjona's Influence",
+      "era": null,
+      "description": "The presence of Nilanjona in Ethan's life began to reduce the toxicity of the Elizah persona.",
+      "quote": "Before Nilanjona: ● Elizah was becoming genuinely toxic. After years beside her: ● he remained sarcastic, ● savage, ● provocative, ● emotionally guarded, but... he stopped becoming evil."
+    },
+    {
+      "title": "Separation of Ethan and Elizah",
+      "era": null,
+      "description": "Stitch physically separated the persona of Elizah from Ethan, giving Elizah his own body.",
+      "quote": "After Stitch separates Ethan and Elizah... it feels natural that she already understands Elizah. Because... she had unknowingly met him many times before."
+    }
+  ]
+}

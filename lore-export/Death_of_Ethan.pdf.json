@@ -1,0 +1,68 @@
+{
+  "file": "Death of Ethan.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Major General Stitch",
+      "alias": "The old man",
+      "role": "Head of ECAP and founder of DEW",
+      "status": "Alive",
+      "description": "A military leader who orchestrated the public trial and false execution of Ethan to secure him for research.",
+      "quote": "The “old man” who orders Ethan’s arrest and public judgment is Major General Stitch, head of ECAP and secret architect of DEW. Stitch personally orchestrates the propaganda against Ethan"
+    },
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": "Sky Guardian Candidate",
+      "role": "Test subject for DEW",
+      "status": "Alive",
+      "description": "A captive subject who was subjected to a public trial and fake execution orchestrated by Stitch.",
+      "quote": "Later, it’s Stitch’s men who retrieve Ethan’s body and move him into the white containment room, where they begin testing how the Sky Guardian Candidate reacts to restraint."
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A person Ethan attempted to protect during his trial.",
+      "quote": "When Ethan finally erupts to protect Nyxia, Stitch whispers to an aide: “Note the surge. Mark the pattern before sedation.”"
+    },
+    {
+      "kind": "organization",
+      "name": "ECAP",
+      "alias": null,
+      "role": "Military organization",
+      "status": "Active",
+      "description": "A military organization headed by Major General Stitch.",
+      "quote": "The “old man” who orders Ethan’s arrest and public judgment is Major General Stitch, head of ECAP and secret architect of DEW."
+    },
+    {
+      "kind": "organization",
+      "name": "DEW",
+      "alias": null,
+      "role": "Secret research initiative",
+      "status": "Active",
+      "description": "A secret research organization founded by Stitch.",
+      "quote": "The “old man” who orders Ethan’s arrest and public judgment is Major General Stitch, head of ECAP and secret architect of DEW."
+    },
+    {
+      "kind": "organization",
+      "name": "Covenant",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A faction connected to the conspiracy involving ECAP and DEW.",
+      "quote": "This connects the Season 1 trial directly to the wider conspiracy: ECAP → DEW → Covenant."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Chained Wind Trial",
+      "era": "Season 1",
+      "description": "Major General Stitch orders the arrest and public judgment of Ethan to facilitate his capture for research.",
+      "quote": "The “old man” who orders Ethan’s arrest and public judgment is Major General Stitch, head of ECAP and secret architect of DEW."
+    }
+  ]
+}

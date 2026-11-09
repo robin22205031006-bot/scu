@@ -1,0 +1,44 @@
+{
+  "file": "Elizah,nyxia,samuel.pdf",
+  "entities": [],
+  "updates": [
+    {
+      "existing_name": "Elizah",
+      "new_facts": "Elizah fights hybrids, gets impaled by a spear, continues fighting with the spear through his torso, and has a close intimate and fighting dynamic with Nyxia.",
+      "status": "Alive",
+      "quote": "A spear punches straight through his chest. The force lifts him off his feet. The world snaps sideways— —and he slams against the wall, impaled, hanging there."
+    },
+    {
+      "existing_name": "Aariz Maddox",
+      "new_facts": "Aariz Maddox joins Samuel and Nyxia at the abandoned hospital to hunt hybrids and helps de-escalate fights.",
+      "status": "Alive",
+      "quote": "Aariz Maddox lands in a crouch, too light for his size, eyes already scanning."
+    },
+    {
+      "existing_name": "Stitch",
+      "new_facts": "Stitch is associated with bodies of overdosed victims who took too much borrowed power.",
+      "status": null,
+      "quote": "Nyxia kneels. Touches his wrist. Cold. Her jaw tightens. Nyxia (quiet, bitter) “...Stitch.”"
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "Ambush in the Dark Street",
+      "era": "Same Night",
+      "description": "Elizah is ambushed by a group of hybrids on a dark street and is eventually impaled by a spear thrown by heavy figures.",
+      "quote": "The street erupts. Shadows drop from rooftops. Metal claws scrape concrete. Broken breathing fills the air—wet, uneven, wrong."
+    },
+    {
+      "title": "Hospital Investigation and Ambush",
+      "era": "Same Night",
+      "description": "Nyxia and Samuel investigate an abandoned hospital filled with dead bodies, followed by an ambush of smart hybrids.",
+      "quote": "The corridor stretches long and hollow, ceiling cracked, paint peeling in strips like shedding skin. Spiderwebs hang from corners like funeral veils"
+    },
+    {
+      "title": "Clash in the Central Hall",
+      "era": "Same Night",
+      "description": "Elizah returns with a spear through his chest to fight alongside Nyxia, leading to an intense confrontation between Elizah and Samuel.",
+      "quote": "Elizah walks like none of this matters. Like pain is an inconvenience he hasn’t decided to acknowledge yet. He stops beside Nyxia."
+    }
+  ]
+}

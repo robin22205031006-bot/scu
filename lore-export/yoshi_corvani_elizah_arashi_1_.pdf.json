@@ -1,0 +1,31 @@
+{
+  "file": "yoshi,corvani, elizah, arashi (1).pdf",
+  "entities": [
+    {
+      "kind": "faction",
+      "name": "Nullborn",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "category": "Faction",
+      "description": "An organization formerly led by Arashi and later Anthony, misidentified by DEW as an evil cult despite their actual role in maintaining balance.",
+      "quote": "Arashi on the other hand was a nullborn authority.before meeting arashi she thought nullborn as an evil cult.later she learns nullborn actually never been an evil cult."
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Dorian Cross",
+      "new_facts": "Revealed to be a spy for the Nullborn rather than a villain.",
+      "status": "Alive",
+      "quote": "agnus's hidden message shares the truth of nullborn and also learns that Dorian cross ,he was actually a nullborn spy!never been a bad person though."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "The Nullborn/Ravenblade and Saya Conflict",
+      "era": "Season 2",
+      "description": "Yoshiko intervenes in a fight between Ravenblade and Saya to clarify the truth about the Nullborn and DEW's activities.",
+      "quote": "and while she also fought saya ,while saya back in that time was held the mission of killing nullborn members including Ravenblade .so in that ravenblade and saya fight nyxia went there to stop the fight."
+    }
+  ]
+}

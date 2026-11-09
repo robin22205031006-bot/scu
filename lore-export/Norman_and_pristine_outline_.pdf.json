@@ -1,0 +1,56 @@
+{
+  "file": "Norman and pristine outline .pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Norman",
+      "alias": "Norman the Paleborn",
+      "role": "Vampire, Villain",
+      "status": "Alive",
+      "description": "Originally an anti-hero who suffered betrayal by his companions, he was manipulated by Elizabeth Pristine until he embraced a villainous path, becoming the Paleborn.",
+      "quote": "from that moment a new villain awoke.norman the paleborn.and he shook hand with khalid again."
+    },
+    {
+      "kind": "character",
+      "name": "Liam",
+      "alias": null,
+      "role": "Hero",
+      "status": "Alive",
+      "description": "A hero and former friend of Norman who was away gaining magical knowledge and remained unaware of Norman's mistreatment by the organization.",
+      "quote": "we can see that liam ,even though he wasn't there back then with the org they were working.he was away for more knowledge with magic"
+    },
+    {
+      "kind": "character",
+      "name": "Silas",
+      "alias": null,
+      "role": "Solo fighter",
+      "status": "Alive",
+      "description": "A solo fighter wielding blue flames who has no interest in the organization and sought to address the threat he perceived in Elizabeth Pristine.",
+      "quote": "it was silas.he wasn't in that org.as we know he was a solo man,blue flame in his hand."
+    },
+    {
+      "kind": "organization",
+      "name": "the org",
+      "alias": null,
+      "role": "Heroic organization",
+      "status": "Active",
+      "description": "The central organization of heroes that Norman, Liam, and others were associated with, though it became hostile toward Norman.",
+      "quote": "norman first starts as a anti hero.but when others couldn't take his changes.he slowly get punished or avoided by other companion he had."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Betrayal and Awakening of the Paleborn",
+      "era": null,
+      "description": "Following a series of manipulations by Elizabeth Pristine, Norman was framed for killing members of the organization, leading to the death of his humanity and his return to Khalid.",
+      "quote": "seeing that liam directly attacked ,but all of a sudden the girl came infront of norman and got hit. now norman couldn't take this and seeing his only hope injured he got angry"
+    },
+    {
+      "title": "The Death of Elizabeth Pristine",
+      "era": null,
+      "description": "After Norman's death, Pristine fought the Sentinels in a hopeless battle, ultimately choosing to die with a final acknowledgment of her bond with Khalid.",
+      "quote": "She falls, and in her last words she spits out both warning and prophecy: “You defeated the love I chose... but prepare for the agony that chose me.”"
+    }
+  ]
+}

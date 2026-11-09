@@ -1,0 +1,43 @@
+{
+  "file": "Suggestion of freya 2.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Freya",
+      "alias": null,
+      "role": "Tragic figure, mother, lover",
+      "status": "Legend",
+      "description": "A woman whose life trajectory involves love, hope, betrayal, and the contamination of her legacy.",
+      "quote": "Freya’s story should feel like: love -> hope -> strain -> failure -> abandonment -> contamination of legacy"
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": "Corrupter",
+      "status": null,
+      "description": "An individual who enters Freya's life after her emotional collapse to exploit her vulnerability.",
+      "quote": "Khalid should enter after the emotional damage already exists. That makes him stronger."
+    },
+    {
+      "kind": "character",
+      "name": "Arthur",
+      "alias": null,
+      "role": "Consequence, avenger",
+      "status": null,
+      "description": "A figure who grows up fueled by a lie regarding the deaths of Freya and Gabriel at the hands of the Duskmoor.",
+      "quote": "Arthur later grows up with the lie that Gabriel and Freya died by Duskmoor hands"
+    },
+    {
+      "kind": "faction",
+      "name": "Duskmoor",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A group falsely blamed for the deaths of Freya and Gabriel to facilitate a weaponized version of history.",
+      "quote": "Arthur later grows up with the lie that Gabriel and Freya died by Duskmoor hands"
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

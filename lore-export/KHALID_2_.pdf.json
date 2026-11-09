@@ -1,0 +1,158 @@
+{
+  "file": "KHALID (2).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Asim",
+      "alias": null,
+      "role": "Father of the injured boy in Istanbul",
+      "status": "Alive",
+      "category": "Antagonist",
+      "description": "An angry, weathered traveler who blamed Khalid and Ayesha for his son's injuries.",
+      "quote": "Asim stood tall — a weathered man in tattered traveling robes, veins bulging in his neck, eyes wet with rage."
+    },
+    {
+      "kind": "character",
+      "name": "Nasab ibn Khalil",
+      "alias": null,
+      "role": "Officer of the Ottoman elite, father of Khalid",
+      "status": "Dead",
+      "category": "Support",
+      "description": "A feared and praised Ottoman officer, husband of Ayesha, and father of Khalid, later assassinated in his home.",
+      "quote": "Nasab ibn Khalil, an officer of the Ottoman elite — the lion of the court, feared and praised — was now crawling, trembling, bleeding out in his own home."
+    },
+    {
+      "kind": "character",
+      "name": "Ayesha",
+      "alias": null,
+      "role": "Mother of Khalid",
+      "status": "Dead",
+      "category": "Support",
+      "description": "A graceful woman known for feeding orphans, married to Nasab, and mother to Khalid, later murdered by her son Kelvan.",
+      "quote": "Ayesha stepped out of her room, tying her shawl. Her brows furrowed at the sight on the floor — a thin red trail like a wounded serpent"
+    },
+    {
+      "kind": "character",
+      "name": "Zaan",
+      "alias": null,
+      "role": "Legendary figure",
+      "status": "Alive",
+      "category": "Antagonist",
+      "description": "A man said to have defied death, killed 160, burned alive, and walked again, seeking the pendant to release an ancient entity.",
+      "quote": "Zaan: “Mind if I sit?” Khalid: “No one stopped you.” Zaan: “You’re not scared of me?” Khalid: “I’ve seen worse than burned skin.”"
+    },
+    {
+      "kind": "character",
+      "name": "Ramij",
+      "alias": null,
+      "role": "Spy and guardian",
+      "status": "Dead",
+      "category": "Support",
+      "description": "An operative who aided Khalid and Ayesha, father of Issabela, and former protector of the pendant before being killed by a spear.",
+      "quote": "A spear flew past him — and landed straight in Ramij’s chest. Ramij (gasping): “RUN!”"
+    },
+    {
+      "kind": "character",
+      "name": "Issabela",
+      "alias": "Zaynab",
+      "role": "Nullborn leader",
+      "status": "Alive",
+      "category": "Protagonist",
+      "description": "Daughter of Ramiz, leader within the Nullborn, a skilled warrior who hid her true Muslim name, Zaynab, and grew close to Khalid.",
+      "quote": "Issabela: “You already know. Or you wouldn’t have survived this long.”"
+    },
+    {
+      "kind": "character",
+      "name": "Marco",
+      "alias": null,
+      "role": "Nullborn operative",
+      "status": "Dead",
+      "category": "Support",
+      "description": "A Nullborn warrior whose parents were murdered by Cesare Borgia, later killed protecting Ayesha.",
+      "quote": "Marco (sneering): “Smart. For a bastard.”"
+    },
+    {
+      "kind": "character",
+      "name": "Mehnaz",
+      "alias": null,
+      "role": "Nullborn operative",
+      "status": "Dead",
+      "category": "Support",
+      "description": "A cynical yet capable Nullborn warrior who trained Khalid and was later killed during the cathedral massacre.",
+      "quote": "Mehnaz: “Cocky for someone tied up.”"
+    },
+    {
+      "kind": "character",
+      "name": "Anna la Sarta",
+      "alias": null,
+      "role": "Nullborn defector",
+      "status": "Dead",
+      "category": "Antagonist",
+      "description": "Issabela's cold and ruthless sister who left the Nullborn, later found crucified and murdered inside the cathedral's secret seal chamber.",
+      "quote": "Anna la Sarta. Her aura was different — not fire... but ice."
+    },
+    {
+      "kind": "character",
+      "name": "Abdul",
+      "alias": null,
+      "role": "Nullborn warrior",
+      "status": "Dead",
+      "category": "Support",
+      "description": "A gruff Nullborn warrior who helped train Khalid and lost both parents to political intrigue before being decapitated by Borgia forces.",
+      "quote": "Abdul (gruffly): “Put it on.”"
+    },
+    {
+      "kind": "organization",
+      "name": "Nullborn",
+      "alias": null,
+      "role": "Rebellion group",
+      "status": "Active",
+      "category": "Faction",
+      "description": "An underground rebellion organization originally meant to protect the world, operating under Rome's catacombs.",
+      "quote": "Marco: “We’re Nullborn. A rebellion that was meant to protect the world. Until Rome twisted it.”"
+    },
+    {
+      "kind": "organization",
+      "name": "Hidden Ones",
+      "alias": null,
+      "role": "Secret order",
+      "status": "Active",
+      "category": "Organization",
+      "description": "An organization that intervened to stop the summoning of Maphistoe.",
+      "quote": "Anna: “We stopped him. The Hidden Ones. We ended him. Not for vengeance. For survival.”"
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Confrontation at the Ottoman Estate",
+      "era": "15th Century",
+      "description": "Asim confronts Ayesha and Nasab over a mysterious physical altercation involving Khalid.",
+      "quote": "Asim stood tall — a weathered man in tattered traveling robes, veins bulging in his neck, eyes wet with rage."
+    },
+    {
+      "title": "The Assassination of Nasab ibn Khalil",
+      "era": "15th Century",
+      "description": "Masked assassins infiltrate the Ottoman estate and murder Nasab ibn Khalil while Ayesha is injured trying to save him.",
+      "quote": "SHINK! A blade pierced straight through Nasab’s chest from behind. He gasped. Blood poured from his mouth."
+    },
+    {
+      "title": "The Flight to Rome",
+      "era": "15th Century",
+      "description": "Following betrayal and political fallout in Istanbul, Ayesha and Khalid flee across the Mediterranean to Papal Rome guided by Ramij.",
+      "quote": "The Mediterranean Sea stretched like an endless sheet of liquid silver beneath the moon. Their small boat rocked gently"
+    },
+    {
+      "title": "The Awakening in the Nullborn Compound",
+      "era": "15th Century",
+      "description": "After Ramij's death, Khalid is captured and brought to the secret Nullborn compound beneath Rome, where he meets Issabela and begins harsh training.",
+      "quote": "He woke up in stone room lit by a blue-glass lantern. Chained. Sitting. A woman in military leather sat near the corner."
+    },
+    {
+      "title": "The Massacre at Ayesha's Home",
+      "era": "15th Century",
+      "description": "Borgia forces attack Ayesha's home, murdering Marco and Ayesha to steal the ancient pendant fragment.",
+      "quote": "There, on the blood-soaked floor... lay Marco. His right arm gone, sliced brutally. His throat pierced clean through."
+    }
+  ]
+}

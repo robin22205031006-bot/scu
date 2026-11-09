@@ -1,0 +1,86 @@
+{
+  "file": "Alt david.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Alt David",
+      "alias": "David",
+      "role": "Covenant Leader",
+      "status": null,
+      "description": "An alternate version of David traumatized by the destruction of Earth Prime who leads the Covenant to alter minds and recreate his lost family.",
+      "quote": "made a dark org named covenant and he was covenant leader."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": "Brother of David",
+      "status": "Dead",
+      "description": "David's brother from Earth Prime who wished to leave the hero life behind before dying during the collapse of their world.",
+      "quote": "in that universe zayn and david already knew they were brothers."
+    },
+    {
+      "kind": "character",
+      "name": "Prime Nyxia",
+      "alias": "Nyxia",
+      "role": "Hero",
+      "status": "Dead",
+      "description": "A hero from Earth Prime who died attempting to prove that humanity had changed since Asetra's time.",
+      "quote": "prime nyxia died tried to prove that huminty is changed than asetras time"
+    },
+    {
+      "kind": "character",
+      "name": "Asetra",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An entity who appeared in Shina's body in Earth Prime, triggering events that destroyed that universe.",
+      "quote": "after asetra in shinas body appeared in their universe and things got messi"
+    },
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": "Hero",
+      "status": "Alive",
+      "description": "A hero alive in the new world whose growth involves accepting pain, contrasting with Alt David's attempt to erase it.",
+      "quote": "When he arrives here and sees: Ethan alive."
+    },
+    {
+      "kind": "character",
+      "name": "Dew",
+      "alias": null,
+      "role": "Researcher",
+      "status": null,
+      "description": "A researcher conducting experiments with hero blood who is covertly assisted by Alt David.",
+      "quote": "he knew dew and stitch has different reason to use heroes blood and experiment."
+    },
+    {
+      "kind": "character",
+      "name": "Stitch",
+      "alias": null,
+      "role": "Experimenter",
+      "status": null,
+      "description": "An experimenter utilized by Alt David as a stepping stone to advance memory and mind alteration techniques.",
+      "quote": "He isn’t helping Stitch for ideology. He’s using him as a stepping stone."
+    },
+    {
+      "kind": "organization",
+      "name": "Covenant",
+      "alias": null,
+      "role": "Dark Organization",
+      "status": null,
+      "description": "A secret dark organization led by Alt David to research mind alteration, hero blood, and memory rewriting.",
+      "quote": "made a dark org named covenant and he was covenant leader."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Alt David's Arrival",
+      "era": null,
+      "description": "Following the loss of his brother and world, Alt David used his cube-enhanced portal to travel to the main world.",
+      "quote": "david used his portal enhanced by cube and came to this world."
+    }
+  ]
+}

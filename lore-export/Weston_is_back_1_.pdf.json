@@ -1,0 +1,32 @@
+{
+  "file": "Weston is back (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": "Unknown",
+      "status": "Alive",
+      "description": "A warrior who uses his sword and personal connection to lightning to resurrect Weston.",
+      "quote": "Zayn draws his sword, slams its tip into the earth, and roars. A pillar of lightning tears through the sky, finds the blade, and launches through him like a conduit straight into Weston’s chest"
+    },
+    {
+      "kind": "character",
+      "name": "Grace",
+      "alias": null,
+      "role": "Unknown",
+      "status": "Alive",
+      "description": "An individual possessing cosmic light powers that fail against dark energy.",
+      "quote": "Grace kneels beside them, cosmic light flickering in her palms, but every spark she calls dies the instant it touches the black wound."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Resurrection of Weston",
+      "era": null,
+      "description": "Zayn performs a ritual using his sword and a lightning strike to bring Weston back to life.",
+      "quote": "Zayn draws his sword, slams its tip into the earth, and roars. A pillar of lightning tears through the sky, finds the blade, and launches through him like a conduit straight into Weston’s chest"
+    }
+  ]
+}

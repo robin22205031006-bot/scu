@@ -1,0 +1,47 @@
+{
+  "file": "infos.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Ramiz Duskmoor",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "category": null,
+      "description": "A member of the Duskmoor line associated with berserkers.",
+      "quote": "Al-Ahd (sealing, secrecy) → Ramiz Duskmoor (berserkers) → Silas Eldercrest (magic, seals) → Liam’s line"
+    },
+    {
+      "kind": "character",
+      "name": "Silas Eldercrest",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "category": null,
+      "description": "Associated with magic and seals within the clan hierarchy.",
+      "quote": "Al-Ahd (sealing, secrecy) → Ramiz Duskmoor (berserkers) → Silas Eldercrest (magic, seals) → Liam’s line"
+    },
+    {
+      "kind": "character",
+      "name": "Jubayer",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "category": null,
+      "description": "A noted crossbreed.",
+      "quote": "Crossbreeds (John, Jubayer) noted."
+    },
+    {
+      "kind": "clan",
+      "name": "Demonic clan",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "category": "Clan",
+      "description": "A lineage of shapeshifters including Khalid, Norman, and Nur.",
+      "quote": "Demonic (shapeshifting) → Khalid → Norman → Nur"
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

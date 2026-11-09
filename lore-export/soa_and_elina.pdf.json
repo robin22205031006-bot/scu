@@ -1,0 +1,42 @@
+{
+  "file": "soa and elina.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Elina Quins",
+      "alias": null,
+      "role": "Love interest of Eldrich Aldercrest",
+      "status": "Dead",
+      "category": "Support",
+      "description": "Eldrich Aldercrest's romantic interest who lived a normal life and died of old age.",
+      "quote": "Eldrich's love interests name was Elina Quins and cousin name is Soa Aldercrest and the judgement power is called Athenas Judgement by the aldercrest."
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Eldrich Aldercrest",
+      "new_facts": "Became half-demon after Khalid came for revenge, did not age much, and visits graves of Elina, Dorian, his father, and Norman.",
+      "status": null,
+      "quote": "after the death of dorian cross and later when khalid came for revenge on eldrich and made him half demonic ,like a curse.from that moment eldrich vanished as if he was never there."
+    },
+    {
+      "existing_name": "Norman",
+      "new_facts": "Considered a friend by Eldrich, though Eldrich views him as a puppet controlled by agony and created a symbolic grave for him.",
+      "status": null,
+      "quote": "norman was convinced that he was a victim.but even after fight,eldrich always counted him as a friend.but he also knows the friend is long dead,the person is now a puppet,controlled by agony."
+    },
+    {
+      "existing_name": "Soa Aldercrest",
+      "new_facts": "Eldrich's cousin who died young by suicide due to pressure from the Aldercrest regarding her rare judgement power called Athena's Judgement.",
+      "status": "Dead",
+      "quote": "Soa Aldercrest Eldrich’s cousin Died young by suicide Had double Golden Eyes Power: Athena’s Judgement Destroyed by Aldercrest pressure, not villains"
+    },
+    {
+      "existing_name": "Tedmond",
+      "new_facts": "Offered Dorian and his team to be a dragon slayer, knowing Dorian was highly potential and one of the best in his young age.",
+      "status": null,
+      "quote": "do you know even tedmond knew dorian . and he offered him with his team to he a dragon slayer. where tedmond also knew dorian was highly potential."
+    }
+  ],
+  "timeline_events": []
+}

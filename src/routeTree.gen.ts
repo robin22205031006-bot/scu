@@ -10,33 +10,327 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AuthenticatedRouteRouteImport } from './routes/_authenticated/route'
+import { Route as AuthRouteImport } from './routes/auth'
+import { Route as InstallRouteImport } from './routes/install'
+import { Route as McpRouteImport } from './routes/mcp'
+import { Route as Char91DotwellKnownChar93OauthProtectedResourceRouteImport } from './routes/[.well-known]/oauth-protected-resource'
+import { Route as AuthenticatedAbilitiesRouteImport } from './routes/_authenticated/abilities'
+import { Route as AuthenticatedAdminRouteImport } from './routes/_authenticated/admin'
+import { Route as AuthenticatedAiRouteImport } from './routes/_authenticated/ai'
+import { Route as AuthenticatedArchiveRouteImport } from './routes/_authenticated/archive'
+import { Route as AuthenticatedCharacterRouteImport } from './routes/_authenticated/character'
+import { Route as AuthenticatedCharactersRouteImport } from './routes/_authenticated/characters'
+import { Route as AuthenticatedClansRouteImport } from './routes/_authenticated/clans'
+import { Route as AuthenticatedFandomRouteImport } from './routes/_authenticated/fandom'
+import { Route as AuthenticatedGraphRouteImport } from './routes/_authenticated/graph'
+import { Route as AuthenticatedIngestRouteImport } from './routes/_authenticated/ingest'
+import { Route as AuthenticatedMapRouteImport } from './routes/_authenticated/map'
+import { Route as AuthenticatedOrgsRouteImport } from './routes/_authenticated/orgs'
+import { Route as AuthenticatedProfileRouteImport } from './routes/_authenticated/profile'
+import { Route as AuthenticatedReaderRouteImport } from './routes/_authenticated/reader'
+import { Route as AuthenticatedSeriesRouteImport } from './routes/_authenticated/series'
+import { Route as AuthenticatedStoryRouteImport } from './routes/_authenticated/story'
+import { Route as AuthenticatedTimelineRouteImport } from './routes/_authenticated/timeline'
+import { Route as AuthenticatedVaultRouteImport } from './routes/_authenticated/vault'
+import { Route as DotlovableOauthConsentRouteImport } from './routes/[.]lovable.oauth.consent'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AuthenticatedRouteRoute = AuthenticatedRouteRouteImport.update({
+  id: '/_authenticated',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AuthRoute = AuthRouteImport.update({
+  id: '/auth',
+  path: '/auth',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const InstallRoute = InstallRouteImport.update({
+  id: '/install',
+  path: '/install',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const McpRoute = McpRouteImport.update({
+  id: '/mcp',
+  path: '/mcp',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const Char91DotwellKnownChar93OauthProtectedResourceRoute =
+  Char91DotwellKnownChar93OauthProtectedResourceRouteImport.update({
+    id: '/.well-known/oauth-protected-resource',
+    path: '/.well-known/oauth-protected-resource',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const AuthenticatedAbilitiesRoute = AuthenticatedAbilitiesRouteImport.update({
+  id: '/abilities',
+  path: '/abilities',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedAdminRoute = AuthenticatedAdminRouteImport.update({
+  id: '/admin',
+  path: '/admin',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedAiRoute = AuthenticatedAiRouteImport.update({
+  id: '/ai',
+  path: '/ai',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedArchiveRoute = AuthenticatedArchiveRouteImport.update({
+  id: '/archive',
+  path: '/archive',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedCharacterRoute = AuthenticatedCharacterRouteImport.update({
+  id: '/character',
+  path: '/character',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedCharactersRoute = AuthenticatedCharactersRouteImport.update({
+  id: '/characters',
+  path: '/characters',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedClansRoute = AuthenticatedClansRouteImport.update({
+  id: '/clans',
+  path: '/clans',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedFandomRoute = AuthenticatedFandomRouteImport.update({
+  id: '/fandom',
+  path: '/fandom',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedGraphRoute = AuthenticatedGraphRouteImport.update({
+  id: '/graph',
+  path: '/graph',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedIngestRoute = AuthenticatedIngestRouteImport.update({
+  id: '/ingest',
+  path: '/ingest',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedMapRoute = AuthenticatedMapRouteImport.update({
+  id: '/map',
+  path: '/map',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedOrgsRoute = AuthenticatedOrgsRouteImport.update({
+  id: '/orgs',
+  path: '/orgs',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedProfileRoute = AuthenticatedProfileRouteImport.update({
+  id: '/profile',
+  path: '/profile',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedReaderRoute = AuthenticatedReaderRouteImport.update({
+  id: '/reader',
+  path: '/reader',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedSeriesRoute = AuthenticatedSeriesRouteImport.update({
+  id: '/series',
+  path: '/series',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedStoryRoute = AuthenticatedStoryRouteImport.update({
+  id: '/story',
+  path: '/story',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedTimelineRoute = AuthenticatedTimelineRouteImport.update({
+  id: '/timeline',
+  path: '/timeline',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const AuthenticatedVaultRoute = AuthenticatedVaultRouteImport.update({
+  id: '/vault',
+  path: '/vault',
+  getParentRoute: () => AuthenticatedRouteRoute,
+} as any)
+const DotlovableOauthConsentRoute = DotlovableOauthConsentRouteImport.update({
+  id: '/.lovable/oauth/consent',
+  path: '/.lovable/oauth/consent',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/auth': typeof AuthRoute
+  '/install': typeof InstallRoute
+  '/mcp': typeof McpRoute
+  '/.well-known/oauth-protected-resource': typeof Char91DotwellKnownChar93OauthProtectedResourceRoute
+  '/abilities': typeof AuthenticatedAbilitiesRoute
+  '/admin': typeof AuthenticatedAdminRoute
+  '/ai': typeof AuthenticatedAiRoute
+  '/archive': typeof AuthenticatedArchiveRoute
+  '/character': typeof AuthenticatedCharacterRoute
+  '/characters': typeof AuthenticatedCharactersRoute
+  '/clans': typeof AuthenticatedClansRoute
+  '/fandom': typeof AuthenticatedFandomRoute
+  '/graph': typeof AuthenticatedGraphRoute
+  '/ingest': typeof AuthenticatedIngestRoute
+  '/map': typeof AuthenticatedMapRoute
+  '/orgs': typeof AuthenticatedOrgsRoute
+  '/profile': typeof AuthenticatedProfileRoute
+  '/reader': typeof AuthenticatedReaderRoute
+  '/series': typeof AuthenticatedSeriesRoute
+  '/story': typeof AuthenticatedStoryRoute
+  '/timeline': typeof AuthenticatedTimelineRoute
+  '/vault': typeof AuthenticatedVaultRoute
+  '/.lovable/oauth/consent': typeof DotlovableOauthConsentRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/auth': typeof AuthRoute
+  '/install': typeof InstallRoute
+  '/mcp': typeof McpRoute
+  '/.well-known/oauth-protected-resource': typeof Char91DotwellKnownChar93OauthProtectedResourceRoute
+  '/abilities': typeof AuthenticatedAbilitiesRoute
+  '/admin': typeof AuthenticatedAdminRoute
+  '/ai': typeof AuthenticatedAiRoute
+  '/archive': typeof AuthenticatedArchiveRoute
+  '/character': typeof AuthenticatedCharacterRoute
+  '/characters': typeof AuthenticatedCharactersRoute
+  '/clans': typeof AuthenticatedClansRoute
+  '/fandom': typeof AuthenticatedFandomRoute
+  '/graph': typeof AuthenticatedGraphRoute
+  '/ingest': typeof AuthenticatedIngestRoute
+  '/map': typeof AuthenticatedMapRoute
+  '/orgs': typeof AuthenticatedOrgsRoute
+  '/profile': typeof AuthenticatedProfileRoute
+  '/reader': typeof AuthenticatedReaderRoute
+  '/series': typeof AuthenticatedSeriesRoute
+  '/story': typeof AuthenticatedStoryRoute
+  '/timeline': typeof AuthenticatedTimelineRoute
+  '/vault': typeof AuthenticatedVaultRoute
+  '/.lovable/oauth/consent': typeof DotlovableOauthConsentRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/_authenticated': typeof AuthenticatedRouteRouteWithChildren
+  '/auth': typeof AuthRoute
+  '/install': typeof InstallRoute
+  '/mcp': typeof McpRoute
+  '/.well-known/oauth-protected-resource': typeof Char91DotwellKnownChar93OauthProtectedResourceRoute
+  '/_authenticated/abilities': typeof AuthenticatedAbilitiesRoute
+  '/_authenticated/admin': typeof AuthenticatedAdminRoute
+  '/_authenticated/ai': typeof AuthenticatedAiRoute
+  '/_authenticated/archive': typeof AuthenticatedArchiveRoute
+  '/_authenticated/character': typeof AuthenticatedCharacterRoute
+  '/_authenticated/characters': typeof AuthenticatedCharactersRoute
+  '/_authenticated/clans': typeof AuthenticatedClansRoute
+  '/_authenticated/fandom': typeof AuthenticatedFandomRoute
+  '/_authenticated/graph': typeof AuthenticatedGraphRoute
+  '/_authenticated/ingest': typeof AuthenticatedIngestRoute
+  '/_authenticated/map': typeof AuthenticatedMapRoute
+  '/_authenticated/orgs': typeof AuthenticatedOrgsRoute
+  '/_authenticated/profile': typeof AuthenticatedProfileRoute
+  '/_authenticated/reader': typeof AuthenticatedReaderRoute
+  '/_authenticated/series': typeof AuthenticatedSeriesRoute
+  '/_authenticated/story': typeof AuthenticatedStoryRoute
+  '/_authenticated/timeline': typeof AuthenticatedTimelineRoute
+  '/_authenticated/vault': typeof AuthenticatedVaultRoute
+  '/.lovable/oauth/consent': typeof DotlovableOauthConsentRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    | '/'
+    | '/auth'
+    | '/install'
+    | '/mcp'
+    | '/.well-known/oauth-protected-resource'
+    | '/abilities'
+    | '/admin'
+    | '/ai'
+    | '/archive'
+    | '/character'
+    | '/characters'
+    | '/clans'
+    | '/fandom'
+    | '/graph'
+    | '/ingest'
+    | '/map'
+    | '/orgs'
+    | '/profile'
+    | '/reader'
+    | '/series'
+    | '/story'
+    | '/timeline'
+    | '/vault'
+    | '/.lovable/oauth/consent'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to:
+    | '/'
+    | '/auth'
+    | '/install'
+    | '/mcp'
+    | '/.well-known/oauth-protected-resource'
+    | '/abilities'
+    | '/admin'
+    | '/ai'
+    | '/archive'
+    | '/character'
+    | '/characters'
+    | '/clans'
+    | '/fandom'
+    | '/graph'
+    | '/ingest'
+    | '/map'
+    | '/orgs'
+    | '/profile'
+    | '/reader'
+    | '/series'
+    | '/story'
+    | '/timeline'
+    | '/vault'
+    | '/.lovable/oauth/consent'
+  id:
+    | '__root__'
+    | '/'
+    | '/_authenticated'
+    | '/auth'
+    | '/install'
+    | '/mcp'
+    | '/.well-known/oauth-protected-resource'
+    | '/_authenticated/abilities'
+    | '/_authenticated/admin'
+    | '/_authenticated/ai'
+    | '/_authenticated/archive'
+    | '/_authenticated/character'
+    | '/_authenticated/characters'
+    | '/_authenticated/clans'
+    | '/_authenticated/fandom'
+    | '/_authenticated/graph'
+    | '/_authenticated/ingest'
+    | '/_authenticated/map'
+    | '/_authenticated/orgs'
+    | '/_authenticated/profile'
+    | '/_authenticated/reader'
+    | '/_authenticated/series'
+    | '/_authenticated/story'
+    | '/_authenticated/timeline'
+    | '/_authenticated/vault'
+    | '/.lovable/oauth/consent'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AuthenticatedRouteRoute: typeof AuthenticatedRouteRouteWithChildren
+  AuthRoute: typeof AuthRoute
+  InstallRoute: typeof InstallRoute
+  McpRoute: typeof McpRoute
+  Char91DotwellKnownChar93OauthProtectedResourceRoute: typeof Char91DotwellKnownChar93OauthProtectedResourceRoute
+  DotlovableOauthConsentRoute: typeof DotlovableOauthConsentRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +342,231 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/_authenticated': {
+      id: '/_authenticated'
+      path: ''
+      fullPath: '/'
+      preLoaderRoute: typeof AuthenticatedRouteRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/auth': {
+      id: '/auth'
+      path: '/auth'
+      fullPath: '/auth'
+      preLoaderRoute: typeof AuthRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/install': {
+      id: '/install'
+      path: '/install'
+      fullPath: '/install'
+      preLoaderRoute: typeof InstallRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/mcp': {
+      id: '/mcp'
+      path: '/mcp'
+      fullPath: '/mcp'
+      preLoaderRoute: typeof McpRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/.well-known/oauth-protected-resource': {
+      id: '/.well-known/oauth-protected-resource'
+      path: '/.well-known/oauth-protected-resource'
+      fullPath: '/.well-known/oauth-protected-resource'
+      preLoaderRoute: typeof Char91DotwellKnownChar93OauthProtectedResourceRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/_authenticated/abilities': {
+      id: '/_authenticated/abilities'
+      path: '/abilities'
+      fullPath: '/abilities'
+      preLoaderRoute: typeof AuthenticatedAbilitiesRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/admin': {
+      id: '/_authenticated/admin'
+      path: '/admin'
+      fullPath: '/admin'
+      preLoaderRoute: typeof AuthenticatedAdminRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/ai': {
+      id: '/_authenticated/ai'
+      path: '/ai'
+      fullPath: '/ai'
+      preLoaderRoute: typeof AuthenticatedAiRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/archive': {
+      id: '/_authenticated/archive'
+      path: '/archive'
+      fullPath: '/archive'
+      preLoaderRoute: typeof AuthenticatedArchiveRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/character': {
+      id: '/_authenticated/character'
+      path: '/character'
+      fullPath: '/character'
+      preLoaderRoute: typeof AuthenticatedCharacterRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/characters': {
+      id: '/_authenticated/characters'
+      path: '/characters'
+      fullPath: '/characters'
+      preLoaderRoute: typeof AuthenticatedCharactersRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/clans': {
+      id: '/_authenticated/clans'
+      path: '/clans'
+      fullPath: '/clans'
+      preLoaderRoute: typeof AuthenticatedClansRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/fandom': {
+      id: '/_authenticated/fandom'
+      path: '/fandom'
+      fullPath: '/fandom'
+      preLoaderRoute: typeof AuthenticatedFandomRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/graph': {
+      id: '/_authenticated/graph'
+      path: '/graph'
+      fullPath: '/graph'
+      preLoaderRoute: typeof AuthenticatedGraphRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/ingest': {
+      id: '/_authenticated/ingest'
+      path: '/ingest'
+      fullPath: '/ingest'
+      preLoaderRoute: typeof AuthenticatedIngestRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/map': {
+      id: '/_authenticated/map'
+      path: '/map'
+      fullPath: '/map'
+      preLoaderRoute: typeof AuthenticatedMapRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/orgs': {
+      id: '/_authenticated/orgs'
+      path: '/orgs'
+      fullPath: '/orgs'
+      preLoaderRoute: typeof AuthenticatedOrgsRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/profile': {
+      id: '/_authenticated/profile'
+      path: '/profile'
+      fullPath: '/profile'
+      preLoaderRoute: typeof AuthenticatedProfileRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/reader': {
+      id: '/_authenticated/reader'
+      path: '/reader'
+      fullPath: '/reader'
+      preLoaderRoute: typeof AuthenticatedReaderRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/series': {
+      id: '/_authenticated/series'
+      path: '/series'
+      fullPath: '/series'
+      preLoaderRoute: typeof AuthenticatedSeriesRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/story': {
+      id: '/_authenticated/story'
+      path: '/story'
+      fullPath: '/story'
+      preLoaderRoute: typeof AuthenticatedStoryRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/timeline': {
+      id: '/_authenticated/timeline'
+      path: '/timeline'
+      fullPath: '/timeline'
+      preLoaderRoute: typeof AuthenticatedTimelineRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/_authenticated/vault': {
+      id: '/_authenticated/vault'
+      path: '/vault'
+      fullPath: '/vault'
+      preLoaderRoute: typeof AuthenticatedVaultRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
+    '/.lovable/oauth/consent': {
+      id: '/.lovable/oauth/consent'
+      path: '/.lovable/oauth/consent'
+      fullPath: '/.lovable/oauth/consent'
+      preLoaderRoute: typeof DotlovableOauthConsentRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
+interface AuthenticatedRouteRouteChildren {
+  AuthenticatedAbilitiesRoute: typeof AuthenticatedAbilitiesRoute
+  AuthenticatedAdminRoute: typeof AuthenticatedAdminRoute
+  AuthenticatedAiRoute: typeof AuthenticatedAiRoute
+  AuthenticatedArchiveRoute: typeof AuthenticatedArchiveRoute
+  AuthenticatedCharacterRoute: typeof AuthenticatedCharacterRoute
+  AuthenticatedCharactersRoute: typeof AuthenticatedCharactersRoute
+  AuthenticatedClansRoute: typeof AuthenticatedClansRoute
+  AuthenticatedFandomRoute: typeof AuthenticatedFandomRoute
+  AuthenticatedGraphRoute: typeof AuthenticatedGraphRoute
+  AuthenticatedIngestRoute: typeof AuthenticatedIngestRoute
+  AuthenticatedMapRoute: typeof AuthenticatedMapRoute
+  AuthenticatedOrgsRoute: typeof AuthenticatedOrgsRoute
+  AuthenticatedProfileRoute: typeof AuthenticatedProfileRoute
+  AuthenticatedReaderRoute: typeof AuthenticatedReaderRoute
+  AuthenticatedSeriesRoute: typeof AuthenticatedSeriesRoute
+  AuthenticatedStoryRoute: typeof AuthenticatedStoryRoute
+  AuthenticatedTimelineRoute: typeof AuthenticatedTimelineRoute
+  AuthenticatedVaultRoute: typeof AuthenticatedVaultRoute
+}
+
+const AuthenticatedRouteRouteChildren: AuthenticatedRouteRouteChildren = {
+  AuthenticatedAbilitiesRoute: AuthenticatedAbilitiesRoute,
+  AuthenticatedAdminRoute: AuthenticatedAdminRoute,
+  AuthenticatedAiRoute: AuthenticatedAiRoute,
+  AuthenticatedArchiveRoute: AuthenticatedArchiveRoute,
+  AuthenticatedCharacterRoute: AuthenticatedCharacterRoute,
+  AuthenticatedCharactersRoute: AuthenticatedCharactersRoute,
+  AuthenticatedClansRoute: AuthenticatedClansRoute,
+  AuthenticatedFandomRoute: AuthenticatedFandomRoute,
+  AuthenticatedGraphRoute: AuthenticatedGraphRoute,
+  AuthenticatedIngestRoute: AuthenticatedIngestRoute,
+  AuthenticatedMapRoute: AuthenticatedMapRoute,
+  AuthenticatedOrgsRoute: AuthenticatedOrgsRoute,
+  AuthenticatedProfileRoute: AuthenticatedProfileRoute,
+  AuthenticatedReaderRoute: AuthenticatedReaderRoute,
+  AuthenticatedSeriesRoute: AuthenticatedSeriesRoute,
+  AuthenticatedStoryRoute: AuthenticatedStoryRoute,
+  AuthenticatedTimelineRoute: AuthenticatedTimelineRoute,
+  AuthenticatedVaultRoute: AuthenticatedVaultRoute,
+}
+
+const AuthenticatedRouteRouteWithChildren =
+  AuthenticatedRouteRoute._addFileChildren(AuthenticatedRouteRouteChildren)
+
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AuthenticatedRouteRoute: AuthenticatedRouteRouteWithChildren,
+  AuthRoute: AuthRoute,
+  InstallRoute: InstallRoute,
+  McpRoute: McpRoute,
+  Char91DotwellKnownChar93OauthProtectedResourceRoute:
+    Char91DotwellKnownChar93OauthProtectedResourceRoute,
+  DotlovableOauthConsentRoute: DotlovableOauthConsentRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

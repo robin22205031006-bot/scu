@@ -1,0 +1,104 @@
+{
+  "file": "ZAAN  (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Zaan al-Murad",
+      "alias": "The Cursed Prodigy",
+      "role": "Protagonist",
+      "status": "Alive",
+      "category": "Anti-Hero",
+      "description": "A brilliant scientist and genius who becomes a cursed figure, seeking peace but plagued by the loss of loved ones and forbidden resurrection science.",
+      "quote": "Zaan al-Murad (nickname: The Cursed Prodigy) Age: 26 Appearance: Once considered the most handsome man of his generation. Tall, sharp-jawed, with intense eyes."
+    },
+    {
+      "kind": "character",
+      "name": "Raisa bint Khalid",
+      "alias": null,
+      "role": "Support",
+      "status": "Dead",
+      "category": "Protagonist",
+      "description": "Zaan's first love and a brilliant student of science who helps him in his forbidden rituals before ultimately dying trying to help him.",
+      "quote": "Zaan’s first love, the only one who ever entered his lab and stood beside him in a divine scientific ritual."
+    },
+    {
+      "kind": "character",
+      "name": "Shina Nasrin",
+      "alias": null,
+      "role": "Support",
+      "status": "Dead",
+      "category": "Protagonist",
+      "description": "A gentle, humble woman who falls in love with Zaan while living in hiding and is ultimately murdered by villagers.",
+      "quote": "Unmarried pregnant woman who was taken in by Grandma Aysha. Eventually falls in love with Zaan, who accepts her and her unborn child."
+    },
+    {
+      "kind": "character",
+      "name": "Ayesha Khatoon",
+      "alias": "Grandma Ayesha",
+      "role": "Support",
+      "status": "Dead",
+      "category": "Support",
+      "description": "An elderly, wise, and fierce woman who provides shelter to Zaan and Shina, acting as a maternal figure.",
+      "quote": "Treated Zaan as her son from the start, knowing he wasn’t Yousuf. Final Fate: Brutally murdered by villagers."
+    },
+    {
+      "kind": "character",
+      "name": "Rahim Ibn Suleiman",
+      "alias": null,
+      "role": "Support",
+      "status": "Alive",
+      "category": "Support",
+      "description": "A patient and selfless man originally arranged to marry Raisa, who offers emotional support.",
+      "quote": "The man Raisa was arranged to marry. Though he resembled Zaan slightly in voice and manner, he never tried to \"replace\" Zaan."
+    },
+    {
+      "kind": "character",
+      "name": "Mizan",
+      "alias": null,
+      "role": "Antagonist",
+      "status": "Alive",
+      "category": "Antagonist",
+      "description": "A village boy who initially supported Zaan but later betrayed and killed Shina out of fear and mob mentality.",
+      "quote": "Final Turn: Betrayed and stabbed Shina and Grandma due to fear, manipulated by the mob mentality."
+    },
+    {
+      "kind": "character",
+      "name": "Raijan",
+      "alias": null,
+      "role": "Antagonist",
+      "status": "Alive",
+      "category": "Antagonist",
+      "description": "A village boy who initially supported Zaan but eventually turned against him due to mob mentality.",
+      "quote": "Final Turn: Betrayed and stabbed Shina and Grandma due to fear, manipulated by the mob mentality."
+    },
+    {
+      "kind": "organization",
+      "name": "Imperial Institute of Advanced Sciences",
+      "alias": null,
+      "role": "Organization",
+      "status": "Active",
+      "category": "Organization",
+      "description": "The prestigious scientific institute in Hayrabad where Zaan and Raisa conducted their initial studies.",
+      "quote": "Among the most prestigious of these institutions was The Imperial Institute of Advanced Sciences — a place where only the brightest, most privileged minds dared to enter."
+    },
+    {
+      "kind": "faction",
+      "name": "Ottoman Guards",
+      "alias": null,
+      "role": "Faction",
+      "status": "Active",
+      "category": "Faction",
+      "description": "Military forces representing the empire's law, frequently hunting Zaan due to his forbidden scientific research.",
+      "quote": "Represent law, order, and silence. They aren’t entirely evil—but they are products of a broken empire trying to retain control."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The First Revival Experiment",
+      "era": "1904",
+      "description": "Zaan and Raisa attempt to revive a deceased criminal, resulting in an explosion that burns Zaan and kills him briefly before he awakens.",
+      "quote": "Zaan adjusted the levers, his voice tense but steady: \"Tonight, we attempt to seize what no man has seized. To reverse God’s decree.\""
+    }
+  ]
+}

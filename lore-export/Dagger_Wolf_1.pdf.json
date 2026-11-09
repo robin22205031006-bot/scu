@@ -1,0 +1,97 @@
+{
+  "file": "Dagger Wolf_1.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "David",
+      "alias": "Dagger Wolf",
+      "role": "Independent operative, ally of the Sentinels",
+      "status": "Alive",
+      "description": "A chaotic neutral gray antihero who fights with freestyle chaos, wields twin energy daggers, and possesses portal teleportation abilities.",
+      "quote": "David Zaman Codename: Dagger Wolf Affiliation: Independent operative, ally of the Sentinels (non-registered) Alignment: Chaotic neutral — the storm between right and wrong"
+    },
+    {
+      "kind": "character",
+      "name": "Maliha",
+      "alias": null,
+      "role": "Lover",
+      "status": null,
+      "description": "Newly joined character who is the obsession and lover of David.",
+      "quote": "david is basically the love interest of a newly joined character maliha.Both loves each other."
+    },
+    {
+      "kind": "character",
+      "name": "RavenBlade",
+      "alias": null,
+      "role": "Fighter",
+      "status": null,
+      "description": "A well-trained brutal character fighting alongside Ghost.",
+      "quote": "while RavenBlade and Ghost is well trained brutal character.David is wild."
+    },
+    {
+      "kind": "character",
+      "name": "Ghost",
+      "alias": null,
+      "role": "Fighter",
+      "status": null,
+      "description": "A well-trained brutal character representing trained precision.",
+      "quote": "Where Ghost is trained precision and Ravenblade is honed brutality, David is instinct given shape — an artist of violence."
+    },
+    {
+      "kind": "character",
+      "name": "Samuel",
+      "alias": null,
+      "role": "Fighter",
+      "status": null,
+      "description": "Fighter who knows how to use any weapon or learns it very fast.",
+      "quote": "yeah,like samuel.but unlike samuel who knows how to use any weapon.even if he doesn't he learns it very fast."
+    },
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": "Silent ally",
+      "status": null,
+      "description": "Trusted silent ally of David who secretly coordinates missions with him.",
+      "quote": "He trusts ethan ,but not highlighted ."
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": null,
+      "role": "Little-sister figure",
+      "status": null,
+      "description": "Treated as a little sister by David.",
+      "quote": "also he sees nyxia as his little sister.even though it's also not highly showed in the story."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": "Older brother",
+      "status": null,
+      "description": "Older brother to David, revealed in season 2.",
+      "quote": "in season 2,it's revealed that basically zayn is his older brother."
+    },
+    {
+      "kind": "character",
+      "name": "Agnus",
+      "alias": null,
+      "role": "Opponent",
+      "status": null,
+      "description": "Fights Zayn and reveals David's family lineage.",
+      "quote": "when zayn appears to fight agnus.where agnus says he is actually his older brother."
+    },
+    {
+      "kind": "organization",
+      "name": "Sentinels",
+      "alias": null,
+      "role": "Superpowered team/group",
+      "status": "Active",
+      "description": "A group of members whose identities must not be exposed by David.",
+      "quote": "he never does anything that will expose the identity of sentinels members."
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

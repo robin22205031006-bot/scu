@@ -1,0 +1,41 @@
+{
+  "file": "AARIZ MADDOX Ability.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Aariz Maddox",
+      "alias": null,
+      "role": "hunter-survivor",
+      "status": null,
+      "description": "A combatant possessing Bestiakinesis and Hyperkinesis who adapts through animal transformation, beast communication, and enhanced sensory awareness.",
+      "quote": "Together, they make Aariz a hunter-survivor, not a brute."
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A figure whose abilities ignore physical forms.",
+      "quote": "❌ Nyxia ignores physical forms"
+    },
+    {
+      "kind": "character",
+      "name": "Agnus",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An individual capable of suppressing movement using Qahr.",
+      "quote": "❌ Agnus can suppress movement with Qahr"
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Revelation of the Beast Realm",
+      "era": "Season 2",
+      "description": "The Beast Realm is revealed, unlocking Aariz's Mimic Form ability to copy mythical beasts he has fought.",
+      "quote": "Unlocked when the Beast Realm is revealed (Season 2)."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "file": "silas and agnus behave.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Silas Duskmoor",
+      "alias": null,
+      "role": "Extroverted authority figure",
+      "status": "Alive",
+      "description": "An extroverted fighter whose presence and combat style evoke a beast-like intensity that serves as an ancestral threat to dragons.",
+      "quote": "Silas Duskmoor Extroverted Authority | Expressive Violence Public-facing presence Silas occupies space. He laughs loud, speaks freely, mocks openly."
+    },
+    {
+      "kind": "character",
+      "name": "Agnus",
+      "alias": null,
+      "role": "Introverted authority figure",
+      "status": "Alive",
+      "description": "An introverted and minimalist combatant whose silent, unpredictable nature makes him an environmental threat to demons.",
+      "quote": "Agnus Introverted Authority | Economized Violence Silence as control Agnus doesn’t fill rooms. He empties them."
+    },
+    {
+      "kind": "character",
+      "name": "Tedmond Duskmoor",
+      "alias": null,
+      "role": "Historical executioner",
+      "status": "Legend",
+      "description": "A past member of the Duskmoor bloodline who established the family's legacy as dragon hunters.",
+      "quote": "Tedmond Duskmoor proved dragons can be killed, hunted, and driven back."
+    },
+    {
+      "kind": "bloodline",
+      "name": "Duskmoor",
+      "alias": null,
+      "role": "Historical dragon executioners",
+      "status": "Active",
+      "description": "A bloodline historically feared by dragons due to their demonstrated ability to hunt and kill the species.",
+      "quote": "Duskmoors are not myth to dragons — they are historical executioners."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Establishment of Duskmoor Dragon Hunting",
+      "era": null,
+      "description": "Tedmond Duskmoor solidified the bloodline's reputation by demonstrating that dragons were mortal and could be driven back.",
+      "quote": "Tedmond Duskmoor proved dragons can be killed, hunted, and driven back. Silas carries that lineage visibly in presence, combat style, and aura."
+    }
+  ]
+}

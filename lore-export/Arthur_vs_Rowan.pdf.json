@@ -1,0 +1,50 @@
+{
+  "file": "Arthur vs Rowan.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Arthur",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "A dragon with immense authority who stands at the center of Earth's Ruin.",
+      "quote": "Arthur stands at the center of it all. A true dragon. Not wings and fire alone—authority."
+    },
+    {
+      "kind": "character",
+      "name": "Rowan",
+      "alias": "Rowan Duskmoor",
+      "role": null,
+      "status": "Alive",
+      "description": "A severely injured warrior who refuses to yield to Arthur and roars in defiance.",
+      "quote": "Rowan moves. His fingers twitch first. Then his shoulder jerks as he forces himself upright."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "A warrior who unleashes red lightning as he stands against Arthur.",
+      "quote": "Zayn steps forward. Lightning gathers around him, red and furious."
+    },
+    {
+      "kind": "character",
+      "name": "Silas",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "The original owner of the chains used by Rowan.",
+      "quote": "Silas’s chains. The ones given not as a weapon—but as a burden."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Roar of Duskmoor",
+      "era": null,
+      "description": "Rowan forces himself up from critical injuries and roars his refusal to surrender to Arthur, igniting Silas's chains.",
+      "quote": "EPISODE SEGMENT — “THE ROAR OF DUSKMOOR” The Battlefield — Earth’s Ruin"
+    }
+  ]
+}

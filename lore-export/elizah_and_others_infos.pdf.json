@@ -1,0 +1,30 @@
+{
+  "file": "elizah and others infos.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Lucan Vale",
+      "alias": null,
+      "role": "Antagonist",
+      "status": "Alive",
+      "category": "Antagonist",
+      "description": "A speedster and a clone of Alt Weston created by Alt David.",
+      "quote": "lucan vale,the speed star whom our weston faced in season 2 is basically alt westons clone made by alt david."
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Stitch",
+      "new_facts": "Stitch is killed by the Covenant Leader after being humiliated and left defeated in the field.",
+      "status": "Dead",
+      "quote": "before he could complete his sentence..a dagger hit his throat!stitch died bleeding"
+    },
+    {
+      "existing_name": "Maliha",
+      "new_facts": "Maliha was attacked by Norman and Pristine but was saved/taken by Arzuna.",
+      "status": "Alive",
+      "quote": "they faced arzuna.who later managed to take maliha with her somehow."
+    }
+  ],
+  "timeline_events": []
+}

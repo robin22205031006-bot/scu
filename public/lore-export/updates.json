@@ -1,0 +1,709 @@
+[
+  {
+    "existing_name": "Damian Brown",
+    "new_facts": "Added traits of being witty, fun-loving, and savage when needed, blending Zayn's wit, Ethan's calm, and Rowan's chaos.",
+    "status": "Alive",
+    "quote": "UPDATE — DAMIAN BROWN (Added Traits) also witty like Zayn fun-loving savage when needed, same vibe as Zayn so his personality is a mix of: Zayn’s wit + Ethan’s calm + Rowan’s chaos-partners vibe",
+    "source": "behave of characters.pdf"
+  },
+  {
+    "existing_name": "Silas Duskmoor",
+    "new_facts": "Silas exhibits extroverted authority, loud dominance, savage humor, sometimes acts dumb on purpose, and fights like a storm with big explosive movement.",
+    "status": "Alive",
+    "quote": "Silas = extroverted authority, loud dominance, savage humor, sometimes “acts dumb” on purpose, fights like a storm with big explosive movement.",
+    "source": "Canons duskmoor origin.pdf"
+  },
+  {
+    "existing_name": "Agnus",
+    "new_facts": "Agnus possesses introverted authority, silent finality, speaks selectively, and fights with minimal movement and precise execution energy.",
+    "status": "Alive",
+    "quote": "Agnus = introverted authority, silent finality, speaks selectively (especially only with Silas), fights with minimal movement, precise execution energy.",
+    "source": "Canons duskmoor origin.pdf"
+  },
+  {
+    "existing_name": "Norman",
+    "new_facts": "Norman's villain turn was engineered through social engineering by Elizabeth Pristine, who framed him as a killer and pushed him into becoming Norman the Paleborne.",
+    "status": "Alive",
+    "quote": "A shapeshifting girl aligned with Khalid, Elizabeth Pristine, stages events to break Liam–Norman trust. She frames Norman as the killer, fakes “saving” him, and pushes him into the point-of-no-return.",
+    "source": "Canons duskmoor origin.pdf"
+  },
+  {
+    "existing_name": "Elizabeth Pristine",
+    "new_facts": "Elizabeth Pristine is a shapeshifting girl aligned with Khalid who stages events to break trust between Liam and Norman.",
+    "status": "Alive",
+    "quote": "A shapeshifting girl aligned with Khalid, Elizabeth Pristine, stages events to break Liam–Norman trust.",
+    "source": "Canons duskmoor origin.pdf"
+  },
+  {
+    "existing_name": "Eldrich Aldercrest",
+    "new_facts": "Eldrich's romantic partner was Elina Quins. After Dorian's death and Khalid's revenge, Eldrich became half-demonic and vanished, and is presumed dead while visiting various graves from the shadows.",
+    "status": "Missing",
+    "quote": "After Dorian’s death and Khalid’s revenge, Eldrich becomes half-demonic and vanishes; presumed dead. Elina never remarries; Eldrich watches from shadows; she dies of old age while he remains.",
+    "source": "Canons duskmoor origin.pdf"
+  },
+  {
+    "existing_name": "Grace",
+    "new_facts": "Grace retires at S3 end with Vanguard and chooses rest. She later returns in S5 to go to the girls' side against Alter David as a stabilizer, choosing judgment with compassion.",
+    "status": "Retired",
+    "quote": "Grace retiring at S3 end (with Vanguard) This is actually very strong writing. Why it works: Grace’s arc was never about endless escalation She started as a healer → became a judge → chooses rest Her retirement says: power does not own me",
+    "source": "clarifications.pdf"
+  },
+  {
+    "existing_name": "Nilanjona",
+    "new_facts": "Nilanjona takes guardianship in S4 continuing her lineage and later returns in S5 to help against Niharo when guardians respond to existential threats.",
+    "status": "Alive",
+    "quote": "Nilanjona taking guardianship in S4 This is also clean and culturally grounded. Why it works: She isn’t “quitting” — she’s continuing lineage Her mother’s role matters now It closes her personal loop without killing her",
+    "source": "clarifications.pdf"
+  },
+  {
+    "existing_name": "Arzuna",
+    "new_facts": "Arzuna shifts from villain to an anti-hero with a vanishing presence, making short appearances in S4, killing Maliha out of mercy wrapped in brutality, and returning after Yoshiko's death as the executioner of inevitability.",
+    "status": "Alive",
+    "quote": "Villain → anti-hero → vanishing presence This is risky territory — but you’re handling it right. Why it works: Arzuna was never pure evil She was corrupted but conscious Vanishing keeps her unpredictable",
+    "source": "clarifications.pdf"
+  },
+  {
+    "existing_name": "Maliha",
+    "new_facts": "Maliha knowingly and willingly joins Alter David despite knowing he is wrong, proving that love can damn you, and is eventually killed by Arzuna.",
+    "status": "Dead",
+    "quote": "Maliha knows Alter David is wrong She joins anyway Love overrides morality That’s not villainy. That’s human weakness taken to its extreme.",
+    "source": "clarifications.pdf"
+  },
+  {
+    "existing_name": "Yoshiko",
+    "new_facts": "Yoshiko dies, breaking Nyxia, permanently shifting the S5 tone, and signaling that no one is safe.",
+    "status": "Dead",
+    "quote": "Yoshiko’s death: Breaks Nyxia Shifts S5 tone permanently Signals “no one is safe” Arzuna appearing after that: Prevents collapse Replaces rage with action",
+    "source": "clarifications.pdf"
+  },
+  {
+    "existing_name": "Nyxia",
+    "new_facts": "Nyxia learns control without losing mercy, learns that vengeance does not equal justice after Yoshiko's death, and experiences psychological state changes.",
+    "status": "Alive",
+    "quote": "Nyxia learns control without mercy loss Grace chooses judgment with compassion Arzuna chooses action without forgiveness",
+    "source": "clarifications.pdf"
+  },
+  {
+    "existing_name": "Ethan Thorne",
+    "new_facts": "Ethan learns to accept darkness without becoming it in S5.",
+    "status": "Alive",
+    "quote": "Ethan learns to accept darkness without becoming it",
+    "source": "clarifications.pdf"
+  },
+  {
+    "existing_name": "Marcello Corvani",
+    "new_facts": "Corvani was 25 years younger than Victor and Stitch. He was saved by Stitch from a burned slum when he was a young agent. His former codename was Whale, derived from an ocean incident where a whale stuck to their Navy ship fan and he calmly swam out, freed it, and fell asleep with a cigar in his mouth. He opposed Stitch's ideology and left ECAP around 2005 when Victor's son died. He got trapped in a pocket dimension where he met Aeric Valenheart and lost an eye fighting Alter David. In 2025, he and Aeric learned to escape the pocket dimension, met Zaan, and returned to the ocean where his rescued whale saved a falling Ethan.",
+    "status": "Alive",
+    "quote": "though corvani isn't same age as victor and stitch.he is 25 years younger than them. and also lower ranked back then.and stitch took him from a burned slum when he was young agent",
+    "source": "corvani and orion things.pdf"
+  },
+  {
+    "existing_name": "Orion",
+    "new_facts": "Orion was taken from a traveling circus called Circo del Miracolo by Marcello Corvani when he was about 16 years old. Corvani recognized his presence of mind and potential after seeing him stay calm during a test of instinct.",
+    "status": "Alive",
+    "quote": "marcellos first meeting with orion where it's clear he took orion from a circus. yes ,from a circus.when he was about 16 years old.i mean,orion was 16 years old. when corvani took him seeing his presence of mind.",
+    "source": "corvani and orion things.pdf"
+  },
+  {
+    "existing_name": "Aeric Valenheart",
+    "new_facts": "Aeric got trapped in the pocket dimension where he later met Marcello Corvani, lost an eye battle involvement alongside him against Alter David, and by 2025 learned how to escape the dimension alongside Corvani.",
+    "status": null,
+    "quote": "aeric valenheart got trapped in that era.but in corvanis story. he also got trapped into that dimension too. it happened at 2005",
+    "source": "corvani and orion things.pdf"
+  },
+  {
+    "existing_name": "Alter David",
+    "new_facts": "Alter David accidentally went to the pocket dimension and fought Marcello Corvani, taking Corvani's eye before Aeric Valenheart intervened.",
+    "status": null,
+    "quote": "it was alter david who somehow also went accidently to the pocket dimension where he took corvani's eye fighting him later basically aeric came to the scene",
+    "source": "corvani and orion things.pdf"
+  },
+  {
+    "existing_name": "Ethan Thorne",
+    "new_facts": "After being brutally tortured and manarished without food for days in a secret island prison cell on the 5th floor, Ethan turned into Elizah, punched through the wall, and fell into the ocean where a whale sent by Corvani saved him.",
+    "status": "Alive",
+    "quote": "when finally in the cell ethan turns into elizah and breaks the cell with his punch,but he was manarished as he didn't eat for several days and he was tortured brutally for so many days",
+    "source": "corvani and orion things.pdf"
+  },
+  {
+    "existing_name": "Elizah",
+    "new_facts": "Form assumed by Ethan inside the secret island prison cell, using a punch to break the wall and fall into the ocean before being saved by Corvani's whale.",
+    "status": "Alive",
+    "quote": "when finally in the cell ethan turns into elizah and breaks the cell with his punch,but he was manarished as he didn't eat for several days",
+    "source": "corvani and orion things.pdf"
+  },
+  {
+    "existing_name": "Khalid",
+    "new_facts": "Identified as the killer of Hisham, leading to a fight against Zaan within the pocket dimension.",
+    "status": null,
+    "quote": "zaan vs khalid incident happen there in the pocket dimension.where zaan fought learning that khalid was the killer of hisham",
+    "source": "corvani and orion things.pdf"
+  },
+  {
+    "existing_name": "Grace",
+    "new_facts": "An Aldercrest bloodline member with dormant healing powers, unidentified as a powerful healer during the attack on Agnus's family.",
+    "status": "Alive",
+    "quote": "healers like Grace from aldercrest line borns very rarely.healer that powerful was not in that era back then.grace being the healer was little girl and not knowing she have the aldercrest blood.",
+    "source": "david and maliha tragedy (1).pdf"
+  },
+  {
+    "existing_name": "ECAP",
+    "new_facts": "Originally a government-founded scientific and military institute created to regulate and research superhuman phenomena, serving as a front for DEW's darker operations.",
+    "status": "Active",
+    "quote": "E.C.A.P. — “Enhanced Cognition & Applied Phenomena” Nature A government-founded scientific and military institute, created originally to regulate and research superhuman phenomena after the first Sentinel emergence.",
+    "source": "Dew (1)_1.pdf"
+  },
+  {
+    "existing_name": "Covenant",
+    "new_facts": "Formed from surviving DEW scientists, military officers, and World Order backers, operating as a shadow syndicate with the goal of erasing individuality.",
+    "status": "Active",
+    "quote": "The Covenant Nature A shadow syndicate formed from surviving DEW scientists, military officers, and World Order backers. They believe metas are divine mistakes that need to be re-forged under one consciousness.",
+    "source": "Dew (1)_1.pdf"
+  },
+  {
+    "existing_name": "Rowan",
+    "new_facts": "Rowan learns he is a Duskmoor during a journey when he meets Silas for the first time. In a catastrophic fight against Arthur, the chosen and true dragon, Rowan is beaten extremely badly and nearly killed, suffering severe body damage, a fractured hand, and major damage to one eye. Defying defeat, Rowan stands up bleeding and battered, picks up the chains given to him by Silas, and defiantly declares the Duskmoor creed to Arthur.",
+    "status": "Alive",
+    "quote": "while rowan met silas for the first time.and then slowly he learns in that journey that he is a duskmoor.",
+    "source": "duskmoor never gives up.pdf"
+  },
+  {
+    "existing_name": "Silas",
+    "new_facts": "Silas imparts the Duskmoor philosophy to Rowan, telling him that a Duskmoor never kneels, never falls back, roars, and never gives up. Silas ultimately dies at the hand of Arthur.",
+    "status": "Dead",
+    "quote": "as you know silas dies at the hand of arthur. so later when Rowan fights arthur.",
+    "source": "duskmoor never gives up.pdf"
+  },
+  {
+    "existing_name": "Arthur",
+    "new_facts": "Arthur is identified as the chosen dragon and a true dragon. He defeats Rowan in a catastrophic, devastating battle, acknowledges Rowan's extreme braveness and willpower, and attempts to recruit him before Rowan defiantly rejects the offer.",
+    "status": null,
+    "quote": "as arthur is the chosen dragon and he is a true dragon. but when everyone thought rowan is dead.",
+    "source": "duskmoor never gives up.pdf"
+  },
+  {
+    "existing_name": "Stitch",
+    "new_facts": "Stitch is killed by the Covenant Leader after being humiliated and left defeated in the field.",
+    "status": "Dead",
+    "quote": "before he could complete his sentence..a dagger hit his throat!stitch died bleeding",
+    "source": "elizah and others infos.pdf"
+  },
+  {
+    "existing_name": "Maliha",
+    "new_facts": "Maliha was attacked by Norman and Pristine but was saved/taken by Arzuna.",
+    "status": "Alive",
+    "quote": "they faced arzuna.who later managed to take maliha with her somehow.",
+    "source": "elizah and others infos.pdf"
+  },
+  {
+    "existing_name": "Elizah",
+    "new_facts": "Elizah fights hybrids, gets impaled by a spear, continues fighting with the spear through his torso, and has a close intimate and fighting dynamic with Nyxia.",
+    "status": "Alive",
+    "quote": "A spear punches straight through his chest. The force lifts him off his feet. The world snaps sideways— —and he slams against the wall, impaled, hanging there.",
+    "source": "Elizah,nyxia,samuel.pdf"
+  },
+  {
+    "existing_name": "Aariz Maddox",
+    "new_facts": "Aariz Maddox joins Samuel and Nyxia at the abandoned hospital to hunt hybrids and helps de-escalate fights.",
+    "status": "Alive",
+    "quote": "Aariz Maddox lands in a crouch, too light for his size, eyes already scanning.",
+    "source": "Elizah,nyxia,samuel.pdf"
+  },
+  {
+    "existing_name": "Stitch",
+    "new_facts": "Stitch is associated with bodies of overdosed victims who took too much borrowed power.",
+    "status": null,
+    "quote": "Nyxia kneels. Touches his wrist. Cold. Her jaw tightens. Nyxia (quiet, bitter) “...Stitch.”",
+    "source": "Elizah,nyxia,samuel.pdf"
+  },
+  {
+    "existing_name": "Ethan Thorne",
+    "new_facts": "Ethan has two personalities, the other being Elizah. He was bullied from childhood due to abnormal behavior, a native language after shifting from village to town, and poor studies. He developed Elizah as a mental twin brother who acted as his savior against bullies. He later met Zayn in class 5, fell in love with a cheating girl in class 10, met Nilanjona in college who brought his original self back, and later had Grace as a partner.",
+    "status": "Alive",
+    "quote": "he has 2 personalities .another one is elizah.who is very badass and brutal and unlike ethan he is extrovert and charming too. so,in my story,i wanted to show ethan is bullied from his childhood",
+    "source": "Ethan and Elizah_1.pdf"
+  },
+  {
+    "existing_name": "Elizah",
+    "new_facts": "Elizah is Ethan's second personality who is very badass, brutal, extroverted, and charming. He acted as a mental twin brother and protector who saved Ethan from bullies, gave exams in Ethan's place to show smartness, fought back savagely, and vanished when Zayn or Grace came into Ethan's life.",
+    "status": "Alive",
+    "quote": "another one is elizah.who is very badass and brutal and unlike ethan he is extrovert and charming too. so,in my story,i wanted to show ethan is bullied from his childhood",
+    "source": "Ethan and Elizah_1.pdf"
+  },
+  {
+    "existing_name": "Nilanjona",
+    "new_facts": "Nilanjona met Ethan or Elizah in college and made him return to his original Ethan self without knowing about Elizah's existence, though they later separated from their romantic bond.",
+    "status": "Alive",
+    "quote": "met nilanjona.who made him ethan again without even knowing elizah's existance.and that's how ethan came back to his original self again.later nilanjona and he was separated",
+    "source": "Ethan and Elizah_1.pdf"
+  },
+  {
+    "existing_name": "Grace",
+    "new_facts": "Grace came into Ethan's life as a partner, causing Elizah to disappear, and she has a hint about the situation as a medical student.",
+    "status": "Alive",
+    "quote": "after grace came to his life as a partner.again elizah dissapeared . . but grace had a hince as she is a medical student.",
+    "source": "Ethan and Elizah_1.pdf"
+  },
+  {
+    "existing_name": "Grace",
+    "new_facts": "Grace observed Derek removing a bullet from his arm without a shirt on, fled in embarrassment when caught spying, and later shared a quiet, intimate moment with him on the rooftop.",
+    "status": "Alive",
+    "quote": "One shirtless man had completely destroyed her mental stability.",
+    "source": "Grace x Vanguard.pdf"
+  },
+  {
+    "existing_name": "issabela",
+    "new_facts": "Demoted from leadership of the Nullborn, spared Piedro, married him, and retired from fighting to hide and guard Anna's sacred sword.",
+    "status": "Retired",
+    "quote": "Issabela finally retires, letting go of the blade, the mask, and the shadows.",
+    "source": "Issabela.pdf"
+  },
+  {
+    "existing_name": "anthony",
+    "new_facts": "Former elite who served under Anna; saved Issabela and rebuilt the Nullborn under Anna's strict ideology after executing its puppet leader.",
+    "status": "Alive",
+    "quote": "Anthony — a former elite who once served under Anna.",
+    "source": "Issabela.pdf"
+  },
+  {
+    "existing_name": "Nullborn",
+    "new_facts": "Infiltrated and controlled by the Borgia before being rebuilt by Anthony as a ruthless organization operating under Anna's cold ideology.",
+    "status": "Active",
+    "quote": "With loyal survivors and Anna’s disciples, he rebuilds the Nullborn — not with mercy, but with Anna’s cold ideology",
+    "source": "Issabela.pdf"
+  },
+  {
+    "existing_name": "Hidden Ones",
+    "new_facts": "Zaan's surviving spiritual order who took in Issabela and Anthony.",
+    "status": "Active",
+    "quote": "The Hidden Ones — Zaan’s surviving spiritual order.",
+    "source": "Issabela.pdf"
+  },
+  {
+    "existing_name": "Samuel Sterling",
+    "new_facts": "Engaged in tactical combat with Alistair alongside Redline, utilizing positioning and spatial geometry.",
+    "status": null,
+    "quote": "Samuel's tie swept left Alistair was right Samuel corrected right Alistair was behind him Samuel spun",
+    "source": "Joker and the Chess master.pdf"
+  },
+  {
+    "existing_name": "Norman",
+    "new_facts": "Originally an anti-hero who turned into a villain known as 'the paleborn' after being manipulated by Elizabeth Pristine.",
+    "status": "Alive",
+    "quote": "from that moment a new villain awoke.norman the paleborn.and he shook hand with khalid again. it's the story how norman became a villain",
+    "source": "Norman.pdf"
+  },
+  {
+    "existing_name": "Liam",
+    "new_facts": "Maintained his friendship with Norman despite the internal conflicts within the org and Silas's interference.",
+    "status": "Alive",
+    "quote": "liam.and the other heroes back that time was after that girl. norman couldn't get why..but for him,she was only way of his comfort.and on the other hand liam.his old friend.",
+    "source": "Norman.pdf"
+  },
+  {
+    "existing_name": "Samuel Sterling",
+    "new_facts": "Samuel utilizes a combat identity focused on close-quarters combat, structural warfare, and adaptive martial arts including Lethwei, Krav Maga, Combat Sambo, and Silat. He possesses extreme pain tolerance, mental endurance, Ghost Sense for extreme situational awareness, and Threat Threading. His signature weapon is a softcore armament disguised as a tie that can harden beyond known metal and act as a razor-sharp, unbreakable tool.",
+    "status": "Alive",
+    "quote": "Samuel’s overall fighting style? Close-Quarters Structural Warfare. Short description: A momentum-based, anatomy-targeting combat system that blends brutal clinch striking with redirection throws and joint destruction",
+    "source": "Samuel fighting style.pdf"
+  },
+  {
+    "existing_name": "Sentinels",
+    "new_facts": "The team name is THE THREAD, and they face technological threats like Isaac Ezekiel.",
+    "status": "Active",
+    "quote": "I would call the team as Thread and 2ndly i liked the name for javed Is Mateo Cruz.",
+    "source": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-1.pdf"
+  },
+  {
+    "existing_name": "Norman",
+    "new_facts": "Fought Khalid in the lower quarter and was cursed with a drop of Khalid's blood, beginning his dark transformation into the Paleborne.",
+    "status": "Alive",
+    "quote": "A drop of his blood. One drop. Forced past Norman's lips.",
+    "source": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf"
+  },
+  {
+    "existing_name": "Khalid ibn Kharif",
+    "new_facts": "He is the son of Francisco and was given the name Kelvan by him. He held narcissistic and evil thoughts since childhood, viewing his father as weak for his beliefs, and he murdered his mother, viewing her kindness as pathetic.",
+    "status": "Alive",
+    "quote": "he wanted power at any cost.he just loved his fathers way of thinking.that's why he takes the name kelvan which was given by his father.he never respected muslilm name khalid ! and eventually he is narsistic mentality.",
+    "source": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-6.pdf"
+  },
+  {
+    "existing_name": "Maliha",
+    "new_facts": "She possessed healing abilities similar to Grace and likely harbored other latent abilities, moving beyond the status of a purely human character.",
+    "status": "Alive",
+    "quote": "she had abilities,she had healing ability.while geace only had healing ability.maliha also had that.so yeah.she might have some more abilities.",
+    "source": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-6.pdf"
+  },
+  {
+    "existing_name": "Arzuna",
+    "new_facts": "She is not a centuries-old vampire but rather a contemporary figure who gained her abilities following an incident at a shopping mall.",
+    "status": "Alive",
+    "quote": "Arzuna isn't centuries ago vampire.while grace is from present days character ,arzuna was her friend.how can you say she is thousand of centuries ago vampire.while after the shopping mall incident she got the ability.",
+    "source": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-6.pdf"
+  },
+  {
+    "existing_name": "Zaan",
+    "new_facts": "Zaan is a genius and prodigy whose research on cellular revival was flawed due to the slow recovery of the brain post-revival. He had a first love named Raisa who was also a genius and the first female student in their institute.",
+    "status": "Alive",
+    "quote": "zaans first love raisa.shina was the one who justified her love !but both the women actually loved zaan. also an info to be remember,in zaans story we knows raisa was talented that's why she got chance in that institute as student.",
+    "source": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-6.pdf"
+  },
+  {
+    "existing_name": "Rowan",
+    "new_facts": "Rowan is recognized as the physically strongest Sentinel, capable of wielding the heavy Duskmoor chain as a weapon. He defeated a weakened Silas in combat and later struggled to carry Silas's body due to the weight of his grief.",
+    "status": "Alive",
+    "quote": "Rowan is called the physically strongest sentinel.Who could carry the chain and use it like a lightweight weapon,but in reality it was too heavy for even for sentinel. That strong rowan asked others to help him carry silas dead body.",
+    "source": "Silas death (1).pdf"
+  },
+  {
+    "existing_name": "Arthur",
+    "new_facts": "Arthur is a pure, exceptional dragon and an ancestral enemy of the Duskmoor bloodline. He killed a weakened Silas Duskmoor to complete his mission.",
+    "status": "Alive",
+    "quote": "Arthur is a pure dragon and as you know he is exceptional dragon.And on the other hand silas was sick and also had a great fight with rowan.He couldn't survive arthur.",
+    "source": "Silas death (1).pdf"
+  },
+  {
+    "existing_name": "Eldrich Aldercrest",
+    "new_facts": "Became half-demon after Khalid came for revenge, did not age much, and visits graves of Elina, Dorian, his father, and Norman.",
+    "status": null,
+    "quote": "after the death of dorian cross and later when khalid came for revenge on eldrich and made him half demonic ,like a curse.from that moment eldrich vanished as if he was never there.",
+    "source": "soa and elina.pdf"
+  },
+  {
+    "existing_name": "Norman",
+    "new_facts": "Considered a friend by Eldrich, though Eldrich views him as a puppet controlled by agony and created a symbolic grave for him.",
+    "status": null,
+    "quote": "norman was convinced that he was a victim.but even after fight,eldrich always counted him as a friend.but he also knows the friend is long dead,the person is now a puppet,controlled by agony.",
+    "source": "soa and elina.pdf"
+  },
+  {
+    "existing_name": "Soa Aldercrest",
+    "new_facts": "Eldrich's cousin who died young by suicide due to pressure from the Aldercrest regarding her rare judgement power called Athena's Judgement.",
+    "status": "Dead",
+    "quote": "Soa Aldercrest Eldrich’s cousin Died young by suicide Had double Golden Eyes Power: Athena’s Judgement Destroyed by Aldercrest pressure, not villains",
+    "source": "soa and elina.pdf"
+  },
+  {
+    "existing_name": "Tedmond",
+    "new_facts": "Offered Dorian and his team to be a dragon slayer, knowing Dorian was highly potential and one of the best in his young age.",
+    "status": null,
+    "quote": "do you know even tedmond knew dorian . and he offered him with his team to he a dragon slayer. where tedmond also knew dorian was highly potential.",
+    "source": "soa and elina.pdf"
+  },
+  {
+    "existing_name": "Nullborn",
+    "new_facts": "The organization was preventative, not evil.",
+    "status": "Inactive",
+    "quote": "The audience understands: Nullborn wasn’t evil — it was preventative.",
+    "source": "straight s1-s5.pdf"
+  },
+  {
+    "existing_name": "Prince of Demons (Sparda)",
+    "new_facts": "Sparda is known as the Prince of Demons and demands submission with the line Kneel—or be rewritten.",
+    "status": null,
+    "quote": "Prince of Demons (Sparda)— “Kneel—or be rewritten.”",
+    "source": "who are these characters.pdf"
+  },
+  {
+    "existing_name": "Arashi",
+    "new_facts": "He left Nullborn because he refused to harm balanced-power hosts, losing his leadership and daughter.",
+    "status": "Alive",
+    "quote": "Arashi leaving Nullborn because of Nyxia This is a peak twist. Nullborn wanted to imprison or kill balanced-power hosts. Arashi refused.",
+    "source": "yoshiko.pdf"
+  },
+  {
+    "existing_name": "Zayn Hayes",
+    "new_facts": "Knew Yoshiko's truth from Season 1, keeping the secret to protect Nyxia.",
+    "status": "Alive",
+    "quote": "Zayn knew Yoshiko’s truth from Season 1 — CONFIRMED This is peak Zayn. You said: Yoshiko wanted to be Nyxia’s manager Zayn voted “yes” immediately Because he knew something",
+    "source": "yoshiko.pdf"
+  },
+  {
+    "existing_name": "Dorian Cross",
+    "new_facts": "Revealed to be a spy for the Nullborn rather than a villain.",
+    "status": "Alive",
+    "quote": "agnus's hidden message shares the truth of nullborn and also learns that Dorian cross ,he was actually a nullborn spy!never been a bad person though.",
+    "source": "yoshi,corvani, elizah, arashi (1).pdf"
+  },
+  {
+    "existing_name": "Khalid",
+    "new_facts": "Cruel figure who erased a runner's name, tortured a Hidden One and his family, desecrated Issabela's grave, fought Norman and cursed him into a vampire, battled John and Liam, and cursed the dragon-slayer.",
+    "status": "Alive",
+    "quote": "Khalid didn’t just kill him. He ripped his legs off mid-run, watched him crawl for help, and said: “You called this speed? This is crawling, little rat.”",
+    "source": "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf"
+  },
+  {
+    "existing_name": "Norman",
+    "new_facts": "One of three close brothers-in-arms alongside John and Liam; fought Khalid and was cursed by him into a vampire doomed to drink blood.",
+    "status": "Alive",
+    "quote": "Enter: Norman — one of three close brothers-in-arms alongside John and Liam. When Norman hears Khalid is nearby, he doesn’t wait.",
+    "source": "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf"
+  },
+  {
+    "existing_name": "John",
+    "new_facts": "One of three close brothers-in-arms, received the Architect's Cube from the Guardian, fought Khalid and unleashed a red lightning spark before suffering a mortal wound.",
+    "status": "Dead",
+    "quote": "John, Liam, Norman — now scattered. The Guardian — Liam’s father — saw it coming. Khalid came to claim the Architect’s Cube.",
+    "source": "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf"
+  },
+  {
+    "existing_name": "Liam",
+    "new_facts": "Brother-in-arms alongside John and Norman; fought alongside his father and John against Khalid, awakening his full ancient magic power after John fell.",
+    "status": "Alive",
+    "quote": "John alone fights him — then Liam joins. But Khalid is a beast. Magic means nothing. Rage isn’t enough.",
+    "source": "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf"
+  },
+  {
+    "existing_name": "Robin",
+    "new_facts": "A fragile boy with too much rage and pain whom Khalid's surviving soul waits to find.",
+    "status": "Alive",
+    "quote": "Until it finds a fragile boy with too much rage, too much pain... Robin.",
+    "source": "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf"
+  },
+  {
+    "existing_name": "Issabela",
+    "new_facts": "Her grave in Istanbul was visited by Khalid, who disparaged her memory in front of her son and Piedro.",
+    "status": "Dead",
+    "quote": "Khalid, years later. Weakened, tired — but still twisted. He wandered into Istanbul and found Issabela’s grave. A young boy knelt in front of it — her son.",
+    "source": "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf"
+  },
+  {
+    "existing_name": "Zaan",
+    "new_facts": "Referred to as a dead god by Khalid in front of a Hidden One assassin.",
+    "status": "Dead",
+    "quote": "Not for interrogation. But because he hated the way the man looked at him — like he still believed in Zaan.",
+    "source": "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf"
+  },
+  {
+    "existing_name": "Agnus",
+    "new_facts": "Agnus wields Qahr al-Wujud — 'The Subjugation of Existence'. Within his command radius, gravity subtly bends, movement becomes instinctively heavier, and enemies freeze or collapse without being touched. It is command over existence, not telekinesis: objects snap into place like soldiers obeying orders, no gestures required. Emerged from El-Mansur bloodline dominance, Architect's Cube fragment recognition, and his absolute self-certainty.",
+    "status": "Alive",
+    "quote": "Qahr forces reality to treat Agnus's intent as the highest command. It is the act of making existence obey.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Yoshiko",
+    "new_facts": "Yoshiko's signature technique is Shishjutsu — corpse manipulation through ofuda amulets, so her combat extends past the moment of death. She ends engagements at the moment she chooses, trained in patience and restraint by Arashi. Twin sister of Kazumi; both are daughters of Arashi and Kensho Arashi's bloodline (Kazumi clan, Bloodline-Kara).",
+    "status": "Alive",
+    "quote": "Her signature technique is Shishjutsu: corpse manipulation through ofuda amulets.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Kazumi",
+    "new_facts": "Kazumi is Yoshiko's twin sister and Arashi's daughter. She spent her life hating the wrong people, trained under her father's enemies carrying a false identity; discovering the truth destroys her sense of self before demanding she rebuild. Later rebuilds the Kara clan with Mashiho, then joins The Obsidians.",
+    "status": "Alive",
+    "quote": "Kazumi discovers she's Yoshiko's twin sister. Spent her entire life hating the wrong people.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Mashiho",
+    "new_facts": "Mashiho Kurohana fights and kills his own father Pride during the clan slaughter — delivering judgment on the family meant to protect him. Son of Pride (brother of Arashi) in the Kurohana clan. Later rebuilds the Kara clan with Kazumi, then joins The Obsidians.",
+    "status": "Alive",
+    "quote": "Mashiho fights his own father Pride. Kills him.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Arashi",
+    "new_facts": "Arashi held Nullborn leadership, refused the directive to eliminate Nyxia in childhood, and instead placed daughter Yoshiko near her as protector — the refusal that made DEW and Stitch hunt him. Killed at the start of Season 5 by Alt David and the Kurohana clan, dying watching Kazumi's face, never knowing she would one day understand him.",
+    "status": "Dead",
+    "quote": "Arashi is killed at the start of Season 5 by Alt David and the Kurohana clan.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Alt David",
+    "new_facts": "Alt David lost everything in Earth Prime when Asetra entered Shina's body. He found a dimension where his world still lives and built The Covenant — 'One Mind, One Motion' — using Ethereal Splicing to overwrite memory and consciousness toward a slow-time pocket dimension. Backed Stitch while DEW ran; called him 'the instrument'. Destroyed in Season 5's pocket dimension by the Female Vanguard collective, with Nyxia's Aether Dominion delivering the end.",
+    "status": "Dead",
+    "quote": "The Covenant is what happens when that sentence is applied by someone who has already lost everything.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Nyxia",
+    "new_facts": "Nyxia is the Balance host / Xinea, heir to Asetra's legacy. Season 1 ends with the Architect Cube handed to her; Season 5 she chooses revenge consciously and her Aether Dominion destroys Alt David.",
+    "status": "Alive",
+    "quote": "Nyxia chooses revenge consciously. Doesn't lose control — DECIDES.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Grace",
+    "new_facts": "Grace awakens Athena's Judgement in Season 2, pays for it mentally immediately, and retires exhausted in Season 3 — recognizing her own limits. Returns in Season 5 not as a healer but as Judgment, hardened rather than broken.",
+    "status": "Alive",
+    "quote": "Grace returns not as a healer but as Judgment.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Arzuna",
+    "new_facts": "Arzuna completes the cleanest villain-to-anti-hero arc flip in the SCU, earned through what she refuses to do. In Season 5 she kills Maliha, ending love corrupted by grief.",
+    "status": "Alive",
+    "quote": "Arzuna kills Maliha. Ends love corrupted by grief.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Niharo",
+    "new_facts": "Niharo was born in 1682 to scientists working under the old order's authority who decoded dragon genetics from Freya and Gabriel's egg. Villagers manipulated into a witchcraft accusation killed his parents and sister in 1692; ten-year-old Niharo was burned and survived. Emerges in Season 5 as the new existential threat.",
+    "status": "Alive",
+    "quote": "Ten-year-old Niharo was burned and survived.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Saya",
+    "new_facts": "Saya was raised inside DEW's training infrastructure — the Obsidian who knows from the inside how the enemy builds operatives. She broke from DEW command when ordered to eliminate Nullborn members and Ravenblade, choosing people over protocol. Ravenblade gave her Kara Yazgi after Khalid's arc.",
+    "status": "Alive",
+    "quote": "She was raised inside DEW's training infrastructure.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Anthony",
+    "new_facts": "Anthony was an old Nullborn elite who served directly under Anna la Sarta. He killed the Borgia puppet, rebuilt Nullborn restoring Anna's unforgiving code — 'One mistake. One strike. No forgiveness' — and died in 1514, cause unknown. Five centuries later his preserved essence was planted inside Derek Miles (Vanguard) by Nullborn spies embedded in DEW, replacing the control parasite DEW intended.",
+    "status": "Dead",
+    "quote": "DEW believes they are creating a puppet. Nullborn is placing their most important ideological figure inside a modern meta-human soldier.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Dorian Cross",
+    "new_facts": "Dorian Cross was among Nullborn's 15th-century operational figures alongside Ramiz, Francisco/Nasab, Anna la Sarta, Issabela/Zaynab, Marco, Mehnaz, and Abdul.",
+    "status": "Dead",
+    "quote": "Confirmed Members (15th century): Ramiz, Francisco/Nasab, Anna la Sarta, Issabela/Zaynab, Marco, Mehnaz, Abdul, Anthony, Khalid (briefly), Dorian Cross.",
+    "source": "SCU canon PDFs (Characters, Scu map, Legacy of maverick, All the institute of SCU, ALISTAIR QUINN)"
+  },
+  {
+    "existing_name": "Ethan Thorne",
+    "new_facts": "S1: stripped down — chained, 'killed', imprisoned by Stitch for the crime of being right; the crucible everything later builds on. S3: defeats Elizah by REJECTING his own blood power — his highest moral moment, restraint over the easy bloodline path. S5 THE PEAK: wields wind AND blood together, finally accepts Elizah — a child's refusal becomes an adult's synthesis; his death completes the arc.",
+    "status": "Dead",
+    "quote": "He spent S3 rejecting blood power on principle. He spent S5 INTEGRATING it with wisdom.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Elizah",
+    "new_facts": "S1: seed planted — Ethan's 'death' is the first condition of her existence. S2: the gravitational center — from awakened to undeniable, 'necessary cruelty the world forced into existence'; S2 is her defining season.",
+    "status": "Alive",
+    "quote": "She moves from awakened to undeniable. Necessary cruelty the world forced into existence.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Zayn Hayes",
+    "new_facts": "S1: framed as THE lead — discovers being the face doesn't make you the center. S2: learns of his too-late brotherhood with David — loss-shaped growth.",
+    "status": "Alive",
+    "quote": "He finds out what he had right as it's taken.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Samuel Sterling",
+    "new_facts": "S1: one definitive moment — punched Stitch and walked; the nose scar Stitch carries for the rest of the series IS Samuel's arc compressed into one action. Growth here is refusal.",
+    "status": "Alive",
+    "quote": "That nose scar Stitch carries for the rest of the series IS Samuel's S1 arc compressed into one action.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Grace",
+    "new_facts": "S2: awakens Athena's Judgement — born into power and cost in the same season, pays mentally immediately. S3: retires, mentally exhausted, honoring her own limits. S5: returns not as a healer but as Judgment — hardened, not broken.",
+    "status": "Alive",
+    "quote": "She returns not as a healer but as Judgment.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Yoshiko",
+    "new_facts": "S2: enters as 'just a manager' — isn't; quiet depth surfaces without announcement. Redline S1: fully operational spy in the field. Redline S2: Corvani dies while Samuel is absent; she chooses to leave and join The Obsidians — conviction over collapse.",
+    "status": "Alive",
+    "quote": "She doesn't collapse, she decides.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Arashi",
+    "new_facts": "S2: recontextualizes Nullborn for the entire universe — his presence grows the audience's understanding of the world. Dies at the start of S5 by Alt David and the Kurohana clan, watching Kazumi's face, never knowing she'll one day understand him — vindicated too late.",
+    "status": "Dead",
+    "quote": "Vindicated too late. That's his tragedy and it's airtight.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Silas",
+    "new_facts": "S2: appears like a myth walking into reality — even the entrance is an event.",
+    "status": "Alive",
+    "quote": "Appears like a myth walking into reality.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Marcello Corvani",
+    "new_facts": "S2: returns tired, principled, furious — re-establishes as the human spine; his finest hour. S4: returns from the pocket dimension with forbidden knowledge — not the same man who entered. Redline S2: dies while Samuel is absent.",
+    "status": "Dead",
+    "quote": "Whatever came back from that pocket dimension is not the same man who entered.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Arzuna",
+    "new_facts": "S3: villain-to-anti-hero — the cleanest arc flip in the SCU, earned through what she refuses to do. S5: kills Maliha — love corrupted by grief; the anti-hero completes through the hardest single act.",
+    "status": "Alive",
+    "quote": "No clean hands, but a completed choice.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Derek Miles",
+    "new_facts": "S3: chip removal, first crack — 'I choose'; starts becoming a person rather than a weapon. Redline S2: becomes acting commanding officer while Samuel is absent — choosing for others.",
+    "status": "Alive",
+    "quote": "The personal growth of S3 becomes professional responsibility here.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Aariz Maddox",
+    "new_facts": "S3: chases strength, gets humbled — growth through collision with his own ceiling.",
+    "status": "Alive",
+    "quote": "The lesson arrives hard.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Nilanjona",
+    "new_facts": "S4: accepts guardianship and steps away — a complete arc in one action; she doesn't fight the role, she walks into it and walks off. Full circle.",
+    "status": "Alive",
+    "quote": "The acceptance IS the peak.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Niharo",
+    "new_facts": "S4: steps forward as the new existential threat — the world level-shifting to accommodate him.",
+    "status": "Alive",
+    "quote": "His emergence IS his growth in the narrative sense.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Eldrich Aldercrest",
+    "new_facts": "S4: still guarding the throne while everything reorganizes — his constancy IS his character; the man who doesn't move while the world rewrites itself.",
+    "status": "Alive",
+    "quote": "His constancy IS his character.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Kazumi",
+    "new_facts": "Bloodlines: discovers she's Yoshiko's twin sister — spent her life hating the wrong people under a false identity; the truth destroys what she thought she was, then demands she rebuild. Redline S2: finishes rebuilding the Kara clan with Mashiho, then joins The Obsidians — completion and beginning in one breath.",
+    "status": "Alive",
+    "quote": "She closes one chapter and starts another without a breath between them.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Mashiho",
+    "new_facts": "Bloodlines: fights and kills his own father Pride during the clan slaughter — judgment on the family meant to protect him. Then rebuilds the Kara clan with Kazumi and joins The Obsidians.",
+    "status": "Alive",
+    "quote": "Growth through the most specific kind of devastation.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Ayaan Siddiqi",
+    "new_facts": "Redline S1: frontliner — the chair guy is fighting now; the most visually dramatic shift of his arc. Redline S2: COMMANDING LEAD — from support chair to directing the entire operation; the longest single distance traveled in the SCU.",
+    "status": "Alive",
+    "quote": "The chair. The commanding officer seat. That distance is the longest single character traveled in this universe.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Saya",
+    "new_facts": "Redline S1: operative arc building — the spark with Arvin hinted. Redline S2: joins The Obsidians knowing the full cost — Arvin and Samuel on the other side — growth through choosing cause over comfort.",
+    "status": "Alive",
+    "quote": "Growth through choosing cause over comfort when both cost something real.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  },
+  {
+    "existing_name": "Arvin",
+    "new_facts": "Redline S1: debut — the spark with Saya; everything after traces back to what starts here.",
+    "status": "Alive",
+    "quote": "Everything that comes after traces back to what starts here.",
+    "source": "SCU canon PDFs — Scu map (growth analysis)"
+  }
+]

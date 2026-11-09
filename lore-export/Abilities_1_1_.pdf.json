@@ -1,0 +1,43 @@
+{
+  "file": "Abilities (1) (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Bunny",
+      "alias": "The Silent Storm",
+      "role": "Defense mechanism",
+      "status": null,
+      "description": "The earliest defense mechanism of purity and hope who carries the original Wind Surge power.",
+      "quote": "He is not Robin. He is not Zaan. He is Bunny — the earliest defense mechanism of purity and hope."
+    },
+    {
+      "kind": "character",
+      "name": "Robi",
+      "alias": "The Gale Warden",
+      "role": null,
+      "status": null,
+      "description": "A split soul born of war and refined by silence who shapes and controls blood as a refined discipline.",
+      "quote": "ROBI — THE GALE WARDEN (Split soul: born of war, refined by silence)"
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": "The Errorcore",
+      "role": null,
+      "status": null,
+      "description": "A nightmare scripted in code, blood, and void who wields forbidden Bloodbinding and Umbra Control.",
+      "quote": "Khalid is no longer just a villain — he’s a nightmare scripted in code, blood, and void."
+    },
+    {
+      "kind": "character",
+      "name": "Zaan",
+      "alias": "The Vireon",
+      "role": null,
+      "status": null,
+      "description": "A living doctrine of immortality and rage who masters Bloodbinding beyond life or death.",
+      "quote": "He is not made of flesh. He is made of memory. And memory... refuses to die."
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

@@ -1,0 +1,31 @@
+{
+  "file": "Ethan and Elizah_1.pdf",
+  "entities": [],
+  "updates": [
+    {
+      "existing_name": "Ethan",
+      "new_facts": "Ethan has two personalities, the other being Elizah. He was bullied from childhood due to abnormal behavior, a native language after shifting from village to town, and poor studies. He developed Elizah as a mental twin brother who acted as his savior against bullies. He later met Zayn in class 5, fell in love with a cheating girl in class 10, met Nilanjona in college who brought his original self back, and later had Grace as a partner.",
+      "status": "Alive",
+      "quote": "he has 2 personalities .another one is elizah.who is very badass and brutal and unlike ethan he is extrovert and charming too. so,in my story,i wanted to show ethan is bullied from his childhood"
+    },
+    {
+      "existing_name": "Elizah",
+      "new_facts": "Elizah is Ethan's second personality who is very badass, brutal, extroverted, and charming. He acted as a mental twin brother and protector who saved Ethan from bullies, gave exams in Ethan's place to show smartness, fought back savagely, and vanished when Zayn or Grace came into Ethan's life.",
+      "status": "Alive",
+      "quote": "another one is elizah.who is very badass and brutal and unlike ethan he is extrovert and charming too. so,in my story,i wanted to show ethan is bullied from his childhood"
+    },
+    {
+      "existing_name": "Nilanjona",
+      "new_facts": "Nilanjona met Ethan or Elizah in college and made him return to his original Ethan self without knowing about Elizah's existence, though they later separated from their romantic bond.",
+      "status": "Alive",
+      "quote": "met nilanjona.who made him ethan again without even knowing elizah's existance.and that's how ethan came back to his original self again.later nilanjona and he was separated"
+    },
+    {
+      "existing_name": "Grace",
+      "new_facts": "Grace came into Ethan's life as a partner, causing Elizah to disappear, and she has a hint about the situation as a medical student.",
+      "status": "Alive",
+      "quote": "after grace came to his life as a partner.again elizah dissapeared . . but grace had a hince as she is a medical student."
+    }
+  ],
+  "timeline_events": []
+}

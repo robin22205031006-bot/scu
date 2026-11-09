@@ -1,0 +1,31 @@
+{
+  "file": "david and maliha tragedy (1).pdf",
+  "entities": [
+    {
+      "kind": "organization",
+      "name": "New Sentinels",
+      "alias": null,
+      "role": "Antagonist",
+      "status": "Active",
+      "category": "Organization",
+      "description": "An organization led by Niharo that surveilled the confrontation between Zayn and Agnus.",
+      "quote": "zayn notices,but we get to know that is none other than some members of new sentinels,zayn was tired and injured from previous fight.it was big for his mental health and physically .and the leader of new sentinels is none other than niharo himself."
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Grace",
+      "new_facts": "An Aldercrest bloodline member with dormant healing powers, unidentified as a powerful healer during the attack on Agnus's family.",
+      "status": "Alive",
+      "quote": "healers like Grace from aldercrest line borns very rarely.healer that powerful was not in that era back then.grace being the healer was little girl and not knowing she have the aldercrest blood."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "The Attack on Agnus's Family",
+      "era": null,
+      "description": "Niharo attacks Agnus's home to steal the cube, leading to the severe injury of his wife and daughter.",
+      "quote": "they attacked team attacked them as they wanted the cube.which led david believe his full family died.but actually agnus was a bit injured and his wife and daughter was severly injured"
+    }
+  ]
+}

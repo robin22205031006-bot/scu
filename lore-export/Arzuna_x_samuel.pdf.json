@@ -1,0 +1,59 @@
+{
+  "file": "Arzuna x samuel.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Arzuna",
+      "alias": "monster of the rain",
+      "role": "vampire",
+      "status": "Alive",
+      "description": "A vampire possessing beast-morphing instincts derived from Aariz Maddox’s blood, currently struggling with her predatory hunger and demonic blood rejection.",
+      "quote": "Arzuna stepped into the slaughter like she belonged there. Not loud. Not rushed. A vampiric silhouette in a torn coat, eyes catching the firelight like a predator catching a reflection of itself."
+    },
+    {
+      "kind": "character",
+      "name": "Samuel Sterling",
+      "alias": "Ghost-01",
+      "role": "Agent",
+      "status": "Alive",
+      "description": "A lethal, highly disciplined agent capable of weaponizing his necktie; he hunts experiments and tracks specific targets with extreme precision.",
+      "quote": "Samuel Sterling. Ghost-01. He didn’t glance back at her. Didn’t check if she was alive. Didn’t waste motion. His eyes stayed on the giant."
+    },
+    {
+      "kind": "character",
+      "name": "Saya",
+      "alias": null,
+      "role": "Agent",
+      "status": "Alive",
+      "description": "A precise operative trained by Ravenblade who assists Samuel in tracking targets.",
+      "quote": "Saya stepped out of the shadow like she’d always been there. Slim frame. Calm posture. Eyes sharp enough to cut distance itself."
+    },
+    {
+      "kind": "organization",
+      "name": "DEW",
+      "alias": null,
+      "role": "Research entity",
+      "status": "Active",
+      "description": "The agency responsible for creating experiments using demonic blood and human flesh.",
+      "quote": "Stitch’s leftovers. DEW’s nightmare chemistry. Demonic blood threaded through human flesh like cursed wiring—muscle that shouldn’t move, bones that shouldn’t bend"
+    },
+    {
+      "kind": "organization",
+      "name": "Ravenblade",
+      "alias": null,
+      "role": "Operational command",
+      "status": "Active",
+      "description": "An organization that trains agents and issues specific operational orders.",
+      "quote": "As she passed a broken pillar, her outline blurred for a second—not teleportation, just enough misdirection to remind anyone watching that Ravenblade’s training had stuck."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Camp Raid",
+      "era": "Season 4",
+      "description": "Arzuna and Samuel Sterling engage in combat against DEW's artificially created demon-blood experiments at a ruined army camp.",
+      "quote": "The army camp wasn’t a camp anymore. It was a torn-open mouth of tents and floodlights—half dead, half burning—metal poles bent like ribs."
+    }
+  ]
+}

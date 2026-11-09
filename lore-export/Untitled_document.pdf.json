@@ -1,0 +1,74 @@
+{
+  "file": "Untitled document.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": null,
+      "role": "Alter ego",
+      "status": null,
+      "description": "Elizah is the alter ego of Ethan, described as savage, witty, sharp-tongued, and dangerous. He loves Nyxia and protects Ethan.",
+      "quote": "Elizah..Ethans alter ego He is davilish handsome.when he turns into elizah.his hairs are messy.he is very savage."
+    },
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Ethan is the host of the alter ego Elizah. He feared Elizah could destroy those dangerous for the world and was thought to be dead in season 1.",
+      "quote": "ethan always hated his alter persona,thinking he is beast with out lish.he fears,if he comes out.he can destroy those who are dangerous for the world."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Zayn is the best buddy of Elizah who roasts him and is the only one who recognizes Elizah in season 2.",
+      "quote": "Zayn is still his best buddy whom he roast more abd zayn roasts him too."
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Nyxia is loved a lot by Elizah, who is very flirty to her.",
+      "quote": "he loves nyxia a lot.and also very flirty to her..he is more like tyler from fight club."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": "daddy decay",
+      "role": null,
+      "status": null,
+      "description": "Khalid is addressed as daddy decay by Elizah during a confrontation.",
+      "quote": "where she says,elizah carrying same blood og khalid.he is a demon.why he is betraying his own blood. as a reply(obviously he was savage and witty) he adresses khalid as daddy decay with witty tone"
+    },
+    {
+      "kind": "character",
+      "name": "Pristine",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Pristine confronts Elizah about carrying the blood of Khalid and betraying his own blood.",
+      "quote": "where she says,elizah carrying same blood og khalid.he is a demon.why he is betraying his own blood."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Season 1 Death Rumor",
+      "era": "Season 1",
+      "description": "Ethan is stated to be dead in season 1.",
+      "quote": "in a situation.in season 2.where in season 1,it was said ethan is dead."
+    },
+    {
+      "title": "Season 2 Appearance of Elizah",
+      "era": "Season 2",
+      "description": "Elizah appears in season 2 disguised to the audience as a different person and seeming like a villain until the alter ego reveal at the end of the season.",
+      "quote": "in season 2 we see elizah. he appears like a different person to audience(as they will not know about alter ego till then,it will reveal at the end of the season 2)"
+    }
+  ]
+}

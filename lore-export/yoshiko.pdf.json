@@ -1,0 +1,72 @@
+{
+  "file": "yoshiko.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": "Alter ego",
+      "role": "Subconscious guardian",
+      "status": "Alive",
+      "description": "Ethan's subconscious guardian who manifested during childhood emergencies, trauma, or when Ethan was cornered.",
+      "quote": "Elizah isn’t a “new form” in Season 2. He is a subconscious guardian who appeared: in childhood emergencies in early fights when Ethan was traumatized when Ethan was cornered when he blacked out"
+    },
+    {
+      "kind": "character",
+      "name": "Yoshiko",
+      "alias": "Arashi's daughter",
+      "role": "Spy, lawyer, manager",
+      "status": "Alive",
+      "description": "Arashi's daughter, Nyxia's childhood friend and secret protector, trained as a spy by Corvani.",
+      "quote": "She was always watching Nyxia in shadows She returns as: her lawyer her manager secretly her protector She has Nullborn connection through Arashi"
+    },
+    {
+      "kind": "character",
+      "name": "Eldrich",
+      "alias": "The Cursed Guardian",
+      "role": "Throne protector",
+      "status": "Alive",
+      "description": "A character cursed by Khalid to guard the throne for decades, unable to die or leave.",
+      "quote": "He was cursed by Khalid Couldn’t die Couldn’t leave the throne Guarded it silently for decades Watching the world move on Still loyal to Liam → John → Zaan’s honor"
+    },
+    {
+      "kind": "faction",
+      "name": "RAB",
+      "alias": "Elite unit",
+      "role": "Elite police unit",
+      "status": "Active",
+      "description": "An elite unit in Bangladesh where Ethan's father served.",
+      "quote": "Ethan’s father is RAB (elite unit) Already met Agnus in the past Agnus was junior to him So Ethan's father outranked Zayn’s father"
+    },
+    {
+      "kind": "organization",
+      "name": "Nullborn",
+      "alias": null,
+      "role": "Organization",
+      "status": "Active",
+      "description": "An organization that sought to imprison or kill balanced-power hosts.",
+      "quote": "Nullborn wanted to imprison or kill balanced-power hosts. Arashi refused. So: He lost leadership He lost his reputation He lost his daughter He became hunted"
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Arashi",
+      "new_facts": "He left Nullborn because he refused to harm balanced-power hosts, losing his leadership and daughter.",
+      "status": "Alive",
+      "quote": "Arashi leaving Nullborn because of Nyxia This is a peak twist. Nullborn wanted to imprison or kill balanced-power hosts. Arashi refused."
+    },
+    {
+      "existing_name": "Zayn",
+      "new_facts": "Knew Yoshiko's truth from Season 1, keeping the secret to protect Nyxia.",
+      "status": "Alive",
+      "quote": "Zayn knew Yoshiko’s truth from Season 1 — CONFIRMED This is peak Zayn. You said: Yoshiko wanted to be Nyxia’s manager Zayn voted “yes” immediately Because he knew something"
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "Corvani's Last Mission",
+      "era": null,
+      "description": "Corvani assigned Yoshiko to protect Nyxia and monitor various organizations before vanishing.",
+      "quote": "Corvani’s last act before the pocket dimension: “Watch Stitch. Watch DEW. Watch ECAP. Protect the girl.” And Yoshiko followed that mission for years"
+    }
+  ]
+}

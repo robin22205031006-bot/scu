@@ -1,0 +1,77 @@
+{
+  "file": "Freya and arthur_1.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Gabriel",
+      "alias": null,
+      "role": "Dragon",
+      "status": "Alive",
+      "description": "A dragon seeking to conquer the human realm who tortured Freya to force her to hatch a dragon egg.",
+      "quote": "the dragons were careless and the father(gabriel) and his men search for freya as without her the egg can't be hatched."
+    },
+    {
+      "kind": "character",
+      "name": "Tedmond Duskmoor",
+      "alias": "Tedmond",
+      "role": "Duskmoor",
+      "status": "Dead",
+      "description": "A powerful Duskmoor who defended Freya and her egg from Gabriel before being killed.",
+      "quote": "he was one of the strongest duskmoor(tedmond duskmoor) who killed the grandpa who was one of the stong of his kind too.and later the father killed that duskmoor too."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": "Demon",
+      "status": "Alive",
+      "description": "A demon who manipulated Freya to obtain a powerful dragon child for his goal of destroying humanity.",
+      "quote": "he intentionally got physical with freya to have a child with dragon abilities,basically freya is one of those special dragond who can birth special dragons who are powerful"
+    },
+    {
+      "kind": "character",
+      "name": "Niharo",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "The child of two scientists born with Freya's assistance.",
+      "quote": "so freya helped him giving birth their child (niharo) in exchange of helping them hatching the egg."
+    },
+    {
+      "kind": "faction",
+      "name": "Duskmoor",
+      "alias": null,
+      "role": "Human protectors",
+      "status": "Active",
+      "description": "A group tasked with defending the human realm against dragons.",
+      "quote": "here in 1494 the duskmoor finds out that dragons are here in the human realm living with them .and the secret wars started."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Duskmoor-Dragon Secret War",
+      "era": "1494",
+      "description": "The Duskmoor discovered dragons in the human realm, leading to a war that the Duskmoor eventually won.",
+      "quote": "here in 1494 the duskmoor finds out that dragons are here in the human realm living with them .and the secret wars started."
+    },
+    {
+      "title": "Birth of Pristine",
+      "era": "1498",
+      "description": "Freya gave birth to her daughter Pristine while being held by Gabriel.",
+      "quote": "in 1498,freya was sleeping and as she was pregnant she was sort of weak.so she couldn't hatch the egg and gabriel didn't know about the child."
+    },
+    {
+      "title": "Khalid finds Pristine",
+      "era": "1513",
+      "description": "Khalid discovered Pristine and began raising her.",
+      "quote": "in 1513 ,khalid found pristine(he didn't knew it was his own baby).he took her and she started living with him."
+    },
+    {
+      "title": "Hatching of the Dragon Egg",
+      "era": "1692",
+      "description": "Scientists working with Freya and Gabriel successfully hatched the dragon egg.",
+      "quote": "and when niharo was 10 years old,i mean in 1692,they succeed to hatch the egg,and it was the character.whose picture i gave you!"
+    }
+  ]
+}

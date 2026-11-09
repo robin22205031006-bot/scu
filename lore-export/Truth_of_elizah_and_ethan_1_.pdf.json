@@ -1,0 +1,74 @@
+{
+  "file": "Truth of elizah and ethan (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": "The Gale Warden",
+      "role": "Master",
+      "status": "Alive",
+      "description": "A powerful individual who possesses wind abilities and struggles with a dual nature, acting as the host for his alter ego, Elizah.",
+      "quote": "ethan's eye is glowing green and he is floating. holding wind sigils. Elizah smirks and says- claps and says -i see,the gale warden!finally decided to show up!"
+    },
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": "The Devil",
+      "role": "Alter ego",
+      "status": "Alive",
+      "description": "Ethan's ruthless and pragmatic alter ego who manages the darker aspects of their dual existence.",
+      "quote": "demonic blood ability basically as elizah is just a alter ego of ethan.so ethan made himself think like that his wind is more powerful than elizah's blood arts"
+    },
+    {
+      "kind": "character",
+      "name": "Aariz",
+      "alias": null,
+      "role": "Former student",
+      "status": "Alive",
+      "description": "A student who was abandoned by his master, Ethan, due to his violent beast instinct, seeking to challenge his former master.",
+      "quote": "aariz fights elizah ,as he wants to fight the strongest and always hyped up for fighting strongest,always heard about elizah.but never saw him.never knew he is ethan!his old master"
+    },
+    {
+      "kind": "character",
+      "name": "Xinea",
+      "alias": "Nyxia",
+      "role": "Protege",
+      "status": "Alive",
+      "description": "A person whom both Ethan and Elizah seek to protect, though their methods differ.",
+      "quote": "before going he said -Xinea is fine,don't worry.i can protect her better than your shit kind ideology."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": "Childhood friend",
+      "status": "Alive",
+      "description": "A childhood friend of Ethan who provides insight into Elizah's protective nature.",
+      "quote": "as zayn is his childhood friend.who told him that elizah only appeared when ethan is cornered."
+    },
+    {
+      "kind": "character",
+      "name": "Grace",
+      "alias": null,
+      "role": "Medical student",
+      "status": "Alive",
+      "description": "A former partner of Ethan who understands the necessity of both his sides.",
+      "quote": "as grace used to be ethans partner once.and she is a medical student.so she knew this side of ethan.but she never mentioned.as she loved both side of him .she felt both are needed."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Aariz and Elizah Battle",
+      "era": "Season 3",
+      "description": "Aariz fights Elizah, believing him to be an independent entity, not realizing he is his former master, Ethan.",
+      "quote": "in season 3 mid,aariz fights elizah ,as he wants to fight the strongest and always hyped up for fighting strongest"
+    },
+    {
+      "title": "Ethan's Integration",
+      "era": "Season 4",
+      "description": "Ethan forgives Elizah, accepting him as a living entity rather than suppressing him, leading to the mastery of both wind and blood arts.",
+      "quote": "he never wanted bad for ethan.he wanted to save ethan.but ethan always saw this side of him as monster.but finally he forgive elizah .basically forgiving himself from every guilt."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "file": "Grace x Vanguard.pdf",
+  "entities": [],
+  "updates": [
+    {
+      "existing_name": "Grace",
+      "new_facts": "Grace observed Derek removing a bullet from his arm without a shirt on, fled in embarrassment when caught spying, and later shared a quiet, intimate moment with him on the rooftop.",
+      "status": "Alive",
+      "quote": "One shirtless man had completely destroyed her mental stability."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "The First Crack",
+      "era": "Post-Chip, Post-Battle, Pre-Retirement",
+      "description": "Following a war, Grace discovers Derek removing a bullet from his own arm without his control chip, leading to a vulnerable moment of connection between them on the rooftop.",
+      "quote": "The compound was quiet for the first time in hours. Not safe quiet—just the exhausted kind. The kind that followed a war."
+    }
+  ]
+}

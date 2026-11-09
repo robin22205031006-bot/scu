@@ -1,0 +1,49 @@
+{
+  "file": "clarifications.pdf",
+  "entities": [],
+  "updates": [
+    {
+      "existing_name": "Grace",
+      "new_facts": "Grace retires at S3 end with Vanguard and chooses rest. She later returns in S5 to go to the girls' side against Alter David as a stabilizer, choosing judgment with compassion.",
+      "status": "Retired",
+      "quote": "Grace retiring at S3 end (with Vanguard) This is actually very strong writing. Why it works: Grace’s arc was never about endless escalation She started as a healer → became a judge → chooses rest Her retirement says: power does not own me"
+    },
+    {
+      "existing_name": "Nilanjona",
+      "new_facts": "Nilanjona takes guardianship in S4 continuing her lineage and later returns in S5 to help against Niharo when guardians respond to existential threats.",
+      "status": "Alive",
+      "quote": "Nilanjona taking guardianship in S4 This is also clean and culturally grounded. Why it works: She isn’t “quitting” — she’s continuing lineage Her mother’s role matters now It closes her personal loop without killing her"
+    },
+    {
+      "existing_name": "Arzuna",
+      "new_facts": "Arzuna shifts from villain to an anti-hero with a vanishing presence, making short appearances in S4, killing Maliha out of mercy wrapped in brutality, and returning after Yoshiko's death as the executioner of inevitability.",
+      "status": "Alive",
+      "quote": "Villain → anti-hero → vanishing presence This is risky territory — but you’re handling it right. Why it works: Arzuna was never pure evil She was corrupted but conscious Vanishing keeps her unpredictable"
+    },
+    {
+      "existing_name": "Maliha",
+      "new_facts": "Maliha knowingly and willingly joins Alter David despite knowing he is wrong, proving that love can damn you, and is eventually killed by Arzuna.",
+      "status": "Dead",
+      "quote": "Maliha knows Alter David is wrong She joins anyway Love overrides morality That’s not villainy. That’s human weakness taken to its extreme."
+    },
+    {
+      "existing_name": "Yoshiko",
+      "new_facts": "Yoshiko dies, breaking Nyxia, permanently shifting the S5 tone, and signaling that no one is safe.",
+      "status": "Dead",
+      "quote": "Yoshiko’s death: Breaks Nyxia Shifts S5 tone permanently Signals “no one is safe” Arzuna appearing after that: Prevents collapse Replaces rage with action"
+    },
+    {
+      "existing_name": "Nyxia",
+      "new_facts": "Nyxia learns control without losing mercy, learns that vengeance does not equal justice after Yoshiko's death, and experiences psychological state changes.",
+      "status": "Alive",
+      "quote": "Nyxia learns control without mercy loss Grace chooses judgment with compassion Arzuna chooses action without forgiveness"
+    },
+    {
+      "existing_name": "Ethan",
+      "new_facts": "Ethan learns to accept darkness without becoming it in S5.",
+      "status": "Alive",
+      "quote": "Ethan learns to accept darkness without becoming it"
+    }
+  ],
+  "timeline_events": []
+}

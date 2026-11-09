@@ -1,0 +1,110 @@
+{
+  "file": "see characters.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": "Elizah",
+      "role": "Split Self / Moral Schizophrenia",
+      "status": "Alive",
+      "description": "Ethan represents restraint, leadership, mercy, and collective responsibility, while his split persona Elizah embodies consequence, brutality, and individual survival.",
+      "quote": "Ethan = restraint, leadership, mercy, collective responsibility Elizah = consequence, brutality, individual survival"
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": "None",
+      "role": "Holder of Dorian's red lightning",
+      "status": "Alive",
+      "description": "Inheritance trauma personified, Zayn is the son of a guardian, holds Dorian's red lightning, and chooses pain over ignorance.",
+      "quote": "Zayn is not “cool lightning guy.” He is inheritance trauma personified. Son of a guardian Holder of Dorian’s red lightning Knows truths too early Hides truth to protect others (and fails)"
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": "None",
+      "role": "Host of Balance power",
+      "status": "Alive",
+      "description": "A host of balance power who was feared before being understood, proving restraint is stronger than purity.",
+      "quote": "Nyxia isn’t “chosen one.” She’s a host. Balance power never asked her permission Nullborn wanted to contain her DEW wanted to weaponize her Asetra once was what Nyxia is becoming"
+    },
+    {
+      "kind": "character",
+      "name": "Grace",
+      "alias": "None",
+      "role": "Holder of Athena's Judgement",
+      "status": "Retired",
+      "description": "Chosen by Athena's Judgement, Grace retires because judgment breaks her and is the only character whose power causes consistent psychological damage.",
+      "quote": "Grace retires because judgment breaks her She returns only when judgment is unavoidable She is the only character whose power costs psychological damage consistently."
+    },
+    {
+      "kind": "character",
+      "name": "Agnus",
+      "alias": "Altan El-Mansur",
+      "role": "Family protector / law breaker",
+      "status": "Dead",
+      "description": "Agnus broke the natural order for family and embodies the idea that good intentions can still doom the world.",
+      "quote": "Agnus isn’t evil. He isn’t weak. He broke the natural order for family. That’s why: Zayn kills him David cannot forgive Zayn Both sons are right Agnus is the embodiment of: “Good intentions can still doom the world.”"
+    },
+    {
+      "kind": "character",
+      "name": "Corvani",
+      "alias": "Whale",
+      "role": "Moral anchor",
+      "status": "Alive",
+      "description": "Human courage personified with no cosmic powers or destiny, providing moral clarity and loyalty without blindness.",
+      "quote": "Corvani anchors the universe. No cosmic powers. No destiny. Just: Moral clarity Loyalty without blindness The courage to walk away"
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Diablo War Era",
+      "era": "Anchor Zero",
+      "description": "The oldest structural pillar where Tedmond appears uninvited, youthful Norman and Dorian are fearless while Eldrich is fearful, Arashi's ancestor clan participates, and massive Aldercrest casualties occur before Diablo retreats.",
+      "quote": "This is the oldest structural pillar. Canon facts you’ve locked: Tedmond appears uninvited Dorian, Norman, Eldrich are children Eldrich is fearful Norman and Dorian are fearless Arashi’s ancestor clan participates (non-ability humans) Massive Aldercrest casualties Diablo retreats, not killed"
+    },
+    {
+      "title": "Soa Aldercrest’s Death",
+      "era": "Anchor One",
+      "description": "A philosophical fracture event happening while Diablo war casualties are still fresh, where Aldercrest elders panic and Athena's Judgement is newly discovered.",
+      "quote": "This is not a tragedy. This is a philosophical fracture event. What must be true simultaneously: Diablo war casualties are still fresh in leadership memory Aldercrest elders are panicked, not evil Soa is still a child Athena’s Judgement is newly discovered, not trained"
+    },
+    {
+      "title": "Tedmond’s Recruitment Attempt",
+      "era": "Anchor Two",
+      "description": "A defining moment for three legacies where teenage Dorian and Norman are invited by Tedmond while Silas is still young and Soa is already dead.",
+      "quote": "This moment defines three legacies at once: Tedmond Dorian Norman Absolute requirements: Dorian & Norman are teenagers Silas is still very young Soa is already dead Tedmond is alive but nearing his final era"
+    },
+    {
+      "title": "The Agnus–Silas–Eldrich–Aeric Team Era",
+      "era": "Anchor Three",
+      "description": "A shadow war happening after Tedmond and Dorian are presumed dead, where a blank-zone battlefield is created, the Prince of Demons is killed, and Diablo is permanently traumatized.",
+      "quote": "This is the most dangerous timeline section if mishandled. Locked facts: Happens AFTER Tedmond & Dorian are presumed dead Dragons & demons believe humanity is undefended A blank-zone battlefield is created Prince of Demons is killed Diablo is permanently traumatized Eldrich leads Aeric uses the cursed weapon Agnus & Silas fight as a duo Team later disbands (reason hidden)"
+    },
+    {
+      "title": "Khalid’s Curse on Eldrich",
+      "era": "Anchor Four",
+      "description": "The crucial ordering where Khalid curses Eldrich to make him long-lived, undetectable as a pure caster, and able to fool demons before the blank-zone war and Diablo's second defeat.",
+      "quote": "This is what makes Eldrich: Long-lived Undetectable as a pure caster Able to fool demons later Critical ordering: Khalid’s curse must happen before: The blank-zone war Diablo’s second defeat Otherwise Eldrich being undetectable collapses logically."
+    },
+    {
+      "title": "Sentinels Formation Era",
+      "era": "Anchor Five",
+      "description": "The era where Ethan, Zayn, and Nyxia are young, abilities are unstable, Eldrich is absent or mythic, and Stitch manipulates the unaware public.",
+      "quote": "This is where modern viewers emotionally enter. Rules you’re following correctly: Ethan, Zayn, Nyxia are young Abilities are unstable No one knows the full truth yet Eldrich is absent / mythic Danger zone: If ancient legends are too well-known, Sentinels feel late."
+    },
+    {
+      "title": "Silas’s Sickness",
+      "era": "Anchor Six",
+      "description": "Silas contracts his sickness long after his prime, occurring before Rowan fights him and before Arthur arrives.",
+      "quote": "Silas must be sick: Before Rowan fights him Before Arthur arrives Long after his prime If sickness appears too suddenly, it feels convenient. If too early, it diminishes his legend. This sickness is the cost of surviving history."
+    },
+    {
+      "title": "Ethan / Elizah Split",
+      "era": "Anchor Seven",
+      "description": "The chronological emergence of Elizah only when Ethan is cornered and only after prolonged guilt, suppression, and trauma.",
+      "quote": "Elizah appears: Only when Ethan is cornered Only after prolonged guilt, suppression, trauma If Elizah appears too early: He becomes edgy If too late: He feels like a plot device Right now, your placement is correct — but fragile."
+    }
+  ]
+}

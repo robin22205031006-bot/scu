@@ -1,0 +1,1 @@
+export function parsePdf(file: File): Promise<string>;

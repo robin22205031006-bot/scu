@@ -1,0 +1,77 @@
+{
+  "file": "The name is billy (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Project Voren",
+      "alias": "The Stalker",
+      "role": "Villain",
+      "status": "Dead",
+      "description": "A beast/demonic hybrid mutant and former DEW experiment subject who became mentally unstable and obsessed with Saya.",
+      "quote": "Mutation Codename: Project Voren — classified Beast/Demonic Hybrid Mutant Faction: Former DEW experiment subject Status: Escaped (considered highly unstable)"
+    },
+    {
+      "kind": "character",
+      "name": "Saya",
+      "alias": null,
+      "role": "Refugee",
+      "status": "Alive",
+      "description": "A former associate of Project Voren who seeks refuge and training under Ravenblade.",
+      "quote": "After Saya leaves DEW, she finds refuge under Nawshin (Ravenblade), training to sharpen her instincts and clear her conscience."
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia Vale",
+      "alias": null,
+      "role": "Sentinel",
+      "status": "Alive",
+      "description": "A member of the Sentinels who fights alongside Saya and possesses shadow-based powers.",
+      "quote": "Nyxia Vale, the heart of the Sentinels’ emotional core — light and shadow in one body."
+    },
+    {
+      "kind": "character",
+      "name": "Samuel",
+      "alias": "Ghost-01",
+      "role": "DEW operative",
+      "status": "Alive",
+      "description": "A DEW operative who captured Project Voren during a civilian massacre.",
+      "quote": "Captured by Samuel (Ghost-01) during a civilian massacre."
+    },
+    {
+      "kind": "character",
+      "name": "Nawshin",
+      "alias": "Ravenblade",
+      "role": "Trainer",
+      "status": "Alive",
+      "description": "A mentor providing refuge and training to Saya.",
+      "quote": "After Saya leaves DEW, she finds refuge under Nawshin (Ravenblade), training to sharpen her instincts and clear her conscience."
+    },
+    {
+      "kind": "organization",
+      "name": "DEW",
+      "alias": null,
+      "role": "Experimental Research",
+      "status": "Active",
+      "description": "A secretive organization responsible for human-mutation programs including Project Voren.",
+      "quote": "DEW covertly extracted him from ECAP custody, labeling him “rehabilitation candidate.”"
+    },
+    {
+      "kind": "organization",
+      "name": "Sentinels",
+      "alias": null,
+      "role": "Hero group",
+      "status": "Active",
+      "description": "A group of individuals including Nyxia Vale who combat threats.",
+      "quote": "Nyxia Vale, the heart of the Sentinels’ emotional core — light and shadow in one body."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Red Moon Under Dusk",
+      "era": null,
+      "description": "A battle between Saya and Nyxia Vale against the mutated Project Voren in an abandoned metro station.",
+      "quote": "The scene: abandoned metro station at night. Neon lights flicker, tunnels echo like heartbeats. Nyxia and Saya are alone — until the lights die."
+    }
+  ]
+}

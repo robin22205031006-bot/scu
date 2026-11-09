@@ -1,0 +1,47 @@
+{
+  "file": "Echorhythm.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Ayman Siddiqi",
+      "alias": "Echogrim",
+      "role": "Technician and combatant",
+      "status": "Alive",
+      "description": "Former support member for the Sentinels who underwent intense combat training to integrate his technical skills with physical grit.",
+      "quote": "Ayman Siddiqi had always been the invisible hand, the quiet voice in their ears. He never threw a punch. Never drew blood."
+    },
+    {
+      "kind": "faction",
+      "name": "Sentinels",
+      "alias": null,
+      "role": "Defenders against other-realm threats",
+      "status": "Inactive",
+      "description": "A group that has scattered, leaving cities vulnerable to other-realm threats.",
+      "quote": "The Sentinels are broken. Cities groan under other-realm threats."
+    },
+    {
+      "kind": "organization",
+      "name": "Hidden Ones",
+      "alias": null,
+      "role": "Elite assassins",
+      "status": "Active",
+      "description": "A disciplined group of assassins who operate in the shadows and reject the influence of the world order.",
+      "quote": "These people — they’re no puppets like the Sentinels. They don’t bow to corrupted world orders. They fight on their own terms."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Fall of the Sentinels",
+      "era": null,
+      "description": "The Sentinels disperse, leaving the world undefended and Ayman searching for a new purpose.",
+      "quote": "But when the Sentinels scattered, the world bled. And his screens meant nothing anymore."
+    },
+    {
+      "title": "The Birth of Echogrim",
+      "era": null,
+      "description": "After failing to integrate into the Hidden Ones as a standard fighter, Ayman combines his technical expertise with his training to become Echogrim.",
+      "quote": "This was the birth of Echogrim."
+    }
+  ]
+}

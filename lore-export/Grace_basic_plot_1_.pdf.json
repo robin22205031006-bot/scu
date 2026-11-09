@@ -1,0 +1,77 @@
+{
+  "file": "Grace basic plot (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Grace",
+      "alias": null,
+      "role": "Medical student",
+      "status": "Alive",
+      "description": "A medical student who survives a zombie outbreak, loses her friend and protector, and suffers severe mental trauma.",
+      "quote": "as a medical student grace tries helping those who are injured.but sometimes she could help.sometimes people dies infront of her."
+    },
+    {
+      "kind": "character",
+      "name": "Rifat",
+      "alias": null,
+      "role": "Soldier",
+      "status": "Dead",
+      "description": "A paracommandos soldier who protected Grace during the outbreak and possessed a ring he had previously tried to gift her.",
+      "quote": "the soldier was none other the rifat.he called her at the end to give her that ring.may be propose her!"
+    },
+    {
+      "kind": "character",
+      "name": "Arzuna",
+      "alias": null,
+      "role": "Best friend",
+      "status": "Dead",
+      "description": "Grace's best friend who becomes infected and dies while saving Grace from Tareq.",
+      "quote": "arzuna died saving them and specially grace. grace felt so useless that time."
+    },
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "Grace's ex-boyfriend who discovers he has powers and seeks to help her recover.",
+      "quote": "ethan newly knew his power.he felt bad that if only he knew about the zombie outbreak!he would surely come."
+    },
+    {
+      "kind": "character",
+      "name": "Damian",
+      "alias": null,
+      "role": "Magic user",
+      "status": "Alive",
+      "description": "A friend of Ethan who uses magic to attempt to heal Grace.",
+      "quote": "ethan called his new friend damian back then.who knew magic.he thought if magic can do something to heal her."
+    },
+    {
+      "kind": "character",
+      "name": "Tareq",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "An infected survivor who turned into a zombie and was killed after falling from a mall building.",
+      "quote": "another guy,tareq turns into a zombie as he was also infected later"
+    },
+    {
+      "kind": "organization",
+      "name": "defense force",
+      "alias": null,
+      "role": "Military response unit",
+      "status": "Active",
+      "description": "The military organization guarding the infected mall area that mistakenly fires upon Rifat.",
+      "quote": "infront of the mall thousand of defemse forces with gun holding to grace.but looking at her they said she was fine."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Mall Zombie Outbreak",
+      "era": null,
+      "description": "A high-level threat incident where survivors were trapped in a mall against zombies, resulting in many casualties.",
+      "quote": "the zombie outbreak was so powerful in that mall that even other forces never entered the mall ,and also it was a high level threat."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "file": "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Piedro",
+      "alias": null,
+      "role": "Protector",
+      "status": "Dead",
+      "category": "Support",
+      "description": "An old man who rushed in to save Issabela's son before being decapitated by Khalid.",
+      "quote": "An old man rushed in — Piedro, now grey and fragile. “Run, boy!” The boy froze. Khalid turned slowly, grinned... Then sliced off Piedro’s head in a flash, let it roll in front of the child."
+    },
+    {
+      "kind": "character",
+      "name": "The Guardian",
+      "alias": null,
+      "role": "Liam's father",
+      "status": "Dead",
+      "category": "Support",
+      "description": "Liam's father and guardian who fought Khalid for the Architect's Cube before passing it to John.",
+      "quote": "The Guardian — Liam’s father — saw it coming. Khalid came to claim the Architect’s Cube. The Guardian and Liam fought with all they had."
+    },
+    {
+      "kind": "character",
+      "name": "Fahad",
+      "alias": null,
+      "role": "Wields the blue fist",
+      "status": "Alive",
+      "category": "Protagonist",
+      "description": "A boy in whom the blue fist power reappears years later.",
+      "quote": "The dragon-slayer? Still missing. But that blue fist? It reappears... in a boy named Fahad."
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Khalid",
+      "new_facts": "Cruel figure who erased a runner's name, tortured a Hidden One and his family, desecrated Issabela's grave, fought Norman and cursed him into a vampire, battled John and Liam, and cursed the dragon-slayer.",
+      "status": "Alive",
+      "quote": "Khalid didn’t just kill him. He ripped his legs off mid-run, watched him crawl for help, and said: “You called this speed? This is crawling, little rat.”"
+    },
+    {
+      "existing_name": "Norman",
+      "new_facts": "One of three close brothers-in-arms alongside John and Liam; fought Khalid and was cursed by him into a vampire doomed to drink blood.",
+      "status": "Alive",
+      "quote": "Enter: Norman — one of three close brothers-in-arms alongside John and Liam. When Norman hears Khalid is nearby, he doesn’t wait."
+    },
+    {
+      "existing_name": "John",
+      "new_facts": "One of three close brothers-in-arms, received the Architect's Cube from the Guardian, fought Khalid and unleashed a red lightning spark before suffering a mortal wound.",
+      "status": "Dead",
+      "quote": "John, Liam, Norman — now scattered. The Guardian — Liam’s father — saw it coming. Khalid came to claim the Architect’s Cube."
+    },
+    {
+      "existing_name": "Liam",
+      "new_facts": "Brother-in-arms alongside John and Norman; fought alongside his father and John against Khalid, awakening his full ancient magic power after John fell.",
+      "status": "Alive",
+      "quote": "John alone fights him — then Liam joins. But Khalid is a beast. Magic means nothing. Rage isn’t enough."
+    },
+    {
+      "existing_name": "Robin",
+      "new_facts": "A fragile boy with too much rage and pain whom Khalid's surviving soul waits to find.",
+      "status": "Alive",
+      "quote": "Until it finds a fragile boy with too much rage, too much pain... Robin."
+    },
+    {
+      "existing_name": "Issabela",
+      "new_facts": "Her grave in Istanbul was visited by Khalid, who disparaged her memory in front of her son and Piedro.",
+      "status": "Dead",
+      "quote": "Khalid, years later. Weakened, tired — but still twisted. He wandered into Istanbul and found Issabela’s grave. A young boy knelt in front of it — her son."
+    },
+    {
+      "existing_name": "Zaan",
+      "new_facts": "Referred to as a dead god by Khalid in front of a Hidden One assassin.",
+      "status": "Dead",
+      "quote": "Not for interrogation. But because he hated the way the man looked at him — like he still believed in Zaan."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "The First Comet's Murder",
+      "era": null,
+      "description": "Khalid brutally murders a nameless runner known as the first comet on the streets.",
+      "quote": "It starts with a man who could run like thunder. His speed split the streets. Some called him the first comet. He had no name in history... Because Khalid erased it."
+    },
+    {
+      "title": "The Hidden One's Family Massacre",
+      "era": null,
+      "description": "Khalid captures a Hidden One assassin in a burnt chapel, allows his family to be assaulted, and burns them alive.",
+      "quote": "Next, Khalid found a Hidden One assassin hiding in a burnt chapel. Captured him alive. Not for interrogation."
+    },
+    {
+      "title": "The Desecration at Issabela's Grave",
+      "era": null,
+      "description": "Khalid insults Issabela at her grave in Istanbul and decapitates Piedro in front of her son.",
+      "quote": "Khalid, years later. Weakened, tired — but still twisted. He wandered into Istanbul and found Issabela’s grave. A young boy knelt in front of it — her son."
+    },
+    {
+      "title": "The Birth of the Vampire Norman",
+      "era": null,
+      "description": "Norman fights Khalid in an alley, takes a chunk from his shoulder, but is stabbed and forced to ingest Khalid's blood, becoming a vampire.",
+      "quote": "Enter: Norman — one of three close brothers-in-arms alongside John and Liam. When Norman hears Khalid is nearby, he doesn’t wait."
+    },
+    {
+      "title": "The Death of the Guardian and Passing of the Cube",
+      "era": null,
+      "description": "The Guardian dies fighting Khalid for the Architect's Cube and passes it to John.",
+      "quote": "The Guardian — Liam’s father — saw it coming. Khalid came to claim the Architect’s Cube. The Guardian and Liam fought with all they had."
+    },
+    {
+      "title": "John's Last Stand and Liam's Awakening",
+      "era": null,
+      "description": "John fights Khalid, unleashes a red lightning spark, and falls, prompting Liam to awaken his ancient magic and blast Khalid away.",
+      "quote": "John alone fights him — then Liam joins. But Khalid is a beast. Magic means nothing. Rage isn’t enough."
+    },
+    {
+      "title": "Encounter with the Dragon Slayer",
+      "era": null,
+      "description": "A weakened Khalid enters a bar and confronts a silent man with a blue glow under his knuckles who cracks a table in half.",
+      "quote": "Khalid, now weakened, bleeding, drained — limps into a filthy bar. He drinks. Laughs. And sits beside a silent man with a blue glow under his knuckles."
+    }
+  ]
+}

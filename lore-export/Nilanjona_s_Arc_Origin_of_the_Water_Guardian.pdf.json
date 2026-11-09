@@ -1,0 +1,52 @@
+{
+  "file": "Nilanjona’s Arc – Origin of the Water Guardian.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Nilanjona",
+      "alias": null,
+      "role": "Water Guardian",
+      "status": "Alive",
+      "description": "Nilanjona grew up with a fractured family and abuse from her stepmother, later discovering her destiny as the next Water Guardian and reuniting with her real mother.",
+      "quote": "Nilanjona’s Arc – Origin of the Water Guardian Early Life & Bonds Grew up in Saidpur with a fractured family"
+    },
+    {
+      "kind": "character",
+      "name": "Saery",
+      "alias": "Grandmother",
+      "role": null,
+      "status": "Dead",
+      "description": "Nilanjona's loving grandmother who supported her and orchestrated a journey to lead Nilanjona to her real destiny.",
+      "quote": "Loved deeply by her Grandmother(Saery) (the only true supporter)."
+    },
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "A broken and bullied individual who met Nilanjona in Saidpur and dated her for a while before they drifted apart.",
+      "quote": "Ethan, broken and bullied after leaving Bogura and Zayn, met her in Saidpur. - She became the second person in his life"
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "An individual connected to Ethan's past before Ethan met Nilanjona.",
+      "quote": "Ethan, broken and bullied after leaving Bogura and Zayn, met her in Saidpur."
+    },
+    {
+      "kind": "character",
+      "name": "Niharo",
+      "alias": null,
+      "role": "Mastermind",
+      "status": null,
+      "description": "The true mastermind behind the plot involving the stepmother, waiting for the real vessel with all elements to rise.",
+      "quote": "The real vessel — the one with all elements — will rise one day (hint at Niharo)."
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

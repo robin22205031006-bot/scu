@@ -1,0 +1,68 @@
+{
+  "file": "Whale and Beast meeting.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Marcello Corvani",
+      "alias": "Whale",
+      "role": "Military operative",
+      "status": "Alive",
+      "description": "A veteran military operative who recruits Orion and mentors him at ECAP.",
+      "quote": "Marcello Corvani — younger, two-eyed, cigar in mouth, wearing a soaked leather jacket and steel-capped boots."
+    },
+    {
+      "kind": "character",
+      "name": "Orion",
+      "alias": "The Beast Child",
+      "role": "Recruit",
+      "status": "Alive",
+      "description": "A sixteen-year-old boy with sharp instincts who is rescued from a traveling circus.",
+      "quote": "Inside sits ORION, 16 years old — shirtless, bruised, hair messy, hands chained lightly, not because he’s dangerous... but because the circus wants him to look dangerous."
+    },
+    {
+      "kind": "character",
+      "name": "Stitch",
+      "alias": null,
+      "role": "Leader of ECAP",
+      "status": "Alive",
+      "description": "The leader of ECAP who evaluates the recruitment of Orion.",
+      "quote": "STITCH: “You brought me a child?” CORVANI: “I brought you a soldier with a brain.”"
+    },
+    {
+      "kind": "character",
+      "name": "Victor",
+      "alias": null,
+      "role": "ECAP personnel",
+      "status": "Alive",
+      "description": "An associate at ECAP who supports Corvani's decision to bring Orion.",
+      "quote": "Victor smiles: VICTOR: “He saw potential, Stitch. Isn’t that what you used to do?”"
+    },
+    {
+      "kind": "organization",
+      "name": "ECAP",
+      "alias": null,
+      "role": "Military organization",
+      "status": "Active",
+      "description": "A military entity where Corvani, Stitch, and Victor operate.",
+      "quote": "CUT TO — ECAP HQ, DAYS LATER Stitch watches a report."
+    },
+    {
+      "kind": "organization",
+      "name": "Circo del Miracolo",
+      "alias": null,
+      "role": "Traveling circus",
+      "status": "Active",
+      "description": "A traveling circus that exploited Orion for profit.",
+      "quote": "A worn-out sign reads: “CIRCO DEL MIRACOLO.”"
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Recruitment of Orion",
+      "era": "2000s",
+      "description": "Marcello Corvani finds and liberates Orion from the Circo del Miracolo to train him at ECAP.",
+      "quote": "Corvani removes the chains gently, not forcefully. CORVANI: “If you step out, your life changes.”"
+    }
+  ]
+}

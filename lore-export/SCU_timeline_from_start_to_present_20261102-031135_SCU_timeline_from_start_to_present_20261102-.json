@@ -1,0 +1,44 @@
+{
+  "file": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-1.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": "Ethan's alter ego",
+      "role": "Protagonist",
+      "status": "Dead",
+      "category": "Anti-Hero",
+      "description": "Ethan's alter ego, known for his brutal and animalistic fighting style.",
+      "quote": "Elizah is Ethan's alter ego. Ethan is male. His alter ego is not suddenly a woman. That's basic."
+    },
+    {
+      "kind": "character",
+      "name": "Isaac Ezekiel",
+      "alias": "Isaac",
+      "role": "Antagonist",
+      "status": "Alive",
+      "category": "Antagonist",
+      "description": "A technologically enhanced genius from the mythical land of Thessavar who serves as a major threat.",
+      "quote": "Isaac Ezekiel is a genuinely strong name the biblical root is interesting for his character Isaac meaning \"he laughs\""
+    },
+    {
+      "kind": "organization",
+      "name": "Nullborn",
+      "alias": null,
+      "role": "Organization",
+      "status": "Active",
+      "category": "Organization",
+      "description": "An archival and protective organization focused on managing dangerous relics and historical secrets.",
+      "quote": "The Nullborn at this foundational stage wasn't sinister. It was archival and protective."
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Sentinels",
+      "new_facts": "The team name is THE THREAD, and they face technological threats like Isaac Ezekiel.",
+      "status": "Active",
+      "quote": "I would call the team as Thread and 2ndly i liked the name for javed Is Mateo Cruz."
+    }
+  ],
+  "timeline_events": []
+}

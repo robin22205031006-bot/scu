@@ -1,0 +1,43 @@
+{
+  "file": "elizah things (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": "Best friend of Elizah",
+      "status": "Alive",
+      "description": "Elizah's best friend who understands his nature and keeps the secret of his identity during season two.",
+      "quote": "Zayn is still his best buddy whom he roast more abd zayn roasts him too."
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A person loved by Elizah, who frequently flirts with her.",
+      "quote": "he loves nyxia a lot.and also very flirty to her."
+    },
+    {
+      "kind": "character",
+      "name": "Pristine",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An individual who confronts Elizah regarding his bloodline and his status as a demon.",
+      "quote": "at some point he faces pristine.where she says,elizah carrying same blood og khalid.he is a demon."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": "Daddy Decay",
+      "role": null,
+      "status": null,
+      "description": "The figure whose bloodline Elizah shares; referred to mockingly by Elizah as Daddy Decay.",
+      "quote": "as a reply(obviously he was savage and witty) he adresses khalid as daddy decay with witty tone"
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

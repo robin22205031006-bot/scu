@@ -1,0 +1,87 @@
+{
+  "file": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Alistair Graye",
+      "alias": null,
+      "role": "Anomaly and card user from the 19th century",
+      "status": "Alive",
+      "category": "Antagonist",
+      "description": "A mysterious time traveler from 1887 who acts like a jester, uses unpredictable cards and touch-based doubt questions, and made a past deal with Mephisto.",
+      "quote": "This coat is from 1887."
+    },
+    {
+      "kind": "character",
+      "name": "Samuel Sterling",
+      "alias": null,
+      "role": "Redline tactical operative",
+      "status": "Alive",
+      "category": "Protagonist",
+      "description": "A trained tactical agent who uses a hardened fabric tie as a combat weapon and leads operations against anomalies.",
+      "quote": "One man playing cards at four in the morning."
+    },
+    {
+      "kind": "character",
+      "name": "Ayaan",
+      "alias": null,
+      "role": "Redline technician and strategist",
+      "status": "Alive",
+      "category": "Support",
+      "description": "A genius technician who runs predictive combat models, deploys drone arrays, and operates an emergency combat suit.",
+      "quote": "I've run seventeen predictive models on his movement patterns and the problem is there are no movement patterns."
+    },
+    {
+      "kind": "character",
+      "name": "Derek Miles",
+      "alias": null,
+      "role": "Ichor-enhanced combat operative",
+      "status": "Alive",
+      "category": "Support",
+      "description": "An Ichor-enhanced operative known as Vanguard who possesses extreme speed and reflex capabilities, capable of powering through doubt.",
+      "quote": "Fast and strong simultaneously. That's unusual."
+    },
+    {
+      "kind": "character",
+      "name": "Damian",
+      "alias": null,
+      "role": "Aldercrest legacy magician",
+      "status": "Alive",
+      "category": "Protagonist",
+      "description": "An experienced Aldercrest magician who walks upside down on architecture, wields the King and Joker cards, and corrects reality using domain magic.",
+      "quote": "The concrete's original state before human intervention was organic matter. I corrected it back."
+    },
+    {
+      "kind": "character",
+      "name": "Corvani",
+      "alias": null,
+      "role": "Redline commander",
+      "status": "Alive",
+      "category": "Support",
+      "description": "A commanding official at Redline who reviews surveillance data and orders operatives to investigate anomalies.",
+      "quote": "Go talk to him. See what he is. Bring him in if you can."
+    },
+    {
+      "kind": "organization",
+      "name": "Redline",
+      "alias": null,
+      "role": "Operational team and agency",
+      "status": "Active",
+      "category": "Faction",
+      "description": "An operational agency that deploys tactical agents like Samuel, Derek, and Ayaan to investigate and contain threats.",
+      "quote": "They sent the professional."
+    },
+    {
+      "kind": "organization",
+      "name": "Aldercrest",
+      "alias": null,
+      "role": "Magical bloodline and legacy",
+      "status": "Active",
+      "category": "Bloodline",
+      "description": "A powerful magical lineage possessing domain mechanisms, correction logic, and historical legacies.",
+      "quote": "That's how Aldercrest works."
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

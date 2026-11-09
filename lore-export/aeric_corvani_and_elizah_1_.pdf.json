@@ -1,0 +1,152 @@
+{
+  "file": "aeric, corvani and elizah (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Aeric Valenheart",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "First person to fall into the natural pocket dimension in 1354 AD, surviving by intellect, sigils, and glimmer-sense while barely aging due to slower time.",
+      "quote": "Aeric Valenheart (1300s era) First person in history to fall into the natural pocket dimension. Vanished in 1354 AD. Time inside flows MUCH slower → he barely ages. Lives by intellect, sigils, glimmer-sense."
+    },
+    {
+      "kind": "character",
+      "name": "Marcello Corvani",
+      "alias": "Whale",
+      "role": "Modern spy",
+      "status": "Alive",
+      "description": "A former ECAP operative who quit and was trapped in the pocket dimension in 2005 around age 35–38, losing an eye in a fight with Alt David.",
+      "quote": "Marcello Corvani (2005 era) Second known man to be trapped there. Trapped around age 35–38. He and Aeric meet inside the pocket dimension"
+    },
+    {
+      "kind": "character",
+      "name": "Victor",
+      "alias": null,
+      "role": "ECAP Chairperson",
+      "status": "Alive",
+      "description": "Became ECAP Chairperson following his son's death, described as gentle and moral but too soft to stop Stitch's radical shift.",
+      "quote": "Victor becomes ECAP Chairperson Gentle, moral, but too soft to stop Stitch's radical shift."
+    },
+    {
+      "kind": "character",
+      "name": "Stitch",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "Left ECAP to join DEW in anger after Victor's son died, believing heroes must be controlled, and later tortured Ethan.",
+      "quote": "Stitch leaves ECAP and joins DEW in anger He thinks heroes MUST be controlled now."
+    },
+    {
+      "kind": "character",
+      "name": "Alt David",
+      "alias": "Alter David",
+      "role": "Dagger specialist",
+      "status": "Alive",
+      "description": "An unstable, traumatized dagger specialist with access to cube energy traces who accidentally fell into the pocket dimension and took Corvani's eye.",
+      "quote": "Alt David = dagger specialist Pocket dimension = low light, shifting terrain Corvani = defensive instincts but exhausted Alt David’s signature move → go for the eye."
+    },
+    {
+      "kind": "character",
+      "name": "Zaan",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "Trapped in the pocket dimension for centuries, holding shared ancient knowledge of hidden realms, Hisham's death, Khalid's betrayal, and the ancient war.",
+      "quote": "Zaan has been trapped for centuries. Aeric connects with him through shared ancient knowledge. Corvani sees his entire worldview shattered."
+    },
+    {
+      "kind": "character",
+      "name": "Ethan Thorne",
+      "alias": "Elizah",
+      "role": "Future leader of the Sentinels",
+      "status": "Alive",
+      "description": "Imprisoned, starved, and tortured by Stitch until awakening as Elizah, breaking out of a cell, falling into the ocean, and being rescued by Corvani and Aeric.",
+      "quote": "Ethan Thorne Future leader of the Sentinels The person whose life will eventually connect ALL of their fates"
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An individual capable of sensing abnormal energy.",
+      "quote": "A rift opens. Nyxia senses abnormal energy."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An individual present during a rift opening who cautiously steps back.",
+      "quote": "Nyxia senses abnormal energy. Zayn steps back cautiously."
+    },
+    {
+      "kind": "character",
+      "name": "Hisham",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "A figure from the timeline whose death is part of the ancient war history recounted by Zaan.",
+      "quote": "Zaan opens up about the timeline, including Hisham’s death → Khalid’s betrayal → the ancient war."
+    },
+    {
+      "kind": "character",
+      "name": "Khalid",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A figure who committed a betrayal in the ancient war and has an impending confrontation with Zaan.",
+      "quote": "Zaan opens up about the timeline, including Hisham’s death → Khalid’s betrayal → the ancient war."
+    },
+    {
+      "kind": "organization",
+      "name": "ECAP",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "An organization formerly chaired by Victor, previously associated with Stitch and Marcello Corvani before their departures in 2005.",
+      "quote": "2005 is the Year of Collapse for the old ECAP era. ✔ Victor’s son dies (power-casualty incident) → Victor crumbles emotionally → Stitch snaps ideologically"
+    },
+    {
+      "kind": "organization",
+      "name": "DEW",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "An organization that Stitch joined after departing ECAP in anger.",
+      "quote": "Stitch leaves ECAP and joins DEW in anger He thinks heroes MUST be controlled now."
+    },
+    {
+      "kind": "organization",
+      "name": "Sentinels",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An organization whose future leader is Ethan Thorne.",
+      "quote": "Ethan Thorne Future leader of the Sentinels The person whose life will eventually connect ALL of their fates"
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Aeric Valenheart Vanishes into the Pocket Dimension",
+      "era": "1300s",
+      "description": "Aeric Valenheart becomes the first person in history to fall into the natural pocket dimension.",
+      "quote": "Aeric Valenheart (1300s era) First person in history to fall into the natural pocket dimension. Vanished in 1354 AD."
+    },
+    {
+      "title": "Collapse of the Old ECAP Era and Corvani's Disappearance",
+      "era": "2005",
+      "description": "Victor's son dies, Stitch leaves for DEW, Victor assumes the ECAP chair, and Corvani quits before being pulled into a spatial fracture while investigating Orion's lost team.",
+      "quote": "2005 is the Year of Collapse for the old ECAP era. ✔ Victor’s son dies (power-casualty incident) → Victor crumbles emotionally → Stitch snaps ideologically"
+    },
+    {
+      "title": "Escape from the Pocket Dimension and Rescue of Ethan",
+      "era": "2025",
+      "description": "Corvani and Aeric escape the pocket dimension into the ocean, where Corvani summons the whale to save a falling Ethan Thorne.",
+      "quote": "Corvani & Aeric ESCAPE the Pocket Dimension in 2025"
+    }
+  ]
+}

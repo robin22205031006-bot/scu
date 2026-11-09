@@ -1,0 +1,44 @@
+{
+  "file": "Joker and the Chess master.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Alistair Graye",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "category": null,
+      "description": "An unpredictable and powerful individual bound by a deal with Mephisto, utilizing a card system and a smile mechanism that resets memories.",
+      "quote": "The problem with Alistair Graye was not that he was powerful was not that he was unpredictable was not even that he seemed to find the entire engagement mildly amusing"
+    },
+    {
+      "kind": "character",
+      "name": "Damian",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "category": null,
+      "description": "An Aldercrest line member with demonic heritage, holding a King card and a Joker card, capable of space correction and philosophical combat techniques.",
+      "quote": "Damian's entry had none of these things until the camera pulled back far enough to find him already there already in motion"
+    },
+    {
+      "kind": "faction",
+      "name": "Redline",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "category": "Faction",
+      "description": "A team including Samuel, Derek, Ayaan, and Damian.",
+      "quote": "Alistair Graye vs. Redline + Damian | Full Kinetic Version"
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Samuel",
+      "new_facts": "Engaged in tactical combat with Alistair alongside Redline, utilizing positioning and spatial geometry.",
+      "status": null,
+      "quote": "Samuel's tie swept left Alistair was right Samuel corrected right Alistair was behind him Samuel spun"
+    }
+  ],
+  "timeline_events": []
+}

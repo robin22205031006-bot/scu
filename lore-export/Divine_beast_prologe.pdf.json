@@ -1,0 +1,32 @@
+{
+  "file": "Divine beast prologe.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Orion",
+      "alias": null,
+      "role": "Rookie soldier",
+      "status": "Alive",
+      "description": "A recruit who survived the initial expedition into The Silence, eventually witnessing the existence of the beast-beings.",
+      "quote": "Orion. Barely twenty-one. A rookie, freshly recruited. His name echoed through the ranks like an insult."
+    },
+    {
+      "kind": "organization",
+      "name": "The agency",
+      "alias": null,
+      "role": "Monitors the barrier known as The Silence",
+      "status": "Active",
+      "description": "An organization that observed the invisible barrier known as The Silence for decades before sending an expedition force.",
+      "quote": "For decades, the agency watched the invisible barrier. A silent wall standing in plain sight, untouchable by satellites, undisturbed by storms."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Opening of The Silence",
+      "era": "Divine Beast Universe Present",
+      "description": "The invisible barrier monitored by the agency opened, allowing a military task force to enter an unknown world.",
+      "quote": "And one day, The Silence opened. The task force stood ready at its edge. Elite men and women handpicked from decades of service."
+    }
+  ]
+}

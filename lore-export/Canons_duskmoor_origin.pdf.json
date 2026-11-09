@@ -1,0 +1,50 @@
+{
+  "file": "Canons duskmoor origin.pdf",
+  "entities": [],
+  "updates": [
+    {
+      "existing_name": "Silas Duskmoor",
+      "new_facts": "Silas exhibits extroverted authority, loud dominance, savage humor, sometimes acts dumb on purpose, and fights like a storm with big explosive movement.",
+      "status": "Alive",
+      "quote": "Silas = extroverted authority, loud dominance, savage humor, sometimes “acts dumb” on purpose, fights like a storm with big explosive movement."
+    },
+    {
+      "existing_name": "Agnus",
+      "new_facts": "Agnus possesses introverted authority, silent finality, speaks selectively, and fights with minimal movement and precise execution energy.",
+      "status": "Alive",
+      "quote": "Agnus = introverted authority, silent finality, speaks selectively (especially only with Silas), fights with minimal movement, precise execution energy."
+    },
+    {
+      "existing_name": "Norman",
+      "new_facts": "Norman's villain turn was engineered through social engineering by Elizabeth Pristine, who framed him as a killer and pushed him into becoming Norman the Paleborne.",
+      "status": "Alive",
+      "quote": "A shapeshifting girl aligned with Khalid, Elizabeth Pristine, stages events to break Liam–Norman trust. She frames Norman as the killer, fakes “saving” him, and pushes him into the point-of-no-return."
+    },
+    {
+      "existing_name": "Elizabeth Pristine",
+      "new_facts": "Elizabeth Pristine is a shapeshifting girl aligned with Khalid who stages events to break trust between Liam and Norman.",
+      "status": "Alive",
+      "quote": "A shapeshifting girl aligned with Khalid, Elizabeth Pristine, stages events to break Liam–Norman trust."
+    },
+    {
+      "existing_name": "Eldrich Aldercrest",
+      "new_facts": "Eldrich's romantic partner was Elina Quins. After Dorian's death and Khalid's revenge, Eldrich became half-demonic and vanished, and is presumed dead while visiting various graves from the shadows.",
+      "status": "Missing",
+      "quote": "After Dorian’s death and Khalid’s revenge, Eldrich becomes half-demonic and vanishes; presumed dead. Elina never remarries; Eldrich watches from shadows; she dies of old age while he remains."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "Origin of the Duskmoor Bloodline",
+      "era": "Legend-Era",
+      "description": "A dragon fell in love with a human, creating a hybrid bloodline. A weak female spirit used a human form, loved by a hybrid, but upon seeing her true form, the hybrid called her ugly, killed her, and abandoned the child, who was then raised by spirits to start the Duskmoor bloodline.",
+      "quote": "A weak female spirit used a human form; a hybrid loved her human form; they had a child; then the hybrid saw her true spirit form, called her ugly, killed her, and abandoned the child. Spirits raised that child → Duskmoor bloodline begins."
+    },
+    {
+      "title": "Diablo War",
+      "era": "Ancient",
+      "description": "An ancient demon incursion led by Diablo and a Prince of Demons was forced to retreat due to Tedmond's presence, kid-Dorian's madness aura, and Norman's fearlessness.",
+      "quote": "Ancient demon incursion led by Diablo (Right Hand of the Devil) and a Prince of Demons. Tedmond’s presence + kid-Dorian’s “madness” aura + Norman’s fearlessness forced Diablo to retreat."
+    }
+  ]
+}

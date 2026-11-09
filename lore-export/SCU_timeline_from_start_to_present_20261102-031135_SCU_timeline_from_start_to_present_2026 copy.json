@@ -1,0 +1,17 @@
+{
+  "file": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-7.pdf",
+  "entities": [
+    {
+      "kind": "faction",
+      "name": "The Umbral",
+      "alias": null,
+      "role": "Shadow assassin group and independent operation",
+      "status": "Active",
+      "category": "Faction",
+      "description": "A shadow team built by Valeria out of the rubble of Redline's loss, operating with ancient swordsmanship and invisible precision.",
+      "quote": "The Umbral. Not Redline. Not anything that Corvani built."
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

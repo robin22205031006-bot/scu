@@ -1,0 +1,37 @@
+{
+  "file": "Dew (1)_1.pdf",
+  "entities": [
+    {
+      "kind": "organization",
+      "name": "DEW",
+      "alias": "Division of Experimental Warfare",
+      "role": "Black-ops arm of ECAP",
+      "status": "Inactive",
+      "category": "Organization",
+      "description": "The black-ops arm of ECAP that conducted forbidden human experimentation to create controllable meta-soldiers.",
+      "quote": "D.E.W. — “Division of Experimental Warfare” Nature The black-ops arm of ECAP, initially hidden under research budget names. Not just studying metas — making them."
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "ECAP",
+      "new_facts": "Originally a government-founded scientific and military institute created to regulate and research superhuman phenomena, serving as a front for DEW's darker operations.",
+      "status": "Active",
+      "quote": "E.C.A.P. — “Enhanced Cognition & Applied Phenomena” Nature A government-founded scientific and military institute, created originally to regulate and research superhuman phenomena after the first Sentinel emergence."
+    },
+    {
+      "existing_name": "Covenant",
+      "new_facts": "Formed from surviving DEW scientists, military officers, and World Order backers, operating as a shadow syndicate with the goal of erasing individuality.",
+      "status": "Active",
+      "quote": "The Covenant Nature A shadow syndicate formed from surviving DEW scientists, military officers, and World Order backers. They believe metas are divine mistakes that need to be re-forged under one consciousness."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "The Storm Rebellion",
+      "era": null,
+      "description": "Atrocities of DEW were exposed during this event, leading to internal collapse when Samuel turned on them.",
+      "quote": "Exposure of their atrocities during “The Storm Rebellion.” Internal collapse when Samuel (Ghost-01) turned on them, leaking files to the public."
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "file": "straight s1-s5.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A confident and sharp character associated with lightning power.",
+      "quote": "Zayn feels like the lead — confident, sharp, lightning incarnate."
+    },
+    {
+      "kind": "character",
+      "name": "Samuel",
+      "alias": "Ghost-01",
+      "role": "Anti-hero",
+      "status": null,
+      "description": "An anti-hero who is brutal and loyal to no banner, questioning ECAP and DEW.",
+      "quote": "Samuel (Ghost-01) is framed as an anti-hero: brutal, loyal to no banner, questioning ECAP and DEW."
+    },
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "A character initially appearing calm and reliable who eventually dies.",
+      "quote": "The ending punch Ethan “dies.”"
+    },
+    {
+      "kind": "character",
+      "name": "Stitch",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A character who begins showing an obsession with control.",
+      "quote": "The cracks Stitch starts showing his control obsession."
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A character who manifests power she does not understand, resulting in aether leaks.",
+      "quote": "Nyxia manifests power she doesn’t understand — aether leaks, not mastery."
+    },
+    {
+      "kind": "character",
+      "name": "Alter Ethan",
+      "alias": null,
+      "role": "Threat",
+      "status": null,
+      "description": "A horrifying contradiction of the moral Ethan who emerges as a threat.",
+      "quote": "Alter Ethan appears mid-saga as a horrifying contradiction: “What if the most moral man becomes the worst threat?”"
+    },
+    {
+      "kind": "character",
+      "name": "Asetra",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A shadow figure revealed to be behind everything.",
+      "quote": "Asetra reveals herself as the true shadow behind everything."
+    },
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "The gravitational center of Season 2, viewed as a necessary cruelty.",
+      "quote": "Elizah becomes the gravitational center. Not a hero. Not a villain. A necessary cruelty the world forced into existence."
+    },
+    {
+      "kind": "character",
+      "name": "David",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "Zayn's brother whose death is marked by loss.",
+      "quote": "David’s death: not heroic, not glorious — just loss."
+    },
+    {
+      "kind": "character",
+      "name": "Agnus",
+      "alias": "Altan El-Mansur",
+      "role": "Guardian",
+      "status": null,
+      "description": "A guardian who broke natural law to protect his family.",
+      "quote": "Agnus (Altan El-Mansur): guardian who broke natural law to keep his family alive."
+    },
+    {
+      "kind": "character",
+      "name": "Maliha",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "Captured and corrupted by love and grief, later killed by Arzuna.",
+      "quote": "Arzuna kills Maliha, ending love corrupted by grief."
+    },
+    {
+      "kind": "character",
+      "name": "Yoshiko",
+      "alias": null,
+      "role": "Manager",
+      "status": null,
+      "description": "Initially presented as a manager.",
+      "quote": "Yoshiko enters as “just a manager”... until she isn’t."
+    },
+    {
+      "kind": "character",
+      "name": "Corvani",
+      "alias": "Whale",
+      "role": null,
+      "status": null,
+      "description": "A human who is tired, principled, and furious.",
+      "quote": "Corvani (Whale) returns — human, tired, principled, furious."
+    },
+    {
+      "kind": "character",
+      "name": "Silas",
+      "alias": "Silas Duskmoor",
+      "role": null,
+      "status": "Dead",
+      "description": "A legendary figure who dies at Arthur's hands.",
+      "quote": "Silas Duskmoor dies at Arthur’s hands. Sick, exhausted, but unyielding."
+    },
+    {
+      "kind": "character",
+      "name": "Grace",
+      "alias": null,
+      "role": "Healer",
+      "status": "Retired",
+      "description": "Awakened Athena’s Judgement and later retired from Vanguard.",
+      "quote": "Grace retires with Vanguard, mentally exhausted."
+    },
+    {
+      "kind": "character",
+      "name": "Aariz",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Fought Elizah in a pursuit of strength.",
+      "quote": "Aariz fights Elizah, chasing strength — only to learn strength without restraint destroys you."
+    },
+    {
+      "kind": "character",
+      "name": "Arzuna",
+      "alias": null,
+      "role": "Anti-hero",
+      "status": null,
+      "description": "Shifted from a villain to an anti-hero.",
+      "quote": "Arzuna shifts from villain to anti-hero."
+    },
+    {
+      "kind": "character",
+      "name": "Rowan",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Character unable to lift Silas's body.",
+      "quote": "Rowan cannot lift Silas’s body."
+    },
+    {
+      "kind": "character",
+      "name": "Zaan",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Helps Rowan carry Silas's body.",
+      "quote": "Zaan helps him carry it, explaining grief is heavier than steel."
+    },
+    {
+      "kind": "character",
+      "name": "Nilanjona",
+      "alias": null,
+      "role": "Guardian",
+      "status": "Retired",
+      "description": "Accepted guardianship before stepping away.",
+      "quote": "Nilanjona accepts guardianship and steps away."
+    },
+    {
+      "kind": "character",
+      "name": "Eldrich",
+      "alias": null,
+      "role": "Guardian",
+      "status": null,
+      "description": "A shadow guarding the throne.",
+      "quote": "Eldrich remains a shadow, still guarding the throne."
+    },
+    {
+      "kind": "character",
+      "name": "Aeric",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Returned from a pocket dimension with forbidden knowledge.",
+      "quote": "Corvani & Aeric return from the pocket dimension with forbidden knowledge."
+    },
+    {
+      "kind": "character",
+      "name": "Maverick",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A character mentioned in whispers.",
+      "quote": "Maverick is whispered — not shown."
+    },
+    {
+      "kind": "character",
+      "name": "Niharo",
+      "alias": null,
+      "role": "Villain",
+      "status": null,
+      "description": "Villain who reorganizes in Season 4.",
+      "quote": "The villains reorganize: Niharo steps forward."
+    },
+    {
+      "kind": "organization",
+      "name": "ECAP",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "Organization questioned by Samuel.",
+      "quote": "Samuel (Ghost-01) is framed as an anti-hero: brutal, loyal to no banner, questioning ECAP and DEW."
+    },
+    {
+      "kind": "organization",
+      "name": "DEW",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "Organization conducting hidden experiments.",
+      "quote": "DEW experiments stay hidden, but the tone is wrong."
+    },
+    {
+      "kind": "organization",
+      "name": "Vanguard",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "Group from which Grace retires.",
+      "quote": "Grace retires with Vanguard, mentally exhausted."
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Nullborn",
+      "new_facts": "The organization was preventative, not evil.",
+      "status": "Inactive",
+      "quote": "The audience understands: Nullborn wasn’t evil — it was preventative."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "The Death of Silas Duskmoor",
+      "era": "Season 3",
+      "description": "Silas Duskmoor dies at the hands of Arthur.",
+      "quote": "Silas Duskmoor dies at Arthur’s hands. Sick, exhausted, but unyielding."
+    }
+  ]
+}

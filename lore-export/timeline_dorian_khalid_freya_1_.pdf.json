@@ -1,0 +1,173 @@
+{
+  "file": "timeline dorian khalid freya (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "john liam",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "John Liam participated in defeating Khalid brutally before john died in the event.",
+      "quote": "then john and liam defeats him brutally and then john died and after that pristine came to normans life."
+    },
+    {
+      "kind": "character",
+      "name": "issabela",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "Issabela is already dead at the start of the story and Khalid visits her grave.",
+      "quote": "issabela is already dead,as you saw khalid came to her grave scene."
+    },
+    {
+      "kind": "character",
+      "name": "anna",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "Anna died a long ago by Khalid himself.",
+      "quote": "anna died a long ago by khalid himself."
+    },
+    {
+      "kind": "character",
+      "name": "anthony",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Anthony follows Annas ideology in Issabelas time.",
+      "quote": "anthony follows annas ideology in issabela time in issabela pdf which takes after khalid 2 pdf."
+    },
+    {
+      "kind": "character",
+      "name": "samuel",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Samuel leaves ecap after sentinel gets formed and later leaves dew after ethan dies because of stitch.",
+      "quote": "Samuel leaves ecap after sentinel got formed."
+    },
+    {
+      "kind": "character",
+      "name": "ghost",
+      "alias": null,
+      "role": "hero",
+      "status": null,
+      "description": "Ghost gained recognition after sentinels were formed, was rejected by them, and became a hero to the people.",
+      "quote": "ghost got recognization after sentinel was formed and he was rejected by sentinels and then he became hero to people thing happened."
+    },
+    {
+      "kind": "character",
+      "name": "ethan",
+      "alias": null,
+      "role": null,
+      "status": "Dead",
+      "description": "Ethan died, and Samuel learned it was because of stitch.",
+      "quote": "when ethan was dead and samuel learns it was because of stitch after that event samuel leaves dew event happened ."
+    },
+    {
+      "kind": "character",
+      "name": "freya",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Freya found Khalid near the demon before storm event, and her story starts far before.",
+      "quote": "when freya found khalid was near demon before storm event happens freyas story starts far before."
+    },
+    {
+      "kind": "character",
+      "name": "gabriel",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Gabriel threw pristine after a man he trusted was thought to be Khalid.",
+      "quote": "and then when gabriel throws pristine,and then khalid got her."
+    },
+    {
+      "kind": "character",
+      "name": "pristine",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Pristine was thrown by Gabriel, got taken by Khalid, and later came into Normans life after she became an adult.",
+      "quote": "and then when gabriel throws pristine,and then khalid got her.after pristine got adult then that time khalid faces norman"
+    },
+    {
+      "kind": "character",
+      "name": "norman",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Norman was turned into a vampire first by Khalid.",
+      "quote": "where he turns norman a vampire first ,then john and liam defeats him brutally"
+    },
+    {
+      "kind": "character",
+      "name": "khalid",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Khalid killed Anna, visited Issabelas grave, faced Norman and John and Liam where he was brutally injured, and took a long time break.",
+      "quote": "anna died a long ago by khalid himself. anthony follows annas ideology"
+    },
+    {
+      "kind": "character",
+      "name": "niharo",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Niharo was born at the start of the niharo event, and after some years Arthur was born.",
+      "quote": "where at first niharo borns and after some years arthur borned."
+    },
+    {
+      "kind": "character",
+      "name": "arthur",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "Arthur was born some years after Niharo was born.",
+      "quote": "where at first niharo borns and after some years arthur borned."
+    },
+    {
+      "kind": "organization",
+      "name": "sentinels",
+      "alias": null,
+      "role": null,
+      "status": "Active",
+      "description": "An organization after whose formation Samuel leaves ecap and Ghost gets recognition.",
+      "quote": "Samuel leaves ecap after sentinel got formed.ghost got recognization after sentinel was formed"
+    },
+    {
+      "kind": "organization",
+      "name": "ecap",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An organization that Samuel leaves after the sentinel gets formed.",
+      "quote": "Samuel leaves ecap after sentinel got formed."
+    },
+    {
+      "kind": "organization",
+      "name": "dew",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An organization/event context where Samuel leaves after Ethans death.",
+      "quote": "when ethan was dead and samuel learns it was because of stitch after that event samuel leaves dew event happened ."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Demon Before Storm Event",
+      "era": null,
+      "description": "Freya finds Khalid near a demon before the storm event happens.",
+      "quote": "when freya found khalid was near demon before storm event happens freyas story starts far before."
+    },
+    {
+      "title": "Niharo Event",
+      "era": null,
+      "description": "Niharo and Arthur are born during the Niharo event after Freya and Gabriel fail to hatch an egg.",
+      "quote": "on the same time freya gabriel tried hatching the egg,but was failed and then niharo event happened."
+    }
+  ]
+}

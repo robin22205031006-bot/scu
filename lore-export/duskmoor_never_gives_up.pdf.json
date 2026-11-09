@@ -1,0 +1,38 @@
+{
+  "file": "duskmoor never gives up.pdf",
+  "entities": [],
+  "updates": [
+    {
+      "existing_name": "Rowan",
+      "new_facts": "Rowan learns he is a Duskmoor during a journey when he meets Silas for the first time. In a catastrophic fight against Arthur, the chosen and true dragon, Rowan is beaten extremely badly and nearly killed, suffering severe body damage, a fractured hand, and major damage to one eye. Defying defeat, Rowan stands up bleeding and battered, picks up the chains given to him by Silas, and defiantly declares the Duskmoor creed to Arthur.",
+      "status": "Alive",
+      "quote": "while rowan met silas for the first time.and then slowly he learns in that journey that he is a duskmoor."
+    },
+    {
+      "existing_name": "Silas",
+      "new_facts": "Silas imparts the Duskmoor philosophy to Rowan, telling him that a Duskmoor never kneels, never falls back, roars, and never gives up. Silas ultimately dies at the hand of Arthur.",
+      "status": "Dead",
+      "quote": "as you know silas dies at the hand of arthur. so later when Rowan fights arthur."
+    },
+    {
+      "existing_name": "Arthur",
+      "new_facts": "Arthur is identified as the chosen dragon and a true dragon. He defeats Rowan in a catastrophic, devastating battle, acknowledges Rowan's extreme braveness and willpower, and attempts to recruit him before Rowan defiantly rejects the offer.",
+      "status": null,
+      "quote": "as arthur is the chosen dragon and he is a true dragon. but when everyone thought rowan is dead."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "Rowan Learns His Heritage",
+      "era": null,
+      "description": "Rowan meets Silas for the first time and gradually learns during their journey that he belongs to the Duskmoor lineage.",
+      "quote": "while rowan met silas for the first time.and then slowly he learns in that journey that he is a duskmoor."
+    },
+    {
+      "title": "The Catastrophic Battle Between Rowan and Arthur",
+      "era": null,
+      "description": "Arthur defeats Rowan in a catastrophic clash, leaving him severely battered and presumed dead until Rowan rises again with his chains to recite the Duskmoor creed.",
+      "quote": "the fight was more like a catestrophy on the earth. rowan being that powerful still was beaten so badly by arthur."
+    }
+  ]
+}

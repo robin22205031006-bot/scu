@@ -1,0 +1,50 @@
+{
+  "file": "Nur.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Nur",
+      "alias": null,
+      "role": "Next-gen main character",
+      "status": "Alive",
+      "description": "Nur is biologically demonic by birth, resulting from a demonic deal in 2003 where his father traded his life for Nur's existence. He chose humanity and ideological restraint over using his demonic instincts and power.",
+      "quote": "Nur is not like Khalid (contract-made). Not like Ethan/Elizah (fractured psyche + bloodline). Nur is biologically demonic by birth."
+    },
+    {
+      "kind": "character",
+      "name": "Ethan",
+      "alias": null,
+      "role": "Mentor and moral compass",
+      "status": null,
+      "description": "Ethan serves as mentor and moral compass, being the first person who saw Nur as a human rather than a threat.",
+      "quote": "Ethan is not just a senior. He is: Mentor Moral compass First person who saw Nur as a human, not a threat"
+    },
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "A character seen as the strongest weapon, suffering from self-hatred.",
+      "quote": "Elizah suffers because of self-hatred."
+    },
+    {
+      "kind": "character",
+      "name": "Aariz",
+      "alias": "Ariyan",
+      "role": null,
+      "status": null,
+      "description": "A character embodying instinct, ego, power, and dominance, fueled by an ego spiral from rejection.",
+      "quote": "Aariz = instinct, ego, power, dominance"
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Mephisto Deal",
+      "era": "2003",
+      "description": "Parents wanted a child and made a deal with Mephisto. The father could not complete the deal and his life was taken as payment, dying after Nur is born.",
+      "quote": "The Mephisto deal in 2003: Parents wanted a child. Father couldn’t complete the deal. Payment wasn’t power, soul, or time — it was his life. He dies after Nur is born."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "file": "Truth of asetra incident.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Asetra",
+      "alias": "Balance host",
+      "role": "Former Balance host",
+      "status": "Legend",
+      "description": "A powerful Balance host whose emotional attachment to her partner and unborn child led to her being sealed by humanity.",
+      "quote": "A Balance host who doesn’t want to win. Who still tries to communicate. Who loves humanity. Who gets sealed anyway. That’s tragic myth writing."
+    },
+    {
+      "kind": "character",
+      "name": "Nyxia",
+      "alias": null,
+      "role": "Current Balance host",
+      "status": "Alive",
+      "description": "The current Balance host who understands the dark history of her predecessor and chooses restraint over annihilation.",
+      "quote": "You didn’t turn Nyxia into “humans bad → genocide mode.” You let her see the rot... and still choose restraint."
+    },
+    {
+      "kind": "faction",
+      "name": "The 9 bloodlines",
+      "alias": "The 9 clans",
+      "role": "Dominant political forces",
+      "status": "Active",
+      "description": "A collective of bloodlines that orchestrated the fear against Asetra and secured power through her sealing.",
+      "quote": "If 9 clans + multiple species + a Judgement bearer worked together, then what happened likely wasn’t: “We are stronger.” It was: “We are synchronized.”"
+    },
+    {
+      "kind": "faction",
+      "name": "Nilanjonas’ people",
+      "alias": "The Observers",
+      "role": "Archivists of truth",
+      "status": "Active",
+      "description": "A powerful, hidden faction that recognized the truth of the Asetra incident but chose strategic non-intervention.",
+      "quote": "The Observers (Nilanjonas’ people) – Saw the truth. – Declined the war. – Did not intervene. – Preserved themselves."
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

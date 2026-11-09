@@ -1,0 +1,47 @@
+{
+  "file": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Elizah",
+      "alias": null,
+      "role": "Antagonist",
+      "status": "Alive",
+      "category": "Antagonist",
+      "description": "A brutal combatant who views killing as maintenance work, capable of casual animalistic violence while maintaining a bizarrely cheerful demeanor.",
+      "quote": "The Apex behind him is missing its ribcage in the functional sense — the chest cavity has been introduced to the outside world and found the introduction permanent."
+    },
+    {
+      "kind": "character",
+      "name": "Rowan",
+      "alias": null,
+      "role": "Protagonist",
+      "status": "Alive",
+      "category": "Protagonist",
+      "description": "A powerhouse fighter characterized by extreme durability and the use of a heavy chain weapon imbued with blue flame.",
+      "quote": "The links wrap the hybrid's arm mid-charge with the speed of something that has been thrown correctly, and Rowan pulls. The physics are simple: the hybrid's momentum is now Rowan's to direct."
+    },
+    {
+      "kind": "character",
+      "name": "David",
+      "alias": null,
+      "role": "Anti-Hero",
+      "status": "Dead",
+      "category": "Anti-Hero",
+      "description": "A highly agile and theatrical combatant who utilizes portals to manipulate the position of his dagger, treating battle as a dance.",
+      "quote": "He opens a portal at chest height in front of him. Steps backward into it. Comes out of a portal directly behind his own attacker. The dagger is already moving."
+    },
+    {
+      "kind": "character",
+      "name": "Zayn",
+      "alias": null,
+      "role": "Protagonist",
+      "status": "Alive",
+      "category": "Protagonist",
+      "description": "A powerhouse who utilizes precise red lightning as a weapon, capable of both surgical strikes and devastating, boiling levels of rage.",
+      "quote": "His hand snaps forward and the red lightning threads — not the explosive discharge of full combat mode, the precise surgical expression of someone using current as a scalpel."
+    }
+  ],
+  "updates": [],
+  "timeline_events": []
+}

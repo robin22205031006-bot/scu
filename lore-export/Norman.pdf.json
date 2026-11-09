@@ -1,0 +1,37 @@
+{
+  "file": "Norman.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Elizabeth Pristine",
+      "alias": null,
+      "role": "Antagonist",
+      "status": "Alive",
+      "category": "Antagonist",
+      "description": "A shape-shifting infiltrator working for Khalid who manipulated Norman to destroy his friendship with Liam.",
+      "quote": "actually,that girl came from khalid,and as she is a shape shifter she intentionally broke the friendship liam and norman had by giving wrong info and stage it in wrong way"
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Norman",
+      "new_facts": "Originally an anti-hero who turned into a villain known as 'the paleborn' after being manipulated by Elizabeth Pristine.",
+      "status": "Alive",
+      "quote": "from that moment a new villain awoke.norman the paleborn.and he shook hand with khalid again. it's the story how norman became a villain"
+    },
+    {
+      "existing_name": "Liam",
+      "new_facts": "Maintained his friendship with Norman despite the internal conflicts within the org and Silas's interference.",
+      "status": "Alive",
+      "quote": "liam.and the other heroes back that time was after that girl. norman couldn't get why..but for him,she was only way of his comfort.and on the other hand liam.his old friend."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "The Awakening of the Paleborn",
+      "era": null,
+      "description": "After being framed for violence by Elizabeth Pristine, Norman kills an authority figure of the org and fully embraces his transformation into a villain.",
+      "quote": "now norman couldn't take this and seeing his only hope injured he got angry and rsn very fast toward the old guy(as norman is a vampire he can ran so fast) and slashed the head of the old guy."
+    }
+  ]
+}

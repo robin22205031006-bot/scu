@@ -1,0 +1,89 @@
+{
+  "file": "rise of ayaan (1).pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Victor",
+      "alias": null,
+      "role": "Scientist",
+      "status": "Dead",
+      "description": "A renowned scientist, creator of advanced robotics, and idol of Ayman who attempted to protect him from corruption within ECAP.",
+      "quote": "it's about ayaan /ayman.as you know he is a tech genius who in the first season was the guy in the chair,helping the sentinels with digital infos,weakness of enemies and analysing them."
+    },
+    {
+      "kind": "character",
+      "name": "Grace",
+      "alias": null,
+      "role": "Healer",
+      "status": "Alive",
+      "description": "A healer who treated Ayman following his injuries sustained while disabling the corrupted program.",
+      "quote": "he decided to contact Grace.and grace came fast to his location to heal him."
+    },
+    {
+      "kind": "character",
+      "name": "Stitch",
+      "alias": null,
+      "role": "Chief of ECAP",
+      "status": "Alive",
+      "description": "The corrupt former leader of ECAP who operated DEW secretly.",
+      "quote": "as ecap is about science and tech.he was the cheif authority there after stitch left ecap and made dew secretly."
+    },
+    {
+      "kind": "organization",
+      "name": "Sentinels",
+      "alias": null,
+      "role": "Heroes",
+      "status": "Inactive",
+      "description": "A team of heroes that Ayman supported during the first season before their disbandment.",
+      "quote": "in sentinels from his early life in sentinels,we will see his minu cute robot assistant.who is very close to his heart."
+    },
+    {
+      "kind": "organization",
+      "name": "ECAP",
+      "alias": null,
+      "role": "Science and Tech",
+      "status": "Active",
+      "description": "A science and technology organization previously headed by Stitch and later Ayman.",
+      "quote": "although he joined ECAP.and also he is now the chief of ecap .as ecap is about science and tech."
+    },
+    {
+      "kind": "organization",
+      "name": "DEW",
+      "alias": null,
+      "role": "Secret organization",
+      "status": "Active",
+      "description": "A secret entity formed by Stitch after departing from ECAP.",
+      "quote": "as ecap is about science and tech.he was the cheif authority there after stitch left ecap and made dew secretly."
+    },
+    {
+      "kind": "organization",
+      "name": "Hidden Ones",
+      "alias": null,
+      "role": "Group",
+      "status": "Active",
+      "description": "A group that Ayman attempted to join following his rejection by Victor.",
+      "quote": "before 2nd season meeting samuel in hidden ones taboo."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Ayman's Introduction as Sentinel Support",
+      "era": "Season 1",
+      "description": "Ayman served as the digital support specialist for the Sentinels.",
+      "quote": "it's about ayaan /ayman.as you know he is a tech genius who in the first season was the guy in the chair,helping the sentinels with digital infos"
+    },
+    {
+      "title": "The Corruption of the AI Program",
+      "era": "Season 2",
+      "description": "A corrupted AI program within Victor's robotics project began creating rogue, attacking robots.",
+      "quote": "later it turns into evilish robotics. where he hwas fighting those robots for several months.he gets a letter by victor himself,asking for his help.as his project went wrong"
+    },
+    {
+      "title": "Victor's Death",
+      "era": "Season 2",
+      "description": "Victor passed away after confessing his responsibility for the project's failure to the world.",
+      "quote": "in the healing process of grace,he stood and all of a sudden ran to see him but sadly,he was dead."
+    }
+  ]
+}

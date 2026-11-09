@@ -1,0 +1,62 @@
+{
+  "file": "corvani and orion things.pdf",
+  "entities": [],
+  "updates": [
+    {
+      "existing_name": "Marcello Corvani",
+      "new_facts": "Corvani was 25 years younger than Victor and Stitch. He was saved by Stitch from a burned slum when he was a young agent. His former codename was Whale, derived from an ocean incident where a whale stuck to their Navy ship fan and he calmly swam out, freed it, and fell asleep with a cigar in his mouth. He opposed Stitch's ideology and left ECAP around 2005 when Victor's son died. He got trapped in a pocket dimension where he met Aeric Valenheart and lost an eye fighting Alter David. In 2025, he and Aeric learned to escape the pocket dimension, met Zaan, and returned to the ocean where his rescued whale saved a falling Ethan.",
+      "status": "Alive",
+      "quote": "though corvani isn't same age as victor and stitch.he is 25 years younger than them. and also lower ranked back then.and stitch took him from a burned slum when he was young agent"
+    },
+    {
+      "existing_name": "Orion",
+      "new_facts": "Orion was taken from a traveling circus called Circo del Miracolo by Marcello Corvani when he was about 16 years old. Corvani recognized his presence of mind and potential after seeing him stay calm during a test of instinct.",
+      "status": "Alive",
+      "quote": "marcellos first meeting with orion where it's clear he took orion from a circus. yes ,from a circus.when he was about 16 years old.i mean,orion was 16 years old. when corvani took him seeing his presence of mind."
+    },
+    {
+      "existing_name": "Aeric Valenheart",
+      "new_facts": "Aeric got trapped in the pocket dimension where he later met Marcello Corvani, lost an eye battle involvement alongside him against Alter David, and by 2025 learned how to escape the dimension alongside Corvani.",
+      "status": null,
+      "quote": "aeric valenheart got trapped in that era.but in corvanis story. he also got trapped into that dimension too. it happened at 2005"
+    },
+    {
+      "existing_name": "Alter David",
+      "new_facts": "Alter David accidentally went to the pocket dimension and fought Marcello Corvani, taking Corvani's eye before Aeric Valenheart intervened.",
+      "status": null,
+      "quote": "it was alter david who somehow also went accidently to the pocket dimension where he took corvani's eye fighting him later basically aeric came to the scene"
+    },
+    {
+      "existing_name": "Ethan",
+      "new_facts": "After being brutally tortured and manarished without food for days in a secret island prison cell on the 5th floor, Ethan turned into Elizah, punched through the wall, and fell into the ocean where a whale sent by Corvani saved him.",
+      "status": "Alive",
+      "quote": "when finally in the cell ethan turns into elizah and breaks the cell with his punch,but he was manarished as he didn't eat for several days and he was tortured brutally for so many days"
+    },
+    {
+      "existing_name": "Elizah",
+      "new_facts": "Form assumed by Ethan inside the secret island prison cell, using a punch to break the wall and fall into the ocean before being saved by Corvani's whale.",
+      "status": "Alive",
+      "quote": "when finally in the cell ethan turns into elizah and breaks the cell with his punch,but he was manarished as he didn't eat for several days"
+    },
+    {
+      "existing_name": "Khalid",
+      "new_facts": "Identified as the killer of Hisham, leading to a fight against Zaan within the pocket dimension.",
+      "status": null,
+      "quote": "zaan vs khalid incident happen there in the pocket dimension.where zaan fought learning that khalid was the killer of hisham"
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "Corvani's Navy Whale Incident",
+      "era": "Prior to 2005",
+      "description": "During a scouting mission on a Navy ship, Marcello Corvani calmly jumped into the water and manually removed a whale stuck to the outer fan of the ship, earning his former codename 'Whale'.",
+      "quote": "when in a scouting time in a navy ship.he and his higher authority also with his crew was having issue of a whale.it some how was following them and then got hit the ship and stucked to the outer fan"
+    },
+    {
+      "title": "Recruitment of Orion from Circo del Miracolo",
+      "era": "1990s",
+      "description": "Marcello Corvani visits the Circo del Miracolo circus and recruits a 16-year-old Orion after testing his instinct and courage, bringing him back to ECAP to meet Stitch and Victor.",
+      "quote": "marcellos first meeting with orion where it's clear he took orion from a circus. yes ,from a circus.when he was about 16 years old.i mean,orion was 16 years old. when corvani took him seeing his presence of mind."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "file": "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Steven Aldercrest",
+      "alias": null,
+      "role": "Guardian of the Architect's Cube",
+      "status": "Dead",
+      "category": "Protagonist",
+      "description": "Scholar and keeper of the Aldercrest estate who prepared for Khalid's attack for eleven years and sacrificed his life to delay him.",
+      "quote": "I've known you were coming for eleven years. The specific evening was less certain."
+    },
+    {
+      "kind": "character",
+      "name": "Eldrich Aldercrest",
+      "alias": null,
+      "role": "Defender",
+      "status": "Alive",
+      "category": "Protagonist",
+      "description": "Son of Steven Aldercrest who developed courage and nobility, fighting Khalid to protect his father and the legacy of the Aldercrest estate.",
+      "quote": "You're not supposed to be dangerous yet."
+    },
+    {
+      "kind": "character",
+      "name": "Norman",
+      "alias": null,
+      "role": "Fighter",
+      "status": "Alive",
+      "category": "Protagonist",
+      "description": "Fearless fighter with resonance reading abilities who was cursed with demonic blood by Khalid in a brutal lower quarter alleyway battle.",
+      "quote": "You hit harder than the myths say."
+    },
+    {
+      "kind": "character",
+      "name": "Dorian Cross",
+      "alias": "John",
+      "role": "Fighter",
+      "status": "Alive",
+      "category": "Protagonist",
+      "description": "Savage and humorous fighter with a Dante-like personality who arrived at the Aldercrest estate to confront Khalid.",
+      "quote": "The fun one. Yes."
+    },
+    {
+      "kind": "character",
+      "name": "Piedro",
+      "alias": null,
+      "role": "Guardian",
+      "status": "Dead",
+      "category": "Support",
+      "description": "Elderly man who attempted to protect his grandson at Issabela's grave before being killed by Khalid.",
+      "quote": "Run, boy!"
+    }
+  ],
+  "updates": [
+    {
+      "existing_name": "Norman",
+      "new_facts": "Fought Khalid in the lower quarter and was cursed with a drop of Khalid's blood, beginning his dark transformation into the Paleborne.",
+      "status": "Alive",
+      "quote": "A drop of his blood. One drop. Forced past Norman's lips."
+    }
+  ],
+  "timeline_events": [
+    {
+      "title": "Norman's Curse in the Alley",
+      "era": "1516",
+      "description": "Norman fights Khalid in a dark Istanbul alley using his resonance abilities but is ultimately overpowered and injected with Khalid's demonic blood.",
+      "quote": "The two of them regarded each other for a moment. The Resonance reading activated immediately."
+    },
+    {
+      "title": "The Fall of Steven Aldercrest",
+      "era": "1516",
+      "description": "Khalid infiltrates the Aldercrest estate and fatally wounds Steven Aldercrest during a battle for the Architect's Cube.",
+      "quote": "Steven interposed himself. The cost of that interposition was immediate and final. He went down."
+    }
+  ]
+}

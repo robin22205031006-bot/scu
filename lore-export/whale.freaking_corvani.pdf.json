@@ -1,0 +1,41 @@
+{
+  "file": "whale.freaking corvani.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Marcello Corvani",
+      "alias": "Whale",
+      "role": "Elite Navy scout and operative",
+      "status": null,
+      "description": "An elite Navy scout known for terrifying bravery, insane physical strength, zero fear response, and unshakeable calm who fought a whale and later became an operative.",
+      "quote": "Before he became the cold, one-eyed spy you know today... before Stitch molded him into ECAP’s most dangerous young operative... Marcello Corvani served as an elite Navy scout"
+    },
+    {
+      "kind": "character",
+      "name": "Stitch",
+      "alias": null,
+      "role": null,
+      "status": null,
+      "description": "An individual who molded Marcello Corvani into ECAP's most dangerous young operative.",
+      "quote": "before Stitch molded him into ECAP’s most dangerous young operative... Marcello Corvani served as an elite Navy scout"
+    },
+    {
+      "kind": "organization",
+      "name": "ECAP",
+      "alias": null,
+      "role": "Operational organization",
+      "status": "Active",
+      "description": "An organization that employed Marcello Corvani as an operative.",
+      "quote": "before Stitch molded him into ECAP’s most dangerous young operative... Marcello Corvani served as an elite Navy scout"
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "The Navy Incident",
+      "era": null,
+      "description": "Marcello Corvani dove into the ocean from a battleship to free a bleeding, disoriented whale stuck in the rotating outer propeller and ripped out the twisted metal piece with raw strength.",
+      "quote": "A massive whale, disoriented and bleeding, had slammed into the ship’s hull and became stuck into the rotating outer propeller."
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "file": "Inhertances .pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Issabela Al-Ahd",
+      "alias": "Zaynab",
+      "role": "Assassin",
+      "status": "Alive",
+      "category": "Antagonist",
+      "description": "Once kind, later an emotionally detached assassin after her demotion from the Nullborn.",
+      "quote": "Issabela Al-Ahd (real name: Zaynab) — once kind, later an emotionally detached assassin after her demotion from the Nullborn."
+    },
+    {
+      "kind": "character",
+      "name": "Rahim Al-Ahd",
+      "alias": null,
+      "role": "Head of family",
+      "status": null,
+      "category": "Support",
+      "description": "Father of Issabela and head of the family in her era.",
+      "quote": "Rahim Al-Ahd — father of Issabela, head of the family in her era."
+    },
+    {
+      "kind": "character",
+      "name": "Anna Al-Ahd",
+      "alias": null,
+      "role": "Wielder of ancestral sword",
+      "status": null,
+      "category": "Support",
+      "description": "Issabela’s sister and legendary wielder of the ancestral sword that passes through chosen heirs.",
+      "quote": "Anna Al-Ahd — Issabela’s sister; legendary wielder of the ancestral sword that passes through chosen heirs."
+    },
+    {
+      "kind": "character",
+      "name": "Nusrat",
+      "alias": null,
+      "role": "Future sword inheritor",
+      "status": null,
+      "category": "Support",
+      "description": "Unrelated by blood to the Al-Ahds but destined to inherit Anna’s sword after Nawshin.",
+      "quote": "Nusrat — unrelated by blood but destined to inherit Anna’s sword after Nawshin."
+    },
+    {
+      "kind": "character",
+      "name": "Liam Aldercrest",
+      "alias": null,
+      "role": "Ancestor",
+      "status": null,
+      "category": "Support",
+      "description": "Ancestor of Rohan whose magical lineage carries into modern times.",
+      "quote": "Liam Aldercrest (true name revealed later in lore) — ancestor of Rohan, his magical lineage carries into modern times."
+    },
+    {
+      "kind": "character",
+      "name": "Rohan Aldercrest",
+      "alias": "The Arcane Tactician",
+      "role": "Arcane tactician",
+      "status": null,
+      "category": "Protagonist",
+      "description": "Inherits the magical and strategic brilliance of the Aldercrest family.",
+      "quote": "Rohan Aldercrest — “The Arcane Tactician,” inherits the magical and strategic brilliance of the family."
+    },
+    {
+      "kind": "character",
+      "name": "Fahad Duskmoor",
+      "alias": null,
+      "role": "Frontline fighter",
+      "status": null,
+      "category": "Protagonist",
+      "description": "Descendant of Silas Duskmoor who inherits fiery combat prowess and frontline strength.",
+      "quote": "Fahad Duskmoor (descendant) — inherits fiery combat prowess, frontline strength."
+    },
+    {
+      "kind": "character",
+      "name": "Agnus El-Mansur",
+      "alias": null,
+      "role": "General",
+      "status": null,
+      "category": "Antagonist",
+      "description": "Feared general with a legacy of calculated cruelty; father to Jubayer and Tamim.",
+      "quote": "Agnus El-Mansur — feared general with a legacy of calculated cruelty; father to Jubayer and Tamim."
+    },
+    {
+      "kind": "character",
+      "name": "Jubayer",
+      "alias": "Duskblade",
+      "role": "Lightning wielder",
+      "status": null,
+      "category": "Anti-Hero",
+      "description": "Lightning wielder who inherits aspects of El-Mansur tactical ferocity.",
+      "quote": "Jubayer — lightning wielder (Duskblade), inherits aspects of El-Mansur tactical ferocity."
+    },
+    {
+      "kind": "character",
+      "name": "Tamim",
+      "alias": "The Dagger Wolf",
+      "role": "Dagger wielder",
+      "status": null,
+      "category": "Anti-Hero",
+      "description": "Dagger wielder who carries El-Mansur’s calculating ruthlessness.",
+      "quote": "Tamim — dagger wielder (The Dagger Wolf), also carries El-Mansur’s calculating ruthlessness."
+    },
+    {
+      "kind": "character",
+      "name": "Zaan",
+      "alias": "The Immortal Stormblade",
+      "role": "Sealed ancient warrior",
+      "status": null,
+      "category": null,
+      "description": "Sealed ancient warrior; Robin is his reincarnation yet Zaan still exists.",
+      "quote": "Zaan — The Immortal Stormblade — sealed ancient warrior; Robin is his reincarnation yet Zaan still exists."
+    },
+    {
+      "kind": "character",
+      "name": "Jessy",
+      "alias": null,
+      "role": "Ancient entity",
+      "status": null,
+      "category": "Antagonist",
+      "description": "Ancient entity whose power was beyond mortal comprehension, fought by the Nine Clans.",
+      "quote": "Jessy as a Dragon: She herself was a divine or celestial dragon in human form."
+    },
+    {
+      "kind": "character",
+      "name": "Ramiz",
+      "alias": null,
+      "role": "Guardian",
+      "status": "Dead",
+      "category": "Support",
+      "description": "Belonged to Al-Ahd and acted as a Guardian of a fragment of the Cube in his era.",
+      "quote": "Ramiz (Al-Ahd) and Agnus (El-Mansur) acted as Guardians of fragments of the Cube in their era."
+    },
+    {
+      "kind": "character",
+      "name": "Madhobi",
+      "alias": null,
+      "role": "Nature Guardian",
+      "status": "Alive",
+      "category": "Support",
+      "description": "Nature Guardian confirmed to exist across multiple eras, hinting at a spirit, immortal, or recurring reincarnation.",
+      "quote": "Madhobi — Nature Guardian, confirmed to exist in Zaan’s time, Khalid’s time, Issabela’s era, and the present day."
+    },
+    {
+      "kind": "character",
+      "name": "Ariyan",
+      "alias": null,
+      "role": "Beast morpher",
+      "status": null,
+      "category": "Protagonist",
+      "description": "Character having beast morph powers who can inherit mythical beast morphing if he defeats any.",
+      "quote": "ariyan having beast morph powers and also mentioned he can inherit mythical beast morphing if he defeats any"
+    },
+    {
+      "kind": "character",
+      "name": "Nur",
+      "alias": null,
+      "role": "Demon child",
+      "status": null,
+      "category": "Antagonist",
+      "description": "Born by Mephistopheles' offering, direct descendant of the demonic clan with pure demonic blood.",
+      "quote": "Nur as the demon child, born by maphistoes offering is direct decendent of that clan."
+    },
+    {
+      "kind": "bloodline",
+      "name": "Al-Ahd",
+      "alias": "The Oath",
+      "role": "Ancient oath-bound warriors and leaders",
+      "status": "Active",
+      "category": "Bloodline",
+      "description": "Known for discipline, loyalty, and unshakable resolve, carrying a sacred vow through generations.",
+      "quote": "Al-Ahd Known for: Ancient oath-bound warriors and leaders; legacy of discipline, loyalty, and unshakable resolve."
+    },
+    {
+      "kind": "bloodline",
+      "name": "Aldercrest",
+      "alias": "Crest of the Old Trees",
+      "role": "Mystics and arcane tacticians",
+      "status": "Active",
+      "category": "Bloodline",
+      "description": "Mystics with refined magical bloodlines, known for arcane intelligence and political influence.",
+      "quote": "Aldercrest Known for: Mystics and arcane tacticians with refined magical bloodlines; often rise to positions of scholarly or battlefield leadership."
+    },
+    {
+      "kind": "bloodline",
+      "name": "Duskmoor",
+      "alias": "Moor of Twilight",
+      "role": "Dragon hunters and slayers",
+      "status": "Active",
+      "category": "Bloodline",
+      "description": "Known for battles against colossal beasts, extreme combat endurance, and divine fire abilities.",
+      "quote": "Duskmoor Known for: Dragon hunters and slayers, fire wielders; often shrouded in myth for their battles against colossal beasts."
+    },
+    {
+      "kind": "bloodline",
+      "name": "El-Mansur",
+      "alias": "The Victorious",
+      "role": "Conquerors and war tacticians",
+      "status": "Active",
+      "category": "Bloodline",
+      "description": "Characterized by brutal yet calculated dominance, imperial military tradition, and physical prowess.",
+      "quote": "El-Mansur Known for: Conquerors and war tacticians; brutal yet calculated dominance on the battlefield."
+    },
+    {
+      "kind": "faction",
+      "name": "Nine Clans",
+      "alias": null,
+      "role": "Superior clans",
+      "status": "Active",
+      "category": "Faction",
+      "description": "The nine superior clans that fought Jessy during her prime in a war lasting seven days and nights.",
+      "quote": "The 9 Superior Clans fought Jessy during her prime, in a war that raged for seven days and nights."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "War of the Nine Clans Against Jessy",
+      "era": "Ancient Era",
+      "description": "The Nine Clans fought Jessy during her prime in a war lasting seven days and nights, eventually sealing her soul.",
+      "quote": "The 9 Superior Clans fought Jessy during her prime, in a war that raged for seven days and nights. Their combined might could not kill her, but they succeeded in sealing her soul."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "file": "Niharo stroy basic plot.pdf",
+  "entities": [
+    {
+      "kind": "character",
+      "name": "Niharo",
+      "alias": null,
+      "role": null,
+      "status": "Alive",
+      "description": "A boy who developed fire abilities from a secret liquid experiment after his parents were killed.",
+      "quote": "Niharo is a character who's father used to serve govt.but in that era science seemed like blackmagic."
+    }
+  ],
+  "updates": [],
+  "timeline_events": [
+    {
+      "title": "Death of Niharo's Parents",
+      "era": null,
+      "description": "Niharo's mother and father were killed by an invading crowd inside their home.",
+      "quote": "a bullet,direct in the head of his father and next the sword penitrate his mother."
+    },
+    {
+      "title": "Niharo's Awakening and Slaughter",
+      "era": null,
+      "description": "While tied to a burning cross, Niharo unlocked his fire powers and destroyed the townspeople.",
+      "quote": "when he got the fire heat ,that liquid worked and it became his ability."
+    }
+  ]
+}

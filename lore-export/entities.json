@@ -1,0 +1,3460 @@
+[
+  {
+    "kind": "bloodline",
+    "name": "Duskmoor",
+    "alias": "Moor of Twilight",
+    "role": "Judgment-born figure",
+    "status": "Active",
+    "description": "Bloodline beginning when spirits raised the child of a hybrid and a weak female spirit. A hybrid child raised by spirits who carries the gene memory to end dragons. A group tasked with defending the human realm against dragons. Known for battles against colossal beasts, extreme combat endurance, and divine fire abilities. A bloodline historically feared by dragons due to their demonstrated ability to hunt and kill the species. A group falsely blamed for the deaths of Freya and Gabriel to facilitate a weaponized version of history.",
+    "quote": "Spirits raised that child → Duskmoor bloodline begins.",
+    "sources": [
+      "canon events.pdf",
+      "Cores.pdf",
+      "Freya and arthur_1.pdf",
+      "Inhertances .pdf",
+      "silas and agnus behave.pdf",
+      "Suggestion of freya 2.pdf"
+    ],
+    "category": "Bloodline",
+    "evidence_quotes": [
+      "Spirits raised that child → Duskmoor bloodline begins.",
+      "He was named Duskmoor: Moonlight carried through darkness. Not rage-born. Not power-hungry. Judgement-born.",
+      "here in 1494 the duskmoor finds out that dragons are here in the human realm living with them .and the secret wars started.",
+      "Duskmoor Known for: Dragon hunters and slayers, fire wielders; often shrouded in myth for their battles against colossal beasts.",
+      "Duskmoors are not myth to dragons — they are historical executioners.",
+      "Arthur later grows up with the lie that Gabriel and Freya died by Duskmoor hands"
+    ],
+    "conflicts": [
+      "kind conflict: kept 'bloodline' but also extracted as 'character' (Cores.pdf)",
+      "status conflict: 'Active' vs 'Alive' (Cores.pdf)",
+      "kind conflict: kept 'bloodline' but also extracted as 'faction' (Freya and arthur_1.pdf)",
+      "role conflict: 'Judgment-born figure' vs 'Human protectors' (Freya and arthur_1.pdf)",
+      "role conflict: 'Judgment-born figure' vs 'Dragon hunters and slayers' (Inhertances .pdf)",
+      "role conflict: 'Judgment-born figure' vs 'Historical dragon executioners' (silas and agnus behave.pdf)",
+      "kind conflict: kept 'bloodline' but also extracted as 'faction' (Suggestion of freya 2.pdf)"
+    ]
+  },
+  {
+    "kind": "bloodline",
+    "name": "Duskmoors",
+    "alias": null,
+    "role": "Dragon-enders",
+    "status": "Active",
+    "description": "A lineage formed from the collision of spirit morality, human adaptability, and dragon arrogance.",
+    "quote": "Duskmoors are not dragon-slayers by training. They are dragon-enders by origin. They are what happens when: ● spirit morality ● human adaptability ● and dragon arrogance collide into one lineage.",
+    "sources": [
+      "Cores.pdf"
+    ],
+    "evidence_quotes": [
+      "Duskmoors are not dragon-slayers by training. They are dragon-enders by origin. They are what happens when: ● spirit morality ● human adaptability ● and dragon arrogance collide into one lineage."
+    ]
+  },
+  {
+    "kind": "bloodline",
+    "name": "Kara",
+    "alias": null,
+    "role": "Bloodline",
+    "status": "Inactive",
+    "description": "A bloodline associated with cursed weapons, destroyed by the trio.",
+    "quote": "even the kara bloodline people.where those people had curse weapon,but none could stop these three.",
+    "sources": [
+      "Slaughter of Kurohana clan -twin x Mashiho.pdf"
+    ],
+    "evidence_quotes": [
+      "even the kara bloodline people.where those people had curse weapon,but none could stop these three."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Aariz",
+    "alias": "Ariyan",
+    "role": "Former student",
+    "status": "Alive",
+    "description": "A character embodying instinct, ego, power, and dominance, fueled by an ego spiral from rejection. An individual whose blood Arzuna accidentally drank, sharpening her vampiric instincts. Fought Elizah in a pursuit of strength. A student who was abandoned by his master, Ethan, due to his violent beast instinct, seeking to challenge his former master. One of Ethan's two students who participated in the fight against Elizah.",
+    "quote": "Aariz = instinct, ego, power, dominance",
+    "sources": [
+      "Nur.pdf",
+      "Samuel x Arzuna.pdf",
+      "straight s1-s5.pdf",
+      "Truth of elizah and ethan (1).pdf",
+      "zayn and elizah (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Aariz = instinct, ego, power, dominance",
+      "since she drank Aariz’s blood by mistake and survived herself afterward",
+      "Aariz fights Elizah, chasing strength — only to learn strength without restraint destroys you.",
+      "aariz fights elizah ,as he wants to fight the strongest and always hyped up for fighting strongest,always heard about elizah.but never saw him.never knew he is ethan!his old master",
+      "the broken sentinels in season 2 partially fights him.including ethans two student.nur and Aariz."
+    ],
+    "conflicts": [
+      "role conflict: 'Former student' vs 'Student' (zayn and elizah (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Aariz Maddox",
+    "alias": null,
+    "role": "hunter-survivor",
+    "status": null,
+    "description": "A combatant possessing Bestiakinesis and Hyperkinesis who adapts through animal transformation, beast communication, and enhanced sensory awareness.",
+    "quote": "Together, they make Aariz a hunter-survivor, not a brute.",
+    "sources": [
+      "AARIZ MADDOX Ability.pdf"
+    ],
+    "evidence_quotes": [
+      "Together, they make Aariz a hunter-survivor, not a brute."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Abdul",
+    "alias": null,
+    "role": "Nullborn warrior",
+    "status": "Dead",
+    "category": "Support",
+    "description": "A gruff Nullborn warrior who helped train Khalid and lost both parents to political intrigue before being decapitated by Borgia forces.",
+    "quote": "Abdul (gruffly): “Put it on.”",
+    "sources": [
+      "KHALID (2).pdf"
+    ],
+    "evidence_quotes": [
+      "Abdul (gruffly): “Put it on.”"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Aeric",
+    "alias": null,
+    "role": "Weapon Forger",
+    "status": null,
+    "description": "A legendary figure known for forging powerful cursed weapons. Returned from a pocket dimension with forbidden knowledge.",
+    "quote": "Another member who used that cursed weapon was none other than aeric.who is known for making cursed weapons.",
+    "sources": [
+      "Diablo war first and 2nd.pdf",
+      "straight s1-s5.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Another member who used that cursed weapon was none other than aeric.who is known for making cursed weapons.",
+      "Corvani & Aeric return from the pocket dimension with forbidden knowledge."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Aeric Valenheart",
+    "alias": "Aeric",
+    "role": null,
+    "status": "Alive",
+    "description": "First person to fall into the natural pocket dimension in 1354 AD, surviving by intellect, sigils, and glimmer-sense while barely aging due to slower time. An ancient being trapped in a pocket dimension who originally forged Kara Yazgı.",
+    "quote": "Aeric Valenheart (1300s era) First person in history to fall into the natural pocket dimension. Vanished in 1354 AD. Time inside flows MUCH slower → he barely ages. Lives by intellect, sigils, glimmer-sense.",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf",
+      "Kara Yazgi.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Aeric Valenheart (1300s era) First person in history to fall into the natural pocket dimension. Vanished in 1354 AD. Time inside flows MUCH slower → he barely ages. Lives by intellect, sigils, glimmer-sense.",
+      "The sword was originally made by Aeric Valenheart"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Agnus",
+    "alias": "Altan El-Mansur",
+    "role": "Opponent",
+    "status": "Dead",
+    "description": "An individual capable of suppressing movement using Qahr. Exhibits introverted authority, silent finality, and fights with minimal movement. Fights Zayn and reveals David's family lineage. Agnus broke the natural order for family and embodies the idea that good intentions can still doom the world. An introverted and minimalist combatant whose silent, unpredictable nature makes him an environmental threat to demons. A guardian who broke natural law to protect his family. Zayn's father, described as a man of great power, who was ultimately killed by his son.",
+    "quote": "❌ Agnus can suppress movement with Qahr",
+    "sources": [
+      "AARIZ MADDOX Ability.pdf",
+      "canon events.pdf",
+      "Dagger Wolf_1.pdf",
+      "see characters.pdf",
+      "silas and agnus behave.pdf",
+      "straight s1-s5.pdf",
+      "zayn and elizah (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "❌ Agnus can suppress movement with Qahr",
+      "Agnus = introverted authority, silent finality, speaks selectively (especially only with Silas), fights with minimal movement, precise execution energy.",
+      "when zayn appears to fight agnus.where agnus says he is actually his older brother.",
+      "Agnus isn’t evil. He isn’t weak. He broke the natural order for family. That’s why: Zayn kills him David cannot forgive Zayn Both sons are right Agnus is the embodiment of: “Good intentions can still doom the world.”",
+      "Agnus Introverted Authority | Economized Violence Silence as control Agnus doesn’t fill rooms. He empties them.",
+      "Agnus (Altan El-Mansur): guardian who broke natural law to keep his family alive.",
+      "after agnus and zayn fight where zayn ends agnus.his father.who is a greater in power."
+    ],
+    "conflicts": [
+      "role conflict: 'Opponent' vs 'Family protector / law breaker' (see characters.pdf)",
+      "status conflict: 'Dead' vs 'Alive' (silas and agnus behave.pdf)",
+      "role conflict: 'Opponent' vs 'Introverted authority figure' (silas and agnus behave.pdf)",
+      "role conflict: 'Opponent' vs 'Guardian' (straight s1-s5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Agnus El-Mansur",
+    "alias": null,
+    "role": "General",
+    "status": null,
+    "category": "Antagonist",
+    "description": "Feared general with a legacy of calculated cruelty; father to Jubayer and Tamim.",
+    "quote": "Agnus El-Mansur — feared general with a legacy of calculated cruelty; father to Jubayer and Tamim.",
+    "sources": [
+      "Inhertances .pdf"
+    ],
+    "evidence_quotes": [
+      "Agnus El-Mansur — feared general with a legacy of calculated cruelty; father to Jubayer and Tamim."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Alistair Graye",
+    "alias": null,
+    "role": "Anomaly and card user from the 19th century",
+    "status": "Alive",
+    "category": "Antagonist",
+    "description": "An unpredictable and powerful individual bound by a deal with Mephisto, utilizing a card system and a smile mechanism that resets memories. A mysterious time traveler from 1887 who acts like a jester, uses unpredictable cards and touch-based doubt questions, and made a past deal with Mephisto.",
+    "quote": "The problem with Alistair Graye was not that he was powerful was not that he was unpredictable was not even that he seemed to find the entire engagement mildly amusing",
+    "sources": [
+      "Joker and the Chess master.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf"
+    ],
+    "evidence_quotes": [
+      "The problem with Alistair Graye was not that he was powerful was not that he was unpredictable was not even that he seemed to find the entire engagement mildly amusing",
+      "This coat is from 1887."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Alt David",
+    "alias": "Alter David",
+    "role": "Dagger specialist",
+    "status": "Alive",
+    "description": "An unstable, traumatized dagger specialist with access to cube energy traces who accidentally fell into the pocket dimension and took Corvani's eye. An alternate version of David traumatized by the destruction of Earth Prime who leads the Covenant to alter minds and recreate his lost family.",
+    "quote": "Alt David = dagger specialist Pocket dimension = low light, shifting terrain Corvani = defensive instincts but exhausted Alt David’s signature move → go for the eye.",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf",
+      "Alt david.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Alt David = dagger specialist Pocket dimension = low light, shifting terrain Corvani = defensive instincts but exhausted Alt David’s signature move → go for the eye.",
+      "made a dark org named covenant and he was covenant leader."
+    ],
+    "conflicts": [
+      "role conflict: 'Dagger specialist' vs 'Covenant Leader' (Alt david.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Alter David",
+    "alias": null,
+    "role": null,
+    "status": null,
+    "description": "A character whose worldview involves believing restraint is weakness, emotion is leverage, and kindness is manipulation.",
+    "quote": "Alter David believes: restraint is weakness emotion is leverage kindness is manipulation",
+    "sources": [
+      "clarification 2.pdf"
+    ],
+    "evidence_quotes": [
+      "Alter David believes: restraint is weakness emotion is leverage kindness is manipulation"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Alter Ethan",
+    "alias": null,
+    "role": "Threat",
+    "status": null,
+    "description": "A horrifying contradiction of the moral Ethan who emerges as a threat.",
+    "quote": "Alter Ethan appears mid-saga as a horrifying contradiction: “What if the most moral man becomes the worst threat?”",
+    "sources": [
+      "straight s1-s5.pdf"
+    ],
+    "evidence_quotes": [
+      "Alter Ethan appears mid-saga as a horrifying contradiction: “What if the most moral man becomes the worst threat?”"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Anna",
+    "alias": null,
+    "role": null,
+    "status": "Dead",
+    "description": "Guard of Kara Yazgı who was killed by Khalid when she failed to bring the sword. Anna died a long ago by Khalid himself.",
+    "quote": "in khalids stroy,she dies by the hands of khalid.",
+    "sources": [
+      "Kara Yazgi.pdf",
+      "timeline dorian khalid freya (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "in khalids stroy,she dies by the hands of khalid.",
+      "anna died a long ago by khalid himself."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Anna Al-Ahd",
+    "alias": null,
+    "role": "Wielder of ancestral sword",
+    "status": null,
+    "category": "Support",
+    "description": "Issabela’s sister and legendary wielder of the ancestral sword that passes through chosen heirs.",
+    "quote": "Anna Al-Ahd — Issabela’s sister; legendary wielder of the ancestral sword that passes through chosen heirs.",
+    "sources": [
+      "Inhertances .pdf"
+    ],
+    "evidence_quotes": [
+      "Anna Al-Ahd — Issabela’s sister; legendary wielder of the ancestral sword that passes through chosen heirs."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Anna la Sarta",
+    "alias": null,
+    "role": "Nullborn defector",
+    "status": "Dead",
+    "category": "Antagonist",
+    "description": "Issabela's cold and ruthless sister who left the Nullborn, later found crucified and murdered inside the cathedral's secret seal chamber.",
+    "quote": "Anna la Sarta. Her aura was different — not fire... but ice.",
+    "sources": [
+      "KHALID (2).pdf"
+    ],
+    "evidence_quotes": [
+      "Anna la Sarta. Her aura was different — not fire... but ice."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "anthony",
+    "alias": null,
+    "role": null,
+    "status": null,
+    "description": "Anthony follows Annas ideology in Issabelas time. An entity whose essence was used as a parasite to control Rifat's brain.",
+    "quote": "anthony follows annas ideology in issabela time in issabela pdf which takes after khalid 2 pdf.",
+    "sources": [
+      "timeline dorian khalid freya (1).pdf",
+      "Vanguard x (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "anthony follows annas ideology in issabela time in issabela pdf which takes after khalid 2 pdf.",
+      "and the parasite none other than the essence of ANTHONY!"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Arashi",
+    "alias": null,
+    "role": "Father",
+    "status": "Dead",
+    "description": "A male character dealing with cosmic-level threats or ideological war. Father of Kazumi and Yoshiko, killed by his brother Sloth.",
+    "quote": "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war",
+    "sources": [
+      "clarification 2.pdf",
+      "Slaughter of Kurohana clan -twin x Mashiho.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war",
+      "at some point only sloth and pride were only to live,then alter david came there and thanks to him arashi wasn't able to end him and he was somehow killed from behind by sloth"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ariyan",
+    "alias": null,
+    "role": "Beast morpher",
+    "status": "Alive",
+    "category": "Protagonist",
+    "description": "Character having beast morph powers who can inherit mythical beast morphing if he defeats any. A former disciple of Robin who claimed the throne out of pride after felling chaos.",
+    "quote": "ariyan having beast morph powers and also mentioned he can inherit mythical beast morphing if he defeats any",
+    "sources": [
+      "Inhertances .pdf",
+      "The throne legacy.pdf"
+    ],
+    "evidence_quotes": [
+      "ariyan having beast morph powers and also mentioned he can inherit mythical beast morphing if he defeats any",
+      "Ariyan — once Robin’s disciple, now hardened by neglect and twisted by Sammam’s gray creed — stumbled upon the throne."
+    ],
+    "conflicts": [
+      "role conflict: 'Beast morpher' vs 'Warrior' (The throne legacy.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Arthur",
+    "alias": null,
+    "role": "Consequence, avenger",
+    "status": "Alive",
+    "description": "A dragon with immense authority who stands at the center of Earth's Ruin. Told a false history that Gabriel and Freya died by Duskmoor hands, motivating his revenge against Silas. A figure who grows up fueled by a lie regarding the deaths of Freya and Gabriel at the hands of the Duskmoor. Arthur was born some years after Niharo was born.",
+    "quote": "Arthur stands at the center of it all. A true dragon. Not wings and fire alone—authority.",
+    "sources": [
+      "Arthur vs Rowan.pdf",
+      "Freya writing suggestion.pdf",
+      "Suggestion of freya 2.pdf",
+      "timeline dorian khalid freya (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Arthur stands at the center of it all. A true dragon. Not wings and fire alone—authority.",
+      "You locked that Arthur is later told: Gabriel and Freya died by Duskmoor hands and that becomes his revenge motive against Silas",
+      "Arthur later grows up with the lie that Gabriel and Freya died by Duskmoor hands",
+      "where at first niharo borns and after some years arthur borned."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Arzuna",
+    "alias": "monster of the rain",
+    "role": "vampire",
+    "status": "Alive",
+    "description": "A vampire possessing beast-morphing instincts derived from Aariz Maddox’s blood, currently struggling with her predatory hunger and demonic blood rejection. A female character noted as being from the other side. Grace's best friend who becomes infected and dies while saving Grace from Tareq. A powerful, vengeful individual who feels abandoned by Grace and seeks to punish her. A vampire anti-hero with heightened senses who enforces strict rules on herself against drinking innocent or demon blood. Shifted from a villain to an anti-hero.",
+    "quote": "Arzuna stepped into the slaughter like she belonged there. Not loud. Not rushed. A vampiric silhouette in a torn coat, eyes catching the firelight like a predator catching a reflection of itself.",
+    "sources": [
+      "Arzuna x samuel.pdf",
+      "clarification 2.pdf",
+      "Grace basic plot (1).pdf",
+      "Grace vs Arzuna.pdf",
+      "Samuel x Arzuna.pdf",
+      "straight s1-s5.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Arzuna stepped into the slaughter like she belonged there. Not loud. Not rushed. A vampiric silhouette in a torn coat, eyes catching the firelight like a predator catching a reflection of itself.",
+      "Nyxia Yoshiko Grace Nilanjona Ravenblade Even Arzuna (from the other side)",
+      "arzuna died saving them and specially grace. grace felt so useless that time.",
+      "She rushes again, faster than the eye can follow — knee to ribs, elbow to jaw",
+      "Arzuna, the former villain, the vampire anti-hero, the lone wolf who trusts nobody",
+      "Arzuna shifts from villain to anti-hero."
+    ],
+    "conflicts": [
+      "status conflict: 'Alive' vs 'Dead' (Grace basic plot (1).pdf)",
+      "role conflict: 'vampire' vs 'Best friend' (Grace basic plot (1).pdf)",
+      "role conflict: 'vampire' vs 'antagonist' (Grace vs Arzuna.pdf)",
+      "role conflict: 'vampire' vs 'Vampire anti-hero' (Samuel x Arzuna.pdf)",
+      "role conflict: 'vampire' vs 'Anti-hero' (straight s1-s5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Asetra",
+    "alias": "Balance host",
+    "role": "Antagonist",
+    "status": "Missing",
+    "description": "An entity who appeared in Shina's body in Earth Prime, triggering events that destroyed that universe. A figure whose worldview cracks when Nyxia kills Alter David without losing balance. A powerful being capable of magic who manipulates heroes and causes conflicts across universes. A shadow figure revealed to be behind everything. A powerful Balance host whose emotional attachment to her partner and unborn child led to her being sealed by humanity.",
+    "quote": "after asetra in shinas body appeared in their universe and things got messi",
+    "sources": [
+      "Alt david.pdf",
+      "clarification 2.pdf",
+      "s1 roadmap.pdf",
+      "straight s1-s5.pdf",
+      "Truth of asetra incident.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "after asetra in shinas body appeared in their universe and things got messi",
+      "Asetra Khalid Alter Ethan Even early Nyxia arcs Now you’re breaking that rule.",
+      "asetra is a very powerful being and at that universe.somehow they heroes knew her existance and the story.",
+      "Asetra reveals herself as the true shadow behind everything.",
+      "A Balance host who doesn’t want to win. Who still tries to communicate. Who loves humanity. Who gets sealed anyway. That’s tragic myth writing."
+    ],
+    "conflicts": [
+      "status conflict: 'Missing' vs 'Legend' (Truth of asetra incident.pdf)",
+      "role conflict: 'Antagonist' vs 'Former Balance host' (Truth of asetra incident.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Asim",
+    "alias": null,
+    "role": "Father of the injured boy in Istanbul",
+    "status": "Alive",
+    "category": "Antagonist",
+    "description": "An angry, weathered traveler who blamed Khalid and Ayesha for his son's injuries.",
+    "quote": "Asim stood tall — a weathered man in tattered traveling robes, veins bulging in his neck, eyes wet with rage.",
+    "sources": [
+      "KHALID (2).pdf"
+    ],
+    "evidence_quotes": [
+      "Asim stood tall — a weathered man in tattered traveling robes, veins bulging in his neck, eyes wet with rage."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ayaan",
+    "alias": null,
+    "role": "Tech Specialist",
+    "status": "Alive",
+    "description": "A tech-focused individual who provides critical information regarding the Architect Cube. A genius technician who runs predictive combat models, deploys drone arrays, and operates an emergency combat suit.",
+    "quote": "ayaan is someone like Tony starc from mcu.he is all about techs.and then the sentinels calls him to hq.",
+    "sources": [
+      "s1 roadmap.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf"
+    ],
+    "category": "Support",
+    "evidence_quotes": [
+      "ayaan is someone like Tony starc from mcu.he is all about techs.and then the sentinels calls him to hq.",
+      "I've run seventeen predictive models on his movement patterns and the problem is there are no movement patterns."
+    ],
+    "conflicts": [
+      "role conflict: 'Tech Specialist' vs 'Redline technician and strategist' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ayesha",
+    "alias": null,
+    "role": "Mother of Khalid",
+    "status": "Dead",
+    "category": "Support",
+    "description": "A graceful woman known for feeding orphans, married to Nasab, and mother to Khalid, later murdered by her son Kelvan.",
+    "quote": "Ayesha stepped out of her room, tying her shawl. Her brows furrowed at the sight on the floor — a thin red trail like a wounded serpent",
+    "sources": [
+      "KHALID (2).pdf"
+    ],
+    "evidence_quotes": [
+      "Ayesha stepped out of her room, tying her shawl. Her brows furrowed at the sight on the floor — a thin red trail like a wounded serpent"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ayesha Khatoon",
+    "alias": "Grandma Ayesha",
+    "role": "Matriarch figure and caretaker",
+    "status": "Dead",
+    "description": "A wise, partially blind woman who provided refuge to the outcasts. An elderly, wise, and fierce woman who provides shelter to Zaan and Shina, acting as a maternal figure.",
+    "quote": "Grandma Ayesha Full Name: Ayesha Khatoon Age: 75 Appearance: Wrinkled, aged, with a kind face. One eye fully blind, another blurry.",
+    "sources": [
+      "Trilogy of zaan, khalid and issabela (1).pdf",
+      "ZAAN  (1).pdf"
+    ],
+    "category": "Support",
+    "evidence_quotes": [
+      "Grandma Ayesha Full Name: Ayesha Khatoon Age: 75 Appearance: Wrinkled, aged, with a kind face. One eye fully blind, another blurry.",
+      "Treated Zaan as her son from the start, knowing he wasn’t Yousuf. Final Fate: Brutally murdered by villagers."
+    ],
+    "conflicts": [
+      "role conflict: 'Matriarch figure and caretaker' vs 'Support' (ZAAN  (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ayman Siddiqi",
+    "alias": "Echogrim",
+    "role": "Technician and combatant",
+    "status": "Alive",
+    "description": "Former support member for the Sentinels who underwent intense combat training to integrate his technical skills with physical grit.",
+    "quote": "Ayman Siddiqi had always been the invisible hand, the quiet voice in their ears. He never threw a punch. Never drew blood.",
+    "sources": [
+      "Echorhythm.pdf"
+    ],
+    "evidence_quotes": [
+      "Ayman Siddiqi had always been the invisible hand, the quiet voice in their ears. He never threw a punch. Never drew blood."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Azwain",
+    "alias": "Prince",
+    "role": "Heir to the wolf-kingdom",
+    "status": "Alive",
+    "description": "A disciplined prince struggling with his father's legacy and the wolf-kingdom's pack instincts. An inhabitant of the world on the other side of the barrier whose saga is a rebellion against the lie.",
+    "quote": "Prince, polished, royalty-trained, heir to the wolf-kingdom. Grumpy, disciplined, but emotionally tied to his father’s legacy.",
+    "sources": [
+      "Dragons and their cons.pdf",
+      "The start and the end (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Prince, polished, royalty-trained, heir to the wolf-kingdom. Grumpy, disciplined, but emotionally tied to his father’s legacy.",
+      "Azwar and Azwain’s world is literally the truth on the other side of the barrier."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Azwar",
+    "alias": null,
+    "role": "Tribal wolf",
+    "status": "Alive",
+    "description": "A raw, tribal wolf fated to be the rival and potential killer of the wolf king and his pack. An inhabitant of the world on the other side of the barrier representing the truth of the losers.",
+    "quote": "Tribal wolf, raw, ordinary in appearance, no royal etiquette. The twist: destiny marks him as the killer of Azwain’s father and his pack.",
+    "sources": [
+      "Dragons and their cons.pdf",
+      "The start and the end (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Tribal wolf, raw, ordinary in appearance, no royal etiquette. The twist: destiny marks him as the killer of Azwain’s father and his pack.",
+      "Azwar and Azwain’s world is literally the truth on the other side of the barrier."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Bunny",
+    "alias": "The Silent Storm",
+    "role": "Defense mechanism",
+    "status": null,
+    "description": "The earliest defense mechanism of purity and hope who carries the original Wind Surge power.",
+    "quote": "He is not Robin. He is not Zaan. He is Bunny — the earliest defense mechanism of purity and hope.",
+    "sources": [
+      "Abilities (1) (1).pdf"
+    ],
+    "evidence_quotes": [
+      "He is not Robin. He is not Zaan. He is Bunny — the earliest defense mechanism of purity and hope."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Corvani",
+    "alias": "Whale",
+    "role": "Redline commander",
+    "status": "Alive",
+    "description": "A male character occupied elsewhere during Season 5. A commanding official at Redline who reviews surveillance data and orders operatives to investigate anomalies. Human courage personified with no cosmic powers or destiny, providing moral clarity and loyalty without blindness. A human who is tired, principled, and furious.",
+    "quote": "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war",
+    "sources": [
+      "clarification 2.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf",
+      "see characters.pdf",
+      "straight s1-s5.pdf"
+    ],
+    "category": "Support",
+    "evidence_quotes": [
+      "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war",
+      "Go talk to him. See what he is. Bring him in if you can.",
+      "Corvani anchors the universe. No cosmic powers. No destiny. Just: Moral clarity Loyalty without blindness The courage to walk away",
+      "Corvani (Whale) returns — human, tired, principled, furious."
+    ],
+    "conflicts": [
+      "role conflict: 'Redline commander' vs 'Moral anchor' (see characters.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Covenant Leader",
+    "alias": null,
+    "role": "Leader of the Covenant",
+    "status": "Alive",
+    "description": "A cold, formal man who considers his subordinates disposable and personally executes Stitch.",
+    "quote": "he is basically the leader of covenant and now we see a scene where we see vanguard was watching all these.and then walk aways.",
+    "sources": [
+      "stitch vs elizah.pdf"
+    ],
+    "evidence_quotes": [
+      "he is basically the leader of covenant and now we see a scene where we see vanguard was watching all these.and then walk aways."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Damian",
+    "alias": null,
+    "role": "Magic user",
+    "status": "Alive",
+    "description": "A friend of Ethan who uses magic to attempt to heal Grace. An Aldercrest line member with demonic heritage, holding a King card and a Joker card, capable of space correction and philosophical combat techniques. An experienced Aldercrest magician who walks upside down on architecture, wields the King and Joker cards, and corrects reality using domain magic.",
+    "quote": "ethan called his new friend damian back then.who knew magic.he thought if magic can do something to heal her.",
+    "sources": [
+      "Grace basic plot (1).pdf",
+      "Joker and the Chess master.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf"
+    ],
+    "category": "Protagonist",
+    "evidence_quotes": [
+      "ethan called his new friend damian back then.who knew magic.he thought if magic can do something to heal her.",
+      "Damian's entry had none of these things until the camera pulled back far enough to find him already there already in motion",
+      "The concrete's original state before human intervention was organic matter. I corrected it back."
+    ],
+    "conflicts": [
+      "role conflict: 'Magic user' vs 'Aldercrest legacy magician' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Damian Brown",
+    "alias": null,
+    "role": "Sentinel",
+    "status": "Alive",
+    "description": "A perceptive, quiet analyzer who uses logic and observation, often acting as a brother-in-arms to Rowan. A calculated, calm, and disciplined high-tier arcane specialist trained by Eldrich Aldercrest.",
+    "quote": "DAMIAN BROWN — Canon Personality (Based on Rohan) • Similar to Zayn, but with key differences good IQ (2nd after Zayn) calmer and quieter in analysis less lazy than Zayn",
+    "sources": [
+      "behave of characters.pdf",
+      "DAMIAN BROWN Ability.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "DAMIAN BROWN — Canon Personality (Based on Rohan) • Similar to Zayn, but with key differences good IQ (2nd after Zayn) calmer and quieter in analysis less lazy than Zayn",
+      "Damian calculates. PHASE 1 — PRIMARY ABILITIES (Before Eldrich) (White-picture tier: innate magical alignment) Damian is naturally compatible with magic, even before learning it."
+    ],
+    "conflicts": [
+      "role conflict: 'Sentinel' vs 'Strategic Mage | Battlefield Controller | Calm Executioner' (DAMIAN BROWN Ability.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "David",
+    "alias": "Dagger Wolf",
+    "role": "Independent operative, ally of the Sentinels",
+    "status": "Alive",
+    "description": "A chaotic neutral gray antihero who fights with freestyle chaos, wields twin energy daggers, and possesses portal teleportation abilities. A mysterious individual who uses daggers to open portals and possesses knowledge of alternate realities. A highly agile and theatrical combatant who utilizes portals to manipulate the position of his dagger, treating battle as a dance. Zayn's brother whose death is marked by loss. Zayn's brother, whom Zayn fought to save from the corrupted agency.",
+    "quote": "David Zaman Codename: Dagger Wolf Affiliation: Independent operative, ally of the Sentinels (non-registered) Alignment: Chaotic neutral — the storm between right and wrong",
+    "sources": [
+      "Dagger Wolf_1.pdf",
+      "s1 roadmap.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf",
+      "straight s1-s5.pdf",
+      "zayn and elizah (1).pdf"
+    ],
+    "category": "Anti-Hero",
+    "evidence_quotes": [
+      "David Zaman Codename: Dagger Wolf Affiliation: Independent operative, ally of the Sentinels (non-registered) Alignment: Chaotic neutral — the storm between right and wrong",
+      "he was dancing in the rain,holding a dagger and then a psychopathic brutal fight begins.he dances and kills those people who wants to kill him a dark alley",
+      "He opens a portal at chest height in front of him. Steps backward into it. Comes out of a portal directly behind his own attacker. The dagger is already moving.",
+      "David’s death: not heroic, not glorious — just loss.",
+      "zayn and saved his brother david and faught yet!he was tired,injured from his previous fight."
+    ],
+    "conflicts": [
+      "status conflict: 'Alive' vs 'Dead' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf)",
+      "role conflict: 'Independent operative, ally of the Sentinels' vs 'Anti-Hero' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf)",
+      "status conflict: 'Alive' vs 'Dead' (straight s1-s5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Derek Miles",
+    "alias": "Vanguard",
+    "role": "Partner of Grace",
+    "status": "Alive",
+    "description": "Grace's partner after her relationship with Ethan ended. An Ichor-enhanced operative known as Vanguard who possesses extreme speed and reflex capabilities, capable of powering through doubt.",
+    "quote": "Grace later moves on and eventually builds a life with Derek Miles (Vanguard).",
+    "sources": [
+      "Ethan and his past bonds .pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf"
+    ],
+    "category": "Support",
+    "evidence_quotes": [
+      "Grace later moves on and eventually builds a life with Derek Miles (Vanguard).",
+      "Fast and strong simultaneously. That's unusual."
+    ],
+    "conflicts": [
+      "role conflict: 'Partner of Grace' vs 'Ichor-enhanced combat operative' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Diablo",
+    "alias": "Right Hand of the Devil",
+    "role": null,
+    "status": null,
+    "description": "Ancient demon incursion leader who led an incursion alongside a Prince of Demons.",
+    "quote": "Ancient demon incursion led by Diablo (Right Hand of the Devil) and a Prince of Demons.",
+    "sources": [
+      "canon events.pdf"
+    ],
+    "evidence_quotes": [
+      "Ancient demon incursion led by Diablo (Right Hand of the Devil) and a Prince of Demons."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Dirham",
+    "alias": null,
+    "role": null,
+    "status": null,
+    "category": null,
+    "description": "Half-blind leader of the Forgotten Ones community outside Ottoman Istanbul.",
+    "quote": "Dirham, half-blind, and Abbas, one-legged, led this community.",
+    "sources": [
+      "Docs All the institute of SCU.pdf"
+    ],
+    "evidence_quotes": [
+      "Dirham, half-blind, and Abbas, one-legged, led this community."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Dorian",
+    "alias": null,
+    "role": null,
+    "status": "Dead",
+    "description": "A warrior who fought alongside Tedmond and eventually joined the Nullborn.",
+    "quote": "Dorian was not in his prime because he was only a kid back then.but his battle iq and potential he alongside eldrich and norman faught diablo and his army.",
+    "sources": [
+      "Diablo war first and 2nd.pdf"
+    ],
+    "evidence_quotes": [
+      "Dorian was not in his prime because he was only a kid back then.but his battle iq and potential he alongside eldrich and norman faught diablo and his army."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Dorian Cross",
+    "alias": "John",
+    "role": "Fighter",
+    "status": "Dead",
+    "description": "Experienced an ideological fracture after Soa's suicide and joined Nullborn. Savage and humorous fighter with a Dante-like personality who arrived at the Aldercrest estate to confront Khalid.",
+    "quote": "Dorian joins Nullborn because he learns: “Greater good” can kill innocents even without villains.",
+    "sources": [
+      "canon events.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf"
+    ],
+    "category": "Protagonist",
+    "evidence_quotes": [
+      "Dorian joins Nullborn because he learns: “Greater good” can kill innocents even without villains.",
+      "The fun one. Yes."
+    ],
+    "conflicts": [
+      "status conflict: 'Dead' vs 'Alive' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Eldrich",
+    "alias": "The Cursed Guardian",
+    "role": "Team Leader",
+    "status": "Alive",
+    "description": "An Aldercrest wizard cursed into half-demonic existence who masked his magic with demonic aura. A shadow guarding the throne. A character cursed by Khalid to guard the throne for decades, unable to die or leave.",
+    "quote": "It was eldrich who was the caster basically,before that eldrich was cursed by khalid making him half demonic.",
+    "sources": [
+      "Diablo war first and 2nd.pdf",
+      "straight s1-s5.pdf",
+      "yoshiko.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "It was eldrich who was the caster basically,before that eldrich was cursed by khalid making him half demonic.",
+      "Eldrich remains a shadow, still guarding the throne.",
+      "He was cursed by Khalid Couldn’t die Couldn’t leave the throne Guarded it silently for decades Watching the world move on Still loyal to Liam → John → Zaan’s honor"
+    ],
+    "conflicts": [
+      "role conflict: 'Team Leader' vs 'Guardian' (straight s1-s5.pdf)",
+      "role conflict: 'Team Leader' vs 'Throne protector' (yoshiko.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Eldrich Aldercrest",
+    "alias": null,
+    "role": "Mentor",
+    "status": "Missing",
+    "description": "Became half-demonic and vanished after Dorian's death and Khalid's revenge, presumed dead. Catalyst mentor who teaches Damian structure, restraint, and consequence. An ancient individual who lived for centuries, survivor of historical conflicts, who is finally freed from his burdens upon his death. Son of Steven Aldercrest who developed courage and nobility, fighting Khalid to protect his father and the legacy of the Aldercrest estate.",
+    "quote": "After Dorian’s death and Khalid’s revenge, Eldrich becomes half-demonic and vanishes; presumed dead.",
+    "sources": [
+      "canon events.pdf",
+      "DAMIAN BROWN Ability.pdf",
+      "Eldrich death.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf"
+    ],
+    "category": "Protagonist",
+    "evidence_quotes": [
+      "After Dorian’s death and Khalid’s revenge, Eldrich becomes half-demonic and vanishes; presumed dead.",
+      "Liam / Eldrich Aldercrest doesn’t just teach Damian spells. He teaches him structure, restraint, and consequence.",
+      "For the first time in centuries... Eldrich Aldercrest was free.",
+      "You're not supposed to be dangerous yet."
+    ],
+    "conflicts": [
+      "status conflict: 'Missing' vs 'Dead' (Eldrich death.pdf)",
+      "status conflict: 'Missing' vs 'Alive' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf)",
+      "role conflict: 'Mentor' vs 'Defender' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Elina",
+    "alias": null,
+    "role": null,
+    "status": "Dead",
+    "description": "A woman loved by Eldrich, associated with Damian who is described as a version of Eldrich that succeeded in love.",
+    "quote": "Then he turned toward Elina's grave. The woman he had loved. The woman he watched grow old.",
+    "sources": [
+      "Eldrich death.pdf"
+    ],
+    "evidence_quotes": [
+      "Then he turned toward Elina's grave. The woman he had loved. The woman he watched grow old."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Elina Quins",
+    "alias": null,
+    "role": "Love interest of Eldrich Aldercrest",
+    "status": "Dead",
+    "category": "Support",
+    "description": "Eldrich Aldercrest's romantic interest who lived a normal life and died of old age.",
+    "quote": "Eldrich's love interests name was Elina Quins and cousin name is Soa Aldercrest and the judgement power is called Athenas Judgement by the aldercrest.",
+    "sources": [
+      "soa and elina.pdf"
+    ],
+    "evidence_quotes": [
+      "Eldrich's love interests name was Elina Quins and cousin name is Soa Aldercrest and the judgement power is called Athenas Judgement by the aldercrest."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Elizabeth Pristine",
+    "alias": null,
+    "role": "Antagonist",
+    "status": "Alive",
+    "description": "A shapeshifting girl aligned with Khalid who stages events to break Liam and Norman's trust. A shape-shifting infiltrator working for Khalid who manipulated Norman to destroy his friendship with Liam.",
+    "quote": "A shapeshifting girl aligned with Khalid, Elizabeth Pristine, stages events to break Liam–Norman trust.",
+    "sources": [
+      "canon events.pdf",
+      "Norman.pdf"
+    ],
+    "category": "Antagonist",
+    "evidence_quotes": [
+      "A shapeshifting girl aligned with Khalid, Elizabeth Pristine, stages events to break Liam–Norman trust.",
+      "actually,that girl came from khalid,and as she is a shape shifter she intentionally broke the friendship liam and norman had by giving wrong info and stage it in wrong way"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Elizah",
+    "alias": "Robi",
+    "role": "Inner persona of Ethan",
+    "status": "Alive",
+    "description": "Has an outside name of Robi. A male character occupied elsewhere during Season 5. Ethan's inner persona who became less evil through the influence of Nilanjona. The dangerous, dark personality emerging from Ethan's bloodline, representing pride and rage. Character described as too chaotic to wield Kara Yazgı. A character seen as the strongest weapon, suffering from self-hatred. Ethan's alter ego, known for his brutal and animalistic fighting style. A brutal combatant who views killing as maintenance work, capable of casual animalistic violence while maintaining a bizarrely cheerful demeanor. Ethan's alter ego and defense mechanism born from trauma; he possesses violent wind powers and acts with extreme brutality against oppressors. The gravitational center of Season 2, viewed as a necessary cruelty. Ethan's ruthless and pragmatic alter ego who manages the darker aspects of their dual existence. Elizah is the alter ego of Ethan, described as savage, witty, sharp-tongued, and dangerous. He loves Nyxia and protects Ethan. Ethan's subconscious guardian who manifested during childhood emergencies, trauma, or when Ethan was cornered.",
+    "quote": "Elizah (outside name: Robi).",
+    "sources": [
+      "canon events.pdf",
+      "clarification 2.pdf",
+      "Ethan and his past bonds .pdf",
+      "First season structure (1).pdf",
+      "Kara Yazgi.pdf",
+      "Nur.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-1.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf",
+      "stitch vs elizah.pdf",
+      "straight s1-s5.pdf",
+      "Truth of elizah and ethan (1).pdf",
+      "Untitled document.pdf",
+      "yoshiko.pdf"
+    ],
+    "category": "Anti-Hero",
+    "evidence_quotes": [
+      "Elizah (outside name: Robi).",
+      "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war",
+      "His darker inner persona (later known as Elizah) already existed. ● The toxic relationship accelerated Elizah's awakening, making that inner self significantly more toxic, angry, and destructive.",
+      "Elizah appears fully and we see a black- dark red crack into the whole white cell and camera doesn't show who he was. only shows the guards are brutally kiled and down to the floor.",
+      "Elizah → too chaotic",
+      "Elizah suffers because of self-hatred.",
+      "Elizah is Ethan's alter ego. Ethan is male. His alter ego is not suddenly a woman. That's basic.",
+      "The Apex behind him is missing its ribcage in the functional sense — the chest cavity has been introduced to the outside world and found the introduction permanent.",
+      "Elizah directly went for stitch and he beaten him brutally..didn't kill him.where elizah was almost killing him.",
+      "Elizah becomes the gravitational center. Not a hero. Not a villain. A necessary cruelty the world forced into existence.",
+      "demonic blood ability basically as elizah is just a alter ego of ethan.so ethan made himself think like that his wind is more powerful than elizah's blood arts",
+      "Elizah..Ethans alter ego He is davilish handsome.when he turns into elizah.his hairs are messy.he is very savage.",
+      "Elizah isn’t a “new form” in Season 2. He is a subconscious guardian who appeared: in childhood emergencies in early fights when Ethan was traumatized when Ethan was cornered when he blacked out"
+    ],
+    "conflicts": [
+      "role conflict: 'Inner persona of Ethan' vs 'Manifestation of Ethan's suppressed dark lineage' (First season structure (1).pdf)",
+      "status conflict: 'Alive' vs 'Dead' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-1.pdf)",
+      "role conflict: 'Inner persona of Ethan' vs 'Protagonist' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-1.pdf)",
+      "role conflict: 'Inner persona of Ethan' vs 'Antagonist' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf)",
+      "category conflict: 'Anti-Hero' vs 'Antagonist' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf)",
+      "role conflict: 'Inner persona of Ethan' vs 'Protector of Ethan' (stitch vs elizah.pdf)",
+      "role conflict: 'Inner persona of Ethan' vs 'Alter ego' (Truth of elizah and ethan (1).pdf)",
+      "role conflict: 'Inner persona of Ethan' vs 'Alter ego' (Untitled document.pdf)",
+      "role conflict: 'Inner persona of Ethan' vs 'Subconscious guardian' (yoshiko.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ethan",
+    "alias": "Sky Guardian Candidate",
+    "role": "Hero",
+    "status": "Alive",
+    "description": "A hero alive in the new world whose growth involves accepting pain, contrasting with Alt David's attempt to erase it. A male character dealing with cosmic-level threats or ideological war. Trusted silent ally of David who secretly coordinates missions with him. A captive subject who was subjected to a public trial and fake execution orchestrated by Stitch. An individual living with bipolar disorder and an internal persona named Elizah. A soldier who dies on the battlefield, leaving behind a legacy of resilience and hope. A leader who values empathy over raw power, framed by an agency for his perceived weakness to facilitate their experiments. Grace's ex-boyfriend who discovers he has powers and seeks to help her recover. A broken and bullied individual who met Nilanjona in Saidpur and dated her for a while before they drifted apart. Ethan serves as mentor and moral compass, being the first person who saw Nur as a human rather than a threat. Ethan represents restraint, leadership, mercy, and collective responsibility, while his split persona Elizah embodies consequence, brutality, and individual survival. A character initially appearing calm and reliable who eventually dies. Ethan died, and Samuel learned it was because of stitch. A powerful individual who possesses wind abilities and struggles with a dual nature, acting as the host for his alter ego, Elizah. Ethan is the host of the alter ego Elizah. He feared Elizah could destroy those dangerous for the world and was thought to be dead in season 1. The former leader of the Sentinels who died misunderstood and betrayed at the end of Season 1.",
+    "quote": "When he arrives here and sees: Ethan alive.",
+    "sources": [
+      "Alt david.pdf",
+      "clarification 2.pdf",
+      "Dagger Wolf_1.pdf",
+      "Death of Ethan.pdf",
+      "Ethan and his past bonds .pdf",
+      "Ethan redline ending.pdf",
+      "First season structure (1).pdf",
+      "Grace basic plot (1).pdf",
+      "Nilanjona’s Arc – Origin of the Water Guardian.pdf",
+      "Nur.pdf",
+      "see characters.pdf",
+      "straight s1-s5.pdf",
+      "timeline dorian khalid freya (1).pdf",
+      "Truth of elizah and ethan (1).pdf",
+      "Untitled document.pdf",
+      "zayn and elizah (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "When he arrives here and sees: Ethan alive.",
+      "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war",
+      "He trusts ethan ,but not highlighted .",
+      "Later, it’s Stitch’s men who retrieve Ethan’s body and move him into the white containment room, where they begin testing how the Sky Guardian Candidate reacts to restraint.",
+      "Ethan had already developed bipolar disorder from childhood (your canon terminology). ● His darker inner persona (later known as Elizah) already existed.",
+      "Reality returned. Cold. Merciless. The battlefield remained exactly where it had been. Broken earth. Ash. Blood. Silence. Ethan's body lay motionless.",
+      "Ethan isn’t the unstoppable prodigy — he’s a leader who people don’t understand. He doesn’t win by might; he holds everyone together through empathy, vision, and heart.",
+      "ethan newly knew his power.he felt bad that if only he knew about the zombie outbreak!he would surely come.",
+      "Ethan, broken and bullied after leaving Bogura and Zayn, met her in Saidpur. - She became the second person in his life",
+      "Ethan is not just a senior. He is: Mentor Moral compass First person who saw Nur as a human, not a threat",
+      "Ethan = restraint, leadership, mercy, collective responsibility Elizah = consequence, brutality, individual survival",
+      "The ending punch Ethan “dies.”",
+      "when ethan was dead and samuel learns it was because of stitch after that event samuel leaves dew event happened .",
+      "ethan's eye is glowing green and he is floating. holding wind sigils. Elizah smirks and says- claps and says -i see,the gale warden!finally decided to show up!",
+      "ethan always hated his alter persona,thinking he is beast with out lish.he fears,if he comes out.he can destroy those who are dangerous for the world.",
+      "Season 1 ends with Ethan dying misunderstood and betrayed."
+    ],
+    "conflicts": [
+      "role conflict: 'Hero' vs 'Silent ally' (Dagger Wolf_1.pdf)",
+      "role conflict: 'Hero' vs 'Test subject for DEW' (Death of Ethan.pdf)",
+      "role conflict: 'Hero' vs 'Subject of psychological study' (Ethan and his past bonds .pdf)",
+      "status conflict: 'Alive' vs 'Dead' (Ethan redline ending.pdf)",
+      "role conflict: 'Hero' vs 'Soldier' (Ethan redline ending.pdf)",
+      "role conflict: 'Hero' vs 'Leader of the Sentinels' (First season structure (1).pdf)",
+      "role conflict: 'Hero' vs 'Mentor and moral compass' (Nur.pdf)",
+      "role conflict: 'Hero' vs 'Split Self / Moral Schizophrenia' (see characters.pdf)",
+      "status conflict: 'Alive' vs 'Dead' (straight s1-s5.pdf)",
+      "status conflict: 'Alive' vs 'Dead' (timeline dorian khalid freya (1).pdf)",
+      "role conflict: 'Hero' vs 'Master' (Truth of elizah and ethan (1).pdf)",
+      "status conflict: 'Alive' vs 'Dead' (zayn and elizah (1).pdf)",
+      "role conflict: 'Hero' vs 'Leader' (zayn and elizah (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ethan Thorne",
+    "alias": "Elizah",
+    "role": "Future leader of the Sentinels",
+    "status": "Alive",
+    "description": "Imprisoned, starved, and tortured by Stitch until awakening as Elizah, breaking out of a cell, falling into the ocean, and being rescued by Corvani and Aeric. The leader of the group, serving as the team's moral compass with wind-based abilities and an ambivert personality. Has an outside name of Robin or Bunny.",
+    "quote": "Ethan Thorne Future leader of the Sentinels The person whose life will eventually connect ALL of their fates",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf",
+      "behave of characters.pdf",
+      "canon events.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Ethan Thorne Future leader of the Sentinels The person whose life will eventually connect ALL of their fates",
+      "Ethan = your own personality reflection childlike → witty → fun → teasing → stylish → hair always back • Leadership: → best leader → serious when leading → moral compass is strong",
+      "Ethan Thorne (outside name: Robin/Bunny), Elizah (outside name: Robi)."
+    ],
+    "conflicts": [
+      "role conflict: 'Future leader of the Sentinels' vs 'Leader' (behave of characters.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Fahad",
+    "alias": null,
+    "role": "Wields the blue fist",
+    "status": "Alive",
+    "category": "Protagonist",
+    "description": "A boy in whom the blue fist power reappears years later.",
+    "quote": "The dragon-slayer? Still missing. But that blue fist? It reappears... in a boy named Fahad.",
+    "sources": [
+      "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf"
+    ],
+    "evidence_quotes": [
+      "The dragon-slayer? Still missing. But that blue fist? It reappears... in a boy named Fahad."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Fahad Duskmoor",
+    "alias": null,
+    "role": "Frontline fighter",
+    "status": null,
+    "category": "Protagonist",
+    "description": "Descendant of Silas Duskmoor who inherits fiery combat prowess and frontline strength.",
+    "quote": "Fahad Duskmoor (descendant) — inherits fiery combat prowess, frontline strength.",
+    "sources": [
+      "Inhertances .pdf"
+    ],
+    "evidence_quotes": [
+      "Fahad Duskmoor (descendant) — inherits fiery combat prowess, frontline strength."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Francisco",
+    "alias": "Nasab ibn Khalil",
+    "role": null,
+    "status": null,
+    "category": null,
+    "description": "Khalid's father, operating under the cover name Nasab ibn Khalil in Ottoman territory, sent with Ramiz to locate the Architect Cube in 1417.",
+    "quote": "Ramiz and Francisco — Khalid's father, operating under the cover name Nasab ibn Khalil in Ottoman territory — are sent to locate the Architect Cube.",
+    "sources": [
+      "Docs All the institute of SCU.pdf"
+    ],
+    "evidence_quotes": [
+      "Ramiz and Francisco — Khalid's father, operating under the cover name Nasab ibn Khalil in Ottoman territory — are sent to locate the Architect Cube."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Freya",
+    "alias": null,
+    "role": "Tragic figure, mother, lover",
+    "status": "Legend",
+    "description": "A woman whose life and tragedy unfold through an emotional collapse, involving a relationship with Gabriel, motherhood, abandonment, and the roots of Arthur's inherited revenge. A woman whose life trajectory involves love, hope, betrayal, and the contamination of her legacy. Freya found Khalid near the demon before storm event, and her story starts far before.",
+    "quote": "So if you want her story to hit properly, these are the key things that need time and explanation. 1) Who Freya is before Gabriel",
+    "sources": [
+      "Freya writing suggestion.pdf",
+      "Suggestion of freya 2.pdf",
+      "timeline dorian khalid freya (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "So if you want her story to hit properly, these are the key things that need time and explanation. 1) Who Freya is before Gabriel",
+      "Freya’s story should feel like: love -> hope -> strain -> failure -> abandonment -> contamination of legacy",
+      "when freya found khalid was near demon before storm event happens freyas story starts far before."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Gabriel",
+    "alias": null,
+    "role": "Dragon",
+    "status": "Alive",
+    "description": "A dragon seeking to conquer the human realm who tortured Freya to force her to hatch a dragon egg. A man whose moral collapse turns him from a loving partner into someone who throws Pristine and Freya away. Gabriel threw pristine after a man he trusted was thought to be Khalid.",
+    "quote": "the dragons were careless and the father(gabriel) and his men search for freya as without her the egg can't be hatched.",
+    "sources": [
+      "Freya and arthur_1.pdf",
+      "Freya writing suggestion.pdf",
+      "timeline dorian khalid freya (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "the dragons were careless and the father(gabriel) and his men search for freya as without her the egg can't be hatched.",
+      "Gabriel should not be a flat “lover who later becomes cruel.” That would be too easy. His story needs proper emotional logic",
+      "and then when gabriel throws pristine,and then khalid got her."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ghost",
+    "alias": null,
+    "role": "Fighter",
+    "status": null,
+    "description": "A well-trained brutal character representing trained precision. Ghost gained recognition after sentinels were formed, was rejected by them, and became a hero to the people. A former operative who served the DEW before realizing the organization was pathetic.",
+    "quote": "Where Ghost is trained precision and Ravenblade is honed brutality, David is instinct given shape — an artist of violence.",
+    "sources": [
+      "Dagger Wolf_1.pdf",
+      "timeline dorian khalid freya (1).pdf",
+      "Vanguard x (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Where Ghost is trained precision and Ravenblade is honed brutality, David is instinct given shape — an artist of violence.",
+      "ghost got recognization after sentinel was formed and he was rejected by sentinels and then he became hero to people thing happened.",
+      "unlike ghost who served DEW and later finds out that DEW is pathetic,he understood it from the start."
+    ],
+    "conflicts": [
+      "role conflict: 'Fighter' vs 'hero' (timeline dorian khalid freya (1).pdf)",
+      "role conflict: 'Fighter' vs 'Former DEW operative' (Vanguard x (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Grace",
+    "alias": "angel",
+    "role": "Medical student",
+    "status": "Alive",
+    "description": "One of the women in the universe who survives quietly and cleans up after wars. A medical student who survives a zombie outbreak, loses her friend and protector, and suffers severe mental trauma. A powerful being who wields energy and possesses the golden Locket of Aldercrest. A healer who treated Ayman following his injuries sustained while disabling the corrupted program. A former romantic interest of Ethan who has a healing ability and provides support to the team. Chosen by Athena's Judgement, Grace retires because judgment breaks her and is the only character whose power causes consistent psychological damage. Awakened Athena’s Judgement and later retired from Vanguard. A former partner of Ethan who understands the necessity of both his sides. An individual possessing cosmic light powers that fail against dark energy.",
+    "quote": "Nyxia Yoshiko Grace Nilanjona Ravenblade Even Arzuna (from the other side)",
+    "sources": [
+      "clarification 2.pdf",
+      "Grace basic plot (1).pdf",
+      "Grace vs Arzuna.pdf",
+      "rise of ayaan (1).pdf",
+      "s1 roadmap.pdf",
+      "see characters.pdf",
+      "straight s1-s5.pdf",
+      "Truth of elizah and ethan (1).pdf",
+      "Weston is back (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Nyxia Yoshiko Grace Nilanjona Ravenblade Even Arzuna (from the other side)",
+      "as a medical student grace tries helping those who are injured.but sometimes she could help.sometimes people dies infront of her.",
+      "The LOCKET OF ALDERCREST ignites—light bursting through the rain. Her blindfold burns away. The LEFT EYE snaps open—GOLD, radiant and alive.",
+      "he decided to contact Grace.and grace came fast to his location to heal him.",
+      "grace was one of the fans of that couple.later while ethan and Grace starts talking as friends.she learns that ethan and nila are already separated.",
+      "Grace retires because judgment breaks her She returns only when judgment is unavoidable She is the only character whose power costs psychological damage consistently.",
+      "Grace retires with Vanguard, mentally exhausted.",
+      "as grace used to be ethans partner once.and she is a medical student.so she knew this side of ethan.but she never mentioned.as she loved both side of him .she felt both are needed.",
+      "Grace kneels beside them, cosmic light flickering in her palms, but every spark she calls dies the instant it touches the black wound."
+    ],
+    "conflicts": [
+      "role conflict: 'Medical student' vs 'protagonist' (Grace vs Arzuna.pdf)",
+      "role conflict: 'Medical student' vs 'Healer' (rise of ayaan (1).pdf)",
+      "role conflict: 'Medical student' vs 'Healer' (s1 roadmap.pdf)",
+      "status conflict: 'Alive' vs 'Retired' (see characters.pdf)",
+      "role conflict: 'Medical student' vs 'Holder of Athena's Judgement' (see characters.pdf)",
+      "status conflict: 'Alive' vs 'Retired' (straight s1-s5.pdf)",
+      "role conflict: 'Medical student' vs 'Healer' (straight s1-s5.pdf)",
+      "role conflict: 'Medical student' vs 'Unknown' (Weston is back (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Hisham",
+    "alias": null,
+    "role": null,
+    "status": "Dead",
+    "description": "A figure from the timeline whose death is part of the ancient war history recounted by Zaan.",
+    "quote": "Zaan opens up about the timeline, including Hisham’s death → Khalid’s betrayal → the ancient war.",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Zaan opens up about the timeline, including Hisham’s death → Khalid’s betrayal → the ancient war."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Isaac Ezekiel",
+    "alias": "Isaac",
+    "role": "Antagonist",
+    "status": "Alive",
+    "category": "Antagonist",
+    "description": "A technologically enhanced genius from the mythical land of Thessavar who serves as a major threat.",
+    "quote": "Isaac Ezekiel is a genuinely strong name the biblical root is interesting for his character Isaac meaning \"he laughs\"",
+    "sources": [
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-1.pdf"
+    ],
+    "evidence_quotes": [
+      "Isaac Ezekiel is a genuinely strong name the biblical root is interesting for his character Isaac meaning \"he laughs\""
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Issabela",
+    "alias": "Zaynab",
+    "role": "Nullborn leader",
+    "status": "Alive",
+    "category": "Protagonist",
+    "description": "Daughter of Ramiz, leader within the Nullborn, a skilled warrior who hid her true Muslim name, Zaynab, and grew close to Khalid. Issabela is already dead at the start of the story and Khalid visits her grave.",
+    "quote": "Issabela: “You already know. Or you wouldn’t have survived this long.”",
+    "sources": [
+      "KHALID (2).pdf",
+      "timeline dorian khalid freya (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Issabela: “You already know. Or you wouldn’t have survived this long.”",
+      "issabela is already dead,as you saw khalid came to her grave scene."
+    ],
+    "conflicts": [
+      "status conflict: 'Alive' vs 'Dead' (timeline dorian khalid freya (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Issabela Al-Ahd",
+    "alias": "Zaynab",
+    "role": "Assassin",
+    "status": "Alive",
+    "category": "Antagonist",
+    "description": "Once kind, later an emotionally detached assassin after her demotion from the Nullborn.",
+    "quote": "Issabela Al-Ahd (real name: Zaynab) — once kind, later an emotionally detached assassin after her demotion from the Nullborn.",
+    "sources": [
+      "Inhertances .pdf"
+    ],
+    "evidence_quotes": [
+      "Issabela Al-Ahd (real name: Zaynab) — once kind, later an emotionally detached assassin after her demotion from the Nullborn."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Jessy",
+    "alias": "Asetra",
+    "role": "Ancient entity",
+    "status": "Alive",
+    "category": "Antagonist",
+    "description": "Ancient entity whose power was beyond mortal comprehension, fought by the Nine Clans. A human-born girl with divine balance powers chosen by spirits, who was betrayed and sealed, and later hijacked Shina's body to seek the eradication of human civilization.",
+    "quote": "Jessy as a Dragon: She herself was a divine or celestial dragon in human form.",
+    "sources": [
+      "Inhertances .pdf",
+      "The start and the end (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Jessy as a Dragon: She herself was a divine or celestial dragon in human form.",
+      "Then came Jessy/Asetra: a girl too powerful, too different. She hadn’t harmed anyone, but her existence terrified them."
+    ],
+    "conflicts": [
+      "role conflict: 'Ancient entity' vs 'Balance bearer' (The start and the end (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "John",
+    "alias": null,
+    "role": "Leader",
+    "status": "Alive",
+    "description": "A character who claimed the throne by defeating Khalid while severely injured.",
+    "quote": "John dragged himself across the floor of fire and corpses. Khalid lay defeated at his feet, yet still claimed the throne as his own. John gave no crown, no ceremony, no speech of order.",
+    "sources": [
+      "The throne legacy.pdf"
+    ],
+    "evidence_quotes": [
+      "John dragged himself across the floor of fire and corpses. Khalid lay defeated at his feet, yet still claimed the throne as his own. John gave no crown, no ceremony, no speech of order."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "john liam",
+    "alias": null,
+    "role": null,
+    "status": "Dead",
+    "description": "John Liam participated in defeating Khalid brutally before john died in the event.",
+    "quote": "then john and liam defeats him brutally and then john died and after that pristine came to normans life.",
+    "sources": [
+      "timeline dorian khalid freya (1).pdf"
+    ],
+    "evidence_quotes": [
+      "then john and liam defeats him brutally and then john died and after that pristine came to normans life."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Jubayer",
+    "alias": "Duskblade",
+    "role": "Lightning wielder",
+    "status": null,
+    "category": "Anti-Hero",
+    "description": "A noted crossbreed. Lightning wielder who inherits aspects of El-Mansur tactical ferocity.",
+    "quote": "Crossbreeds (John, Jubayer) noted.",
+    "sources": [
+      "infos.pdf",
+      "Inhertances .pdf"
+    ],
+    "evidence_quotes": [
+      "Crossbreeds (John, Jubayer) noted.",
+      "Jubayer — lightning wielder (Duskblade), inherits aspects of El-Mansur tactical ferocity."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Kazumi",
+    "alias": null,
+    "role": "Warrior",
+    "status": "Alive",
+    "description": "Daughter of Arashi and twin sister to Yoshiko, trained by the Kurohana family.",
+    "quote": "kazumi was trained under the kurohana family,which led her to be a rival/enemy of yoshiko.",
+    "sources": [
+      "Slaughter of Kurohana clan -twin x Mashiho.pdf"
+    ],
+    "evidence_quotes": [
+      "kazumi was trained under the kurohana family,which led her to be a rival/enemy of yoshiko."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Khalid",
+    "alias": "The Errorcore",
+    "role": "Ancestor",
+    "status": "Alive",
+    "description": "A nightmare scripted in code, blood, and void who wields forbidden Bloodbinding and Umbra Control. A figure who committed a betrayal in the ancient war and has an impending confrontation with Zaan. A figure whose justification collapses after Alter David's death. Mentioned in relation to a comparison of discipline versus demonic will. An ancient, dark, and familiar figure who confronts Eldrich and claims his bloodline ends with him. The figure whose bloodline Elizah shares; referred to mockingly by Elizah as Daddy Decay. An ancestor whose bloodline art was corrupted toward domination and destruction. A demon who manipulated Freya to obtain a powerful dragon child for his goal of destroying humanity. A force who enters Freya's orbit close to The Demon Before the Storm when the wound is already open, taking Pristine and later finding Freya. Killer of Anna who was later defeated and killed by Ravenblade using Kara Yazgı. An individual who enters Freya's life after her emotional collapse to exploit her vulnerability. Unsealed Jessy when her soul had no body left to return to. The original creator of the throne who ruled through fear. Khalid killed Anna, visited Issabelas grave, faced Norman and John and Liam where he was brutally injured, and took a long time break. A young man grappling with the dark legacy of his father and his identity as a survivor. Khalid is addressed as daddy decay by Elizah during a confrontation.",
+    "quote": "Khalid is no longer just a villain — he’s a nightmare scripted in code, blood, and void.",
+    "sources": [
+      "Abilities (1) (1).pdf",
+      "aeric, corvani and elizah (1).pdf",
+      "clarification 2.pdf",
+      "DAMIAN BROWN Ability.pdf",
+      "Eldrich death.pdf",
+      "elizah things (1).pdf",
+      "First season structure (1).pdf",
+      "Freya and arthur_1.pdf",
+      "Freya writing suggestion.pdf",
+      "Kara Yazgi.pdf",
+      "Suggestion of freya 2.pdf",
+      "The start and the end (1).pdf",
+      "The throne legacy.pdf",
+      "timeline dorian khalid freya (1).pdf",
+      "Trilogy of zaan, khalid and issabela (1).pdf",
+      "Untitled document.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Khalid is no longer just a villain — he’s a nightmare scripted in code, blood, and void.",
+      "Zaan opens up about the timeline, including Hisham’s death → Khalid’s betrayal → the ancient war.",
+      "Asetra’s worldview cracks Khalid’s justification collapses Niharo’s logic weakens",
+      "Damian vs Khalid (discipline vs demonic will)",
+      "And then another presence entered the graveyard. Ancient. Dark. Familiar. Khalid.",
+      "as a reply(obviously he was savage and witty) he adresses khalid as daddy decay with witty tone",
+      "Khalid corrupted the same root art, bending it toward domination and destruction.",
+      "he intentionally got physical with freya to have a child with dragon abilities,basically freya is one of those special dragond who can birth special dragons who are powerful",
+      "Khalid’s direct involvement comes later, close to The Demon Before the Storm. That is actually good structure.",
+      "Ravenblade kills Khalid using Kara Yazgı",
+      "Khalid should enter after the emotional damage already exists. That makes him stronger.",
+      "When Khalid unsealed her, her soul had no body left to return to.",
+      "Khalid carved it as a symbol of fear, a monument to his dominance. Many bent the knee before it — none sat upon it by right. Until John.",
+      "anna died a long ago by khalid himself. anthony follows annas ideology",
+      "Khalid. He opened the door without a word. The scene outside was one of fury.",
+      "where she says,elizah carrying same blood og khalid.he is a demon.why he is betraying his own blood. as a reply(obviously he was savage and witty) he adresses khalid as daddy decay with witty tone"
+    ],
+    "conflicts": [
+      "status conflict: 'Alive' vs 'Dead' (First season structure (1).pdf)",
+      "role conflict: 'Ancestor' vs 'Demon' (Freya and arthur_1.pdf)",
+      "status conflict: 'Alive' vs 'Dead' (Kara Yazgi.pdf)",
+      "role conflict: 'Ancestor' vs 'Corrupter' (Suggestion of freya 2.pdf)",
+      "status conflict: 'Alive' vs 'Dead' (The throne legacy.pdf)",
+      "role conflict: 'Ancestor' vs 'Ruler' (The throne legacy.pdf)",
+      "role conflict: 'Ancestor' vs 'Nullborn recruit' (Trilogy of zaan, khalid and issabela (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Liam",
+    "alias": null,
+    "role": "Hero",
+    "status": "Alive",
+    "description": "Trusted companion whose bond with Norman was broken by Elizabeth Pristine. A hero and former friend of Norman who was away gaining magical knowledge and remained unaware of Norman's mistreatment by the organization. An idealist and brother-in-arms to John who guarded the throne rather than ruling from it.",
+    "quote": "stages events to break Liam–Norman trust.",
+    "sources": [
+      "canon events.pdf",
+      "Norman and pristine outline .pdf",
+      "The throne legacy.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "stages events to break Liam–Norman trust.",
+      "we can see that liam ,even though he wasn't there back then with the org they were working.he was away for more knowledge with magic",
+      "John’s brother-in-arms, Liam, the idealist, refused to sit. To him, the throne was not a prize but a burden — a reminder of John’s rebellion and sacrifice."
+    ],
+    "conflicts": [
+      "role conflict: 'Hero' vs 'Guardian' (The throne legacy.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Liam Aldercrest",
+    "alias": null,
+    "role": "Ancestor",
+    "status": null,
+    "category": "Support",
+    "description": "Ancestor of Rohan whose magical lineage carries into modern times.",
+    "quote": "Liam Aldercrest (true name revealed later in lore) — ancestor of Rohan, his magical lineage carries into modern times.",
+    "sources": [
+      "Inhertances .pdf"
+    ],
+    "evidence_quotes": [
+      "Liam Aldercrest (true name revealed later in lore) — ancestor of Rohan, his magical lineage carries into modern times."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Lucan Vale",
+    "alias": null,
+    "role": "Antagonist",
+    "status": "Alive",
+    "category": "Antagonist",
+    "description": "A speedster and a clone of Alt Weston created by Alt David.",
+    "quote": "lucan vale,the speed star whom our weston faced in season 2 is basically alt westons clone made by alt david.",
+    "sources": [
+      "elizah and others infos.pdf"
+    ],
+    "evidence_quotes": [
+      "lucan vale,the speed star whom our weston faced in season 2 is basically alt westons clone made by alt david."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Lucas",
+    "alias": null,
+    "role": null,
+    "status": null,
+    "category": "Antagonist",
+    "description": "A hybrid from DEW from an experiment who has a big army of fast runner clones and shared his blood to make them.",
+    "quote": "when zayn and weston was fighting against lucas . who was a hybrid from dew from experiment...the fight was to intense for even these two.. and then we see a lucas has a big army .all of them were fast runner like weston.like lucas.as lucas shared his blood to these for making his own army",
+    "sources": [
+      "lightning before the thunder (1).pdf"
+    ],
+    "evidence_quotes": [
+      "when zayn and weston was fighting against lucas . who was a hybrid from dew from experiment...the fight was to intense for even these two.. and then we see a lucas has a big army .all of them were fast runner like weston.like lucas.as lucas shared his blood to these for making his own army"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Madhobi",
+    "alias": "Nytheris",
+    "role": "Nature Guardian",
+    "status": "Alive",
+    "category": "Support",
+    "description": "Introduced Issabela and Anthony to the Hidden Ones after the Rome cell collapse. Nature Guardian confirmed to exist across multiple eras, hinting at a spirit, immortal, or recurring reincarnation. Takes in Issabela and Anthony, introducing them to The Hidden Ones.",
+    "quote": "Madhobi (in-story name: Nytheris) introduced Issabela and Anthony to the Hidden Ones after the Rome collapse.",
+    "sources": [
+      "Docs All the institute of SCU.pdf",
+      "Inhertances .pdf",
+      "Issabela.pdf"
+    ],
+    "evidence_quotes": [
+      "Madhobi (in-story name: Nytheris) introduced Issabela and Anthony to the Hidden Ones after the Rome collapse.",
+      "Madhobi — Nature Guardian, confirmed to exist in Zaan’s time, Khalid’s time, Issabela’s era, and the present day.",
+      "They are taken in by Madhobi, who introduces them to The Hidden Ones — Zaan’s surviving spiritual order."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Major General Stitch",
+    "alias": "The old man",
+    "role": "Head of ECAP and founder of DEW",
+    "status": "Alive",
+    "description": "A military leader who orchestrated the public trial and false execution of Ethan to secure him for research.",
+    "quote": "The “old man” who orders Ethan’s arrest and public judgment is Major General Stitch, head of ECAP and secret architect of DEW. Stitch personally orchestrates the propaganda against Ethan",
+    "sources": [
+      "Death of Ethan.pdf"
+    ],
+    "evidence_quotes": [
+      "The “old man” who orders Ethan’s arrest and public judgment is Major General Stitch, head of ECAP and secret architect of DEW. Stitch personally orchestrates the propaganda against Ethan"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Maliha",
+    "alias": "little medic",
+    "role": "Lover",
+    "status": "Alive",
+    "description": "Newly joined character who is the obsession and lover of David. A healer who was attacked by Arzuna and rescued by Grace. A healer who is closely linked to David and joins the Sentinels. Captured and corrupted by love and grief, later killed by Arzuna.",
+    "quote": "david is basically the love interest of a newly joined character maliha.Both loves each other.",
+    "sources": [
+      "Dagger Wolf_1.pdf",
+      "Grace vs Arzuna.pdf",
+      "s1 roadmap.pdf",
+      "straight s1-s5.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "david is basically the love interest of a newly joined character maliha.Both loves each other.",
+      "Maliha lifts a trembling hand, forming a small shimmer of healing light. It fizzles.",
+      "that was david and maliha intro after that we see maliha is healing his injury.(reaviling both their abilities)",
+      "Arzuna kills Maliha, ending love corrupted by grief."
+    ],
+    "conflicts": [
+      "role conflict: 'Lover' vs 'healer' (Grace vs Arzuna.pdf)",
+      "role conflict: 'Lover' vs 'Healer' (s1 roadmap.pdf)",
+      "status conflict: 'Alive' vs 'Dead' (straight s1-s5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Marcello Corvani",
+    "alias": "Whale",
+    "role": "Modern spy",
+    "status": "Alive",
+    "description": "A former ECAP operative who quit and was trapped in the pocket dimension in 2005 around age 35–38, losing an eye in a fight with Alt David. An elite Navy scout known for his immense strength and lack of fear who later became an ECAP operative. An elite Navy scout known for terrifying bravery, insane physical strength, zero fear response, and unshakeable calm who fought a whale and later became an operative. A veteran military operative who recruits Orion and mentors him at ECAP.",
+    "quote": "Marcello Corvani (2005 era) Second known man to be trapped there. Trapped around age 35–38. He and Aeric meet inside the pocket dimension",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf",
+      "corvaniii.pdf",
+      "whale.freaking corvani.pdf",
+      "Whale and Beast meeting.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Marcello Corvani (2005 era) Second known man to be trapped there. Trapped around age 35–38. He and Aeric meet inside the pocket dimension",
+      "Before he became the cold, one-eyed spy you know today... before Stitch molded him into ECAP’s most dangerous young operative... Marcello Corvani served as an elite Navy scout",
+      "Marcello Corvani — younger, two-eyed, cigar in mouth, wearing a soaked leather jacket and steel-capped boots."
+    ],
+    "conflicts": [
+      "role conflict: 'Modern spy' vs 'Operative' (corvaniii.pdf)",
+      "role conflict: 'Modern spy' vs 'Elite Navy scout and operative' (whale.freaking corvani.pdf)",
+      "role conflict: 'Modern spy' vs 'Military operative' (Whale and Beast meeting.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Marco",
+    "alias": null,
+    "role": "Nullborn operative",
+    "status": "Dead",
+    "category": "Support",
+    "description": "A Nullborn warrior whose parents were murdered by Cesare Borgia, later killed protecting Ayesha.",
+    "quote": "Marco (sneering): “Smart. For a bastard.”",
+    "sources": [
+      "KHALID (2).pdf"
+    ],
+    "evidence_quotes": [
+      "Marco (sneering): “Smart. For a bastard.”"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Marufa",
+    "alias": null,
+    "role": "Balance bearer",
+    "status": "Alive",
+    "description": "Present-day counterpart who receives the Cube and uses it to nullify Jessy's ancient magic and tear down the barriers.",
+    "quote": "Marufa uses it not to destroy, but to nullify all of Jessy’s ancient magic, which resets nothing but instead tears down the barrier — revealing the hidden realms.",
+    "sources": [
+      "The start and the end (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Marufa uses it not to destroy, but to nullify all of Jessy’s ancient magic, which resets nothing but instead tears down the barrier — revealing the hidden realms."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Mashiho",
+    "alias": null,
+    "role": "Warrior",
+    "status": "Alive",
+    "description": "Warrior who joined Kazumi and Yoshiko in slaughtering the Kurohana clan.",
+    "quote": "also mashiho joins them.where these three killed the entire clan!",
+    "sources": [
+      "Slaughter of Kurohana clan -twin x Mashiho.pdf"
+    ],
+    "evidence_quotes": [
+      "also mashiho joins them.where these three killed the entire clan!"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Maverick",
+    "alias": null,
+    "role": null,
+    "status": null,
+    "description": "A character mentioned in whispers.",
+    "quote": "Maverick is whispered — not shown.",
+    "sources": [
+      "straight s1-s5.pdf"
+    ],
+    "evidence_quotes": [
+      "Maverick is whispered — not shown."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Mehnaz",
+    "alias": null,
+    "role": "Nullborn operative",
+    "status": "Dead",
+    "category": "Support",
+    "description": "A cynical yet capable Nullborn warrior who trained Khalid and was later killed during the cathedral massacre.",
+    "quote": "Mehnaz: “Cocky for someone tied up.”",
+    "sources": [
+      "KHALID (2).pdf"
+    ],
+    "evidence_quotes": [
+      "Mehnaz: “Cocky for someone tied up.”"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Mizan",
+    "alias": null,
+    "role": "Antagonist",
+    "status": "Alive",
+    "category": "Antagonist",
+    "description": "A village boy who initially supported Zaan but later betrayed and killed Shina out of fear and mob mentality.",
+    "quote": "Final Turn: Betrayed and stabbed Shina and Grandma due to fear, manipulated by the mob mentality.",
+    "sources": [
+      "ZAAN  (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Final Turn: Betrayed and stabbed Shina and Grandma due to fear, manipulated by the mob mentality."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Nasab ibn Khalil",
+    "alias": null,
+    "role": "Officer of the Ottoman elite, father of Khalid",
+    "status": "Dead",
+    "category": "Support",
+    "description": "A feared and praised Ottoman officer, husband of Ayesha, and father of Khalid, later assassinated in his home.",
+    "quote": "Nasab ibn Khalil, an officer of the Ottoman elite — the lion of the court, feared and praised — was now crawling, trembling, bleeding out in his own home.",
+    "sources": [
+      "KHALID (2).pdf"
+    ],
+    "evidence_quotes": [
+      "Nasab ibn Khalil, an officer of the Ottoman elite — the lion of the court, feared and praised — was now crawling, trembling, bleeding out in his own home."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Nawshin",
+    "alias": "Ravenblade",
+    "role": "Trainer",
+    "status": "Alive",
+    "description": "A mentor providing refuge and training to Saya.",
+    "quote": "After Saya leaves DEW, she finds refuge under Nawshin (Ravenblade), training to sharpen her instincts and clear her conscience.",
+    "sources": [
+      "The name is billy (1).pdf"
+    ],
+    "evidence_quotes": [
+      "After Saya leaves DEW, she finds refuge under Nawshin (Ravenblade), training to sharpen her instincts and clear her conscience."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Niharo",
+    "alias": null,
+    "role": "Mastermind",
+    "status": "Alive",
+    "description": "Source of a cosmic-level threat and whose logic weakens when Nyxia kills Alter David. The child of two scientists born with Freya's assistance. A boy who developed fire abilities from a secret liquid experiment after his parents were killed. The true mastermind behind the plot involving the stepmother, waiting for the real vessel with all elements to rise. Villain who reorganizes in Season 4. Niharo was born at the start of the niharo event, and after some years Arthur was born. A hero serving the new, corrupted Sentinels under the authority.",
+    "quote": "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war",
+    "sources": [
+      "clarification 2.pdf",
+      "Freya and arthur_1.pdf",
+      "Niharo stroy basic plot.pdf",
+      "Nilanjona’s Arc – Origin of the Water Guardian.pdf",
+      "straight s1-s5.pdf",
+      "timeline dorian khalid freya (1).pdf",
+      "zayn and elizah (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war",
+      "so freya helped him giving birth their child (niharo) in exchange of helping them hatching the egg.",
+      "Niharo is a character who's father used to serve govt.but in that era science seemed like blackmagic.",
+      "The real vessel — the one with all elements — will rise one day (hint at Niharo).",
+      "The villains reorganize: Niharo steps forward.",
+      "where at first niharo borns and after some years arthur borned.",
+      "the new sentinels by the authority.where we see niharo and more heros from new sentinels who are not saint like the og sentinels"
+    ],
+    "conflicts": [
+      "role conflict: 'Mastermind' vs 'Villain' (straight s1-s5.pdf)",
+      "role conflict: 'Mastermind' vs 'Sentinel' (zayn and elizah (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Nilanjona",
+    "alias": null,
+    "role": "Water Guardian",
+    "status": "Alive",
+    "description": "One of the resilient female characters in the universe. Nilanjona grew up with a fractured family and abuse from her stepmother, later discovering her destiny as the next Water Guardian and reuniting with her real mother. Accepted guardianship before stepping away.",
+    "quote": "Nyxia Yoshiko Grace Nilanjona Ravenblade Even Arzuna (from the other side)",
+    "sources": [
+      "clarification 2.pdf",
+      "Nilanjona’s Arc – Origin of the Water Guardian.pdf",
+      "straight s1-s5.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Nyxia Yoshiko Grace Nilanjona Ravenblade Even Arzuna (from the other side)",
+      "Nilanjona’s Arc – Origin of the Water Guardian Early Life & Bonds Grew up in Saidpur with a fractured family",
+      "Nilanjona accepts guardianship and steps away."
+    ],
+    "conflicts": [
+      "status conflict: 'Alive' vs 'Retired' (straight s1-s5.pdf)",
+      "role conflict: 'Water Guardian' vs 'Guardian' (straight s1-s5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Norman",
+    "alias": "Norman the Paleborne",
+    "role": "Vampire, Villain",
+    "status": "Alive",
+    "description": "Framed as a killer by Elizabeth Pristine, becoming Norman the Paleborne. Originally an anti-hero who suffered betrayal by his companions, he was manipulated by Elizabeth Pristine until he embraced a villainous path, becoming the Paleborn. Fearless fighter with resonance reading abilities who was cursed with demonic blood by Khalid in a brutal lower quarter alleyway battle. Norman was turned into a vampire first by Khalid.",
+    "quote": "She frames Norman as the killer, fakes “saving” him, and pushes him into the point-of-no-return.",
+    "sources": [
+      "canon events.pdf",
+      "Norman and pristine outline .pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf",
+      "timeline dorian khalid freya (1).pdf"
+    ],
+    "category": "Protagonist",
+    "evidence_quotes": [
+      "She frames Norman as the killer, fakes “saving” him, and pushes him into the point-of-no-return.",
+      "from that moment a new villain awoke.norman the paleborn.and he shook hand with khalid again.",
+      "You hit harder than the myths say.",
+      "where he turns norman a vampire first ,then john and liam defeats him brutally"
+    ],
+    "conflicts": [
+      "role conflict: 'Vampire, Villain' vs 'Fighter' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Nur",
+    "alias": null,
+    "role": "Demon child",
+    "status": "Alive",
+    "category": "Antagonist",
+    "description": "Born by Mephistopheles' offering, direct descendant of the demonic clan with pure demonic blood. Nur is biologically demonic by birth, resulting from a demonic deal in 2003 where his father traded his life for Nur's existence. He chose humanity and ideological restraint over using his demonic instincts and power. One of Ethan's two students who participated in the fight against Elizah.",
+    "quote": "Nur as the demon child, born by maphistoes offering is direct decendent of that clan.",
+    "sources": [
+      "Inhertances .pdf",
+      "Nur.pdf",
+      "zayn and elizah (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Nur as the demon child, born by maphistoes offering is direct decendent of that clan.",
+      "Nur is not like Khalid (contract-made). Not like Ethan/Elizah (fractured psyche + bloodline). Nur is biologically demonic by birth.",
+      "the broken sentinels in season 2 partially fights him.including ethans two student.nur and Aariz."
+    ],
+    "conflicts": [
+      "role conflict: 'Demon child' vs 'Next-gen main character' (Nur.pdf)",
+      "role conflict: 'Demon child' vs 'Student' (zayn and elizah (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Nusrat",
+    "alias": null,
+    "role": "Future sword inheritor",
+    "status": null,
+    "category": "Support",
+    "description": "Unrelated by blood to the Al-Ahds but destined to inherit Anna’s sword after Nawshin.",
+    "quote": "Nusrat — unrelated by blood but destined to inherit Anna’s sword after Nawshin.",
+    "sources": [
+      "Inhertances .pdf"
+    ],
+    "evidence_quotes": [
+      "Nusrat — unrelated by blood but destined to inherit Anna’s sword after Nawshin."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Nyxia",
+    "alias": "None",
+    "role": "Little-sister figure",
+    "status": "Alive",
+    "description": "A figure whose abilities ignore physical forms. An individual capable of sensing abnormal energy. Nyxia chooses revenge without losing control, acting closer to an executioner than a monster. Treated as a little sister by David. A person Ethan attempted to protect during his trial. A person loved by Elizah, who frequently flirts with her. A member of the Sentinels who supported Ethan during his public trial and faced persecution for her loyalty. A host of balance power who was feared before being understood, proving restraint is stronger than purity. A character who manifests power she does not understand, resulting in aether leaks. The current Balance host who understands the dark history of her predecessor and chooses restraint over annihilation. Nyxia is loved a lot by Elizah, who is very flirty to her.",
+    "quote": "❌ Nyxia ignores physical forms",
+    "sources": [
+      "AARIZ MADDOX Ability.pdf",
+      "aeric, corvani and elizah (1).pdf",
+      "clarification 2.pdf",
+      "Dagger Wolf_1.pdf",
+      "Death of Ethan.pdf",
+      "elizah things (1).pdf",
+      "First season structure (1).pdf",
+      "see characters.pdf",
+      "straight s1-s5.pdf",
+      "Truth of asetra incident.pdf",
+      "Untitled document.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "❌ Nyxia ignores physical forms",
+      "A rift opens. Nyxia senses abnormal energy.",
+      "Nyxia choosing revenge without losing control — why this matters Up until now, power in your universe has followed this rule: Emotion → loss of control → catastrophe",
+      "also he sees nyxia as his little sister.even though it's also not highly showed in the story.",
+      "When Ethan finally erupts to protect Nyxia, Stitch whispers to an aide: “Note the surge. Mark the pattern before sedation.”",
+      "he loves nyxia a lot.and also very flirty to her.",
+      "And when Nyxia defends him, and they target her too, Ethan’s rage finally breaks his restraint.",
+      "Nyxia isn’t “chosen one.” She’s a host. Balance power never asked her permission Nullborn wanted to contain her DEW wanted to weaponize her Asetra once was what Nyxia is becoming",
+      "Nyxia manifests power she doesn’t understand — aether leaks, not mastery.",
+      "You didn’t turn Nyxia into “humans bad → genocide mode.” You let her see the rot... and still choose restraint.",
+      "he loves nyxia a lot.and also very flirty to her..he is more like tyler from fight club."
+    ],
+    "conflicts": [
+      "role conflict: 'Little-sister figure' vs 'Sentinel' (First season structure (1).pdf)",
+      "role conflict: 'Little-sister figure' vs 'Host of Balance power' (see characters.pdf)",
+      "role conflict: 'Little-sister figure' vs 'Current Balance host' (Truth of asetra incident.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Nyxia Vale",
+    "alias": null,
+    "role": "Sentinel",
+    "status": "Alive",
+    "description": "A member of the Sentinels who fights alongside Saya and possesses shadow-based powers.",
+    "quote": "Nyxia Vale, the heart of the Sentinels’ emotional core — light and shadow in one body.",
+    "sources": [
+      "The name is billy (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Nyxia Vale, the heart of the Sentinels’ emotional core — light and shadow in one body."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Orion",
+    "alias": "The Beast Child",
+    "role": "Rookie soldier",
+    "status": "Alive",
+    "description": "A recruit who survived the initial expedition into The Silence, eventually witnessing the existence of the beast-beings. A sixteen-year-old boy with sharp instincts who is rescued from a traveling circus.",
+    "quote": "Orion. Barely twenty-one. A rookie, freshly recruited. His name echoed through the ranks like an insult.",
+    "sources": [
+      "Divine beast prologe.pdf",
+      "Whale and Beast meeting.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Orion. Barely twenty-one. A rookie, freshly recruited. His name echoed through the ranks like an insult.",
+      "Inside sits ORION, 16 years old — shirtless, bruised, hair messy, hands chained lightly, not because he’s dangerous... but because the circus wants him to look dangerous."
+    ],
+    "conflicts": [
+      "role conflict: 'Rookie soldier' vs 'Recruit' (Whale and Beast meeting.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Piedro",
+    "alias": null,
+    "role": "Beggar-turned-renegade",
+    "status": "Alive",
+    "category": "Anti-Hero",
+    "description": "A beggar-turned-renegade corrupted by Anna's stolen sword who later reforms and marries Issabela. Elderly man who attempted to protect his grandson at Issabela's grave before being killed by Khalid. An old man who rushed in to save Issabela's son before being decapitated by Khalid.",
+    "quote": "The thief? A beggar-turned-renegade: Piedro.",
+    "sources": [
+      "Issabela.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf",
+      "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf"
+    ],
+    "evidence_quotes": [
+      "The thief? A beggar-turned-renegade: Piedro.",
+      "Run, boy!",
+      "An old man rushed in — Piedro, now grey and fragile. “Run, boy!” The boy froze. Khalid turned slowly, grinned... Then sliced off Piedro’s head in a flash, let it roll in front of the child."
+    ],
+    "conflicts": [
+      "status conflict: 'Alive' vs 'Dead' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf)",
+      "role conflict: 'Beggar-turned-renegade' vs 'Guardian' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf)",
+      "category conflict: 'Anti-Hero' vs 'Support' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf)",
+      "status conflict: 'Alive' vs 'Dead' (⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf)",
+      "role conflict: 'Beggar-turned-renegade' vs 'Protector' (⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf)",
+      "category conflict: 'Anti-Hero' vs 'Support' (⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Pride",
+    "alias": null,
+    "role": "Antagonist",
+    "status": "Dead",
+    "description": "Father of Mashiho, killed by Mashiho in a fight.",
+    "quote": "mashiho himself having a very intense fight with his own father pride.these two fights were brutal and very intense.",
+    "sources": [
+      "Slaughter of Kurohana clan -twin x Mashiho.pdf"
+    ],
+    "evidence_quotes": [
+      "mashiho himself having a very intense fight with his own father pride.these two fights were brutal and very intense."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Prime Nyxia",
+    "alias": "Nyxia",
+    "role": "Hero",
+    "status": "Dead",
+    "description": "A hero from Earth Prime who died attempting to prove that humanity had changed since Asetra's time.",
+    "quote": "prime nyxia died tried to prove that huminty is changed than asetras time",
+    "sources": [
+      "Alt david.pdf"
+    ],
+    "evidence_quotes": [
+      "prime nyxia died tried to prove that huminty is changed than asetras time"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Pristine",
+    "alias": null,
+    "role": null,
+    "status": null,
+    "description": "An individual who confronts Elizah regarding his bloodline and his status as a demon. Thrown away by Gabriel, later taken by Khalid, and subsequently becoming part of the Norman thread. Pristine was thrown by Gabriel, got taken by Khalid, and later came into Normans life after she became an adult. Pristine confronts Elizah about carrying the blood of Khalid and betraying his own blood.",
+    "quote": "at some point he faces pristine.where she says,elizah carrying same blood og khalid.he is a demon.",
+    "sources": [
+      "elizah things (1).pdf",
+      "Freya writing suggestion.pdf",
+      "timeline dorian khalid freya (1).pdf",
+      "Untitled document.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "at some point he faces pristine.where she says,elizah carrying same blood og khalid.he is a demon.",
+      "Since you locked: Gabriel throws Pristine away Khalid later takes Pristine and Pristine later becomes part of the Norman thread Then Pristine in Freya’s story is not just a side detail.",
+      "and then when gabriel throws pristine,and then khalid got her.after pristine got adult then that time khalid faces norman",
+      "where she says,elizah carrying same blood og khalid.he is a demon.why he is betraying his own blood."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Project Voren",
+    "alias": "The Stalker",
+    "role": "Villain",
+    "status": "Dead",
+    "description": "A beast/demonic hybrid mutant and former DEW experiment subject who became mentally unstable and obsessed with Saya.",
+    "quote": "Mutation Codename: Project Voren — classified Beast/Demonic Hybrid Mutant Faction: Former DEW experiment subject Status: Escaped (considered highly unstable)",
+    "sources": [
+      "The name is billy (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Mutation Codename: Project Voren — classified Beast/Demonic Hybrid Mutant Faction: Former DEW experiment subject Status: Escaped (considered highly unstable)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Rahim Al-Ahd",
+    "alias": null,
+    "role": "Head of family",
+    "status": null,
+    "category": "Support",
+    "description": "Father of Issabela and head of the family in her era.",
+    "quote": "Rahim Al-Ahd — father of Issabela, head of the family in her era.",
+    "sources": [
+      "Inhertances .pdf"
+    ],
+    "evidence_quotes": [
+      "Rahim Al-Ahd — father of Issabela, head of the family in her era."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Rahim Ibn Suleiman",
+    "alias": null,
+    "role": "Support",
+    "status": "Alive",
+    "category": "Support",
+    "description": "A patient and selfless man originally arranged to marry Raisa, who offers emotional support.",
+    "quote": "The man Raisa was arranged to marry. Though he resembled Zaan slightly in voice and manner, he never tried to \"replace\" Zaan.",
+    "sources": [
+      "ZAAN  (1).pdf"
+    ],
+    "evidence_quotes": [
+      "The man Raisa was arranged to marry. Though he resembled Zaan slightly in voice and manner, he never tried to \"replace\" Zaan."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Raijan",
+    "alias": null,
+    "role": "Antagonist",
+    "status": "Alive",
+    "category": "Antagonist",
+    "description": "A village boy who initially supported Zaan but eventually turned against him due to mob mentality.",
+    "quote": "Final Turn: Betrayed and stabbed Shina and Grandma due to fear, manipulated by the mob mentality.",
+    "sources": [
+      "ZAAN  (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Final Turn: Betrayed and stabbed Shina and Grandma due to fear, manipulated by the mob mentality."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Raisa bint Khalid",
+    "alias": null,
+    "role": "Support",
+    "status": "Dead",
+    "category": "Protagonist",
+    "description": "Zaan's first love and a brilliant student of science who helps him in his forbidden rituals before ultimately dying trying to help him.",
+    "quote": "Zaan’s first love, the only one who ever entered his lab and stood beside him in a divine scientific ritual.",
+    "sources": [
+      "ZAAN  (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Zaan’s first love, the only one who ever entered his lab and stood beside him in a divine scientific ritual."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ramij",
+    "alias": null,
+    "role": "Spy and guardian",
+    "status": "Dead",
+    "category": "Support",
+    "description": "An operative who aided Khalid and Ayesha, father of Issabela, and former protector of the pendant before being killed by a spear.",
+    "quote": "A spear flew past him — and landed straight in Ramij’s chest. Ramij (gasping): “RUN!”",
+    "sources": [
+      "KHALID (2).pdf"
+    ],
+    "evidence_quotes": [
+      "A spear flew past him — and landed straight in Ramij’s chest. Ramij (gasping): “RUN!”"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ramiz",
+    "alias": null,
+    "role": "Guardian",
+    "status": "Dead",
+    "category": "Support",
+    "description": "Belonged to Al-Ahd and acted as a Guardian of a fragment of the Cube in his era.",
+    "quote": "Ramiz (Al-Ahd) and Agnus (El-Mansur) acted as Guardians of fragments of the Cube in their era.",
+    "sources": [
+      "Inhertances .pdf"
+    ],
+    "evidence_quotes": [
+      "Ramiz (Al-Ahd) and Agnus (El-Mansur) acted as Guardians of fragments of the Cube in their era."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Ramiz Duskmoor",
+    "alias": null,
+    "role": null,
+    "status": null,
+    "category": null,
+    "description": "A member of the Duskmoor line associated with berserkers.",
+    "quote": "Al-Ahd (sealing, secrecy) → Ramiz Duskmoor (berserkers) → Silas Eldercrest (magic, seals) → Liam’s line",
+    "sources": [
+      "infos.pdf"
+    ],
+    "evidence_quotes": [
+      "Al-Ahd (sealing, secrecy) → Ramiz Duskmoor (berserkers) → Silas Eldercrest (magic, seals) → Liam’s line"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Rifat",
+    "alias": null,
+    "role": "Soldier",
+    "status": "Dead",
+    "description": "A paracommandos soldier who protected Grace during the outbreak and possessed a ring he had previously tried to gift her. A highly skilled soldier with exceptional physical strength who was captured by the DEW.",
+    "quote": "the soldier was none other the rifat.he called her at the end to give her that ring.may be propose her!",
+    "sources": [
+      "Grace basic plot (1).pdf",
+      "Vanguard x (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "the soldier was none other the rifat.he called her at the end to give her that ring.may be propose her!",
+      "rifat is a trained soldier who actually trained his body that way that if that injury happened to any normal human,they would die.but he was still alive."
+    ],
+    "conflicts": [
+      "status conflict: 'Dead' vs 'Alive' (Vanguard x (1).pdf)",
+      "role conflict: 'Soldier' vs 'Trained soldier' (Vanguard x (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Robi",
+    "alias": "The Gale Warden",
+    "role": null,
+    "status": null,
+    "description": "A split soul born of war and refined by silence who shapes and controls blood as a refined discipline.",
+    "quote": "ROBI — THE GALE WARDEN (Split soul: born of war, refined by silence)",
+    "sources": [
+      "Abilities (1) (1).pdf"
+    ],
+    "evidence_quotes": [
+      "ROBI — THE GALE WARDEN (Split soul: born of war, refined by silence)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Robin",
+    "alias": null,
+    "role": "Warrior",
+    "status": "Alive",
+    "description": "The one who shattered the throne to prevent it from being used by others.",
+    "quote": "And so, with blood and wind, Robin shattered it into dust. No words. No rage. No acknowledgment.",
+    "sources": [
+      "The throne legacy.pdf"
+    ],
+    "evidence_quotes": [
+      "And so, with blood and wind, Robin shattered it into dust. No words. No rage. No acknowledgment."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Rohan Aldercrest",
+    "alias": "The Arcane Tactician",
+    "role": "Arcane tactician",
+    "status": null,
+    "category": "Protagonist",
+    "description": "Inherits the magical and strategic brilliance of the Aldercrest family.",
+    "quote": "Rohan Aldercrest — “The Arcane Tactician,” inherits the magical and strategic brilliance of the family.",
+    "sources": [
+      "Inhertances .pdf"
+    ],
+    "evidence_quotes": [
+      "Rohan Aldercrest — “The Arcane Tactician,” inherits the magical and strategic brilliance of the family."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Rowan",
+    "alias": "Rowan Duskmoor",
+    "role": "Protagonist",
+    "status": "Alive",
+    "description": "A severely injured warrior who refuses to yield to Arthur and roars in defiance. A powerhouse fighter characterized by extreme durability and the use of a heavy chain weapon imbued with blue flame. Character unable to lift Silas's body.",
+    "quote": "Rowan moves. His fingers twitch first. Then his shoulder jerks as he forces himself upright.",
+    "sources": [
+      "Arthur vs Rowan.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf",
+      "straight s1-s5.pdf"
+    ],
+    "category": "Protagonist",
+    "evidence_quotes": [
+      "Rowan moves. His fingers twitch first. Then his shoulder jerks as he forces himself upright.",
+      "The links wrap the hybrid's arm mid-charge with the speed of something that has been thrown correctly, and Rowan pulls. The physics are simple: the hybrid's momentum is now Rowan's to direct.",
+      "Rowan cannot lift Silas’s body."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Saery",
+    "alias": "Grandmother",
+    "role": null,
+    "status": "Dead",
+    "description": "Nilanjona's loving grandmother who supported her and orchestrated a journey to lead Nilanjona to her real destiny.",
+    "quote": "Loved deeply by her Grandmother(Saery) (the only true supporter).",
+    "sources": [
+      "Nilanjona’s Arc – Origin of the Water Guardian.pdf"
+    ],
+    "evidence_quotes": [
+      "Loved deeply by her Grandmother(Saery) (the only true supporter)."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Sammam",
+    "alias": null,
+    "role": "Mentor",
+    "status": "Alive",
+    "description": "An associate of Ariyan who warned him about the nature of mercy.",
+    "quote": "Sammam warned him: “If Robin wanted you gone, you’d be dust already. Mercy isn’t weakness. It’s a blade he chose not to draw.”",
+    "sources": [
+      "The throne legacy.pdf"
+    ],
+    "evidence_quotes": [
+      "Sammam warned him: “If Robin wanted you gone, you’d be dust already. Mercy isn’t weakness. It’s a blade he chose not to draw.”"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Samuel",
+    "alias": "Ghost-01",
+    "role": "Fighter",
+    "status": "Alive",
+    "description": "Fighter who knows how to use any weapon or learns it very fast. Character described as too reactive to hold Kara Yazgı. A highly skilled martial artist and former friend of Xinea who joins DEW and operates as a brutal vigilante. An anti-hero who is brutal and loyal to no banner, questioning ECAP and DEW. A DEW operative who captured Project Voren during a civilian massacre. Samuel leaves ecap after sentinel gets formed and later leaves dew after ethan dies because of stitch.",
+    "quote": "yeah,like samuel.but unlike samuel who knows how to use any weapon.even if he doesn't he learns it very fast.",
+    "sources": [
+      "Dagger Wolf_1.pdf",
+      "Kara Yazgi.pdf",
+      "s1 roadmap.pdf",
+      "straight s1-s5.pdf",
+      "The name is billy (1).pdf",
+      "timeline dorian khalid freya (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "yeah,like samuel.but unlike samuel who knows how to use any weapon.even if he doesn't he learns it very fast.",
+      "Samuel → too reactive",
+      "samuel becomes more angry at ethan,cause his dreams of joining sentinels to help people was destroyed by ethan and the same guy whok was xinea with.",
+      "Samuel (Ghost-01) is framed as an anti-hero: brutal, loyal to no banner, questioning ECAP and DEW.",
+      "Captured by Samuel (Ghost-01) during a civilian massacre.",
+      "Samuel leaves ecap after sentinel got formed."
+    ],
+    "conflicts": [
+      "role conflict: 'Fighter' vs 'Solo Vigilante' (s1 roadmap.pdf)",
+      "role conflict: 'Fighter' vs 'Anti-hero' (straight s1-s5.pdf)",
+      "role conflict: 'Fighter' vs 'DEW operative' (The name is billy (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Samuel Sterling",
+    "alias": "Ghost-01",
+    "role": "Agent",
+    "status": "Alive",
+    "description": "A lethal, highly disciplined agent capable of weaponizing his necktie; he hunts experiments and tracks specific targets with extreme precision. A calculated operative who utilizes a soft-state tie capable of hardening into a razor-sharp blade, whip, or spear in combat. A trained tactical agent who uses a hardened fabric tie as a combat weapon and leads operations against anomalies.",
+    "quote": "Samuel Sterling. Ghost-01. He didn’t glance back at her. Didn’t check if she was alive. Didn’t waste motion. His eyes stayed on the giant.",
+    "sources": [
+      "Arzuna x samuel.pdf",
+      "Samuel x Arzuna.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf"
+    ],
+    "category": "Protagonist",
+    "evidence_quotes": [
+      "Samuel Sterling. Ghost-01. He didn’t glance back at her. Didn’t check if she was alive. Didn’t waste motion. His eyes stayed on the giant.",
+      "Samuel Sterling. Ghost-01.",
+      "One man playing cards at four in the morning."
+    ],
+    "conflicts": [
+      "role conflict: 'Agent' vs 'Hunter' (Samuel x Arzuna.pdf)",
+      "role conflict: 'Agent' vs 'Redline tactical operative' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Saya",
+    "alias": null,
+    "role": "Agent",
+    "status": "Alive",
+    "description": "A precise operative trained by Ravenblade who assists Samuel in tracking targets. A former associate of Project Voren who seeks refuge and training under Ravenblade.",
+    "quote": "Saya stepped out of the shadow like she’d always been there. Slim frame. Calm posture. Eyes sharp enough to cut distance itself.",
+    "sources": [
+      "Arzuna x samuel.pdf",
+      "The name is billy (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Saya stepped out of the shadow like she’d always been there. Slim frame. Calm posture. Eyes sharp enough to cut distance itself.",
+      "After Saya leaves DEW, she finds refuge under Nawshin (Ravenblade), training to sharpen her instincts and clear her conscience."
+    ],
+    "conflicts": [
+      "role conflict: 'Agent' vs 'Refugee' (The name is billy (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Shina",
+    "alias": null,
+    "role": "Host",
+    "status": null,
+    "description": "Her body was hijacked by Jessy because her physical form was strong enough to host her soul.",
+    "quote": "So she hijacked Shina’s body, which was strong enough to host her.",
+    "sources": [
+      "The start and the end (1).pdf"
+    ],
+    "evidence_quotes": [
+      "So she hijacked Shina’s body, which was strong enough to host her."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Shina Nasrin",
+    "alias": null,
+    "role": "Zaan's companion",
+    "status": "Dead",
+    "description": "An abandoned woman who shared a profound, wordless love with Zaan. A gentle, humble woman who falls in love with Zaan while living in hiding and is ultimately murdered by villagers.",
+    "quote": "Shina Nasrin Age: 24 Appearance: Milk-white skin, long black hair, naturally beautiful, with soft expressive features.",
+    "sources": [
+      "Trilogy of zaan, khalid and issabela (1).pdf",
+      "ZAAN  (1).pdf"
+    ],
+    "category": "Protagonist",
+    "evidence_quotes": [
+      "Shina Nasrin Age: 24 Appearance: Milk-white skin, long black hair, naturally beautiful, with soft expressive features.",
+      "Unmarried pregnant woman who was taken in by Grandma Aysha. Eventually falls in love with Zaan, who accepts her and her unborn child."
+    ],
+    "conflicts": [
+      "role conflict: 'Zaan's companion' vs 'Support' (ZAAN  (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Silas",
+    "alias": "Silas Duskmoor",
+    "role": "Solo fighter",
+    "status": "Alive",
+    "description": "The original owner of the chains used by Rowan. Target of Arthur's revenge based on the false history of Gabriel and Freya's deaths. A solo fighter wielding blue flames who has no interest in the organization and sought to address the threat he perceived in Elizabeth Pristine. A legendary figure who dies at Arthur's hands.",
+    "quote": "Silas’s chains. The ones given not as a weapon—but as a burden.",
+    "sources": [
+      "Arthur vs Rowan.pdf",
+      "Freya writing suggestion.pdf",
+      "Norman and pristine outline .pdf",
+      "straight s1-s5.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Silas’s chains. The ones given not as a weapon—but as a burden.",
+      "that becomes his revenge motive against Silas So Arthur’s story depends on Freya’s story ending in a way that leaves behind narrative poison.",
+      "it was silas.he wasn't in that org.as we know he was a solo man,blue flame in his hand.",
+      "Silas Duskmoor dies at Arthur’s hands. Sick, exhausted, but unyielding."
+    ],
+    "conflicts": [
+      "status conflict: 'Alive' vs 'Dead' (straight s1-s5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Silas Duskmoor",
+    "alias": null,
+    "role": "Right hand of demon god Diablo",
+    "status": "Alive",
+    "description": "Exhibits extroverted authority, loud dominance, savage humor, and fights like a storm. Member of the Duskmoor bloodline, an executioner known for spirit-infused blue flame. A legendary hunter whose divine blue flame served as the ultimate weapon to purify demonic corruption from dragons. An extroverted fighter whose presence and combat style evoke a beast-like intensity that serves as an ancestral threat to dragons.",
+    "quote": "Silas = extroverted authority, loud dominance, savage humor, sometimes “acts dumb” on purpose, fights like a storm with big explosive movement.",
+    "sources": [
+      "canon events.pdf",
+      "Diablo war first and 2nd.pdf",
+      "Dragons and their cons.pdf",
+      "silas and agnus behave.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Silas = extroverted authority, loud dominance, savage humor, sometimes “acts dumb” on purpose, fights like a storm with big explosive movement.",
+      "Silas Duskmoor To dragons, he was ancestral nightmare. The Duskmoor bloodline carries spirit-infused blue flame. A legacy born from dragon betrayal and spirit vengeance.",
+      "Silas Duskmoor’s divine blue flame = the dragons’ bane. It purified their demonic corruption.",
+      "Silas Duskmoor Extroverted Authority | Expressive Violence Public-facing presence Silas occupies space. He laughs loud, speaks freely, mocks openly."
+    ],
+    "conflicts": [
+      "status conflict: 'Alive' vs 'Legend' (Dragons and their cons.pdf)",
+      "role conflict: 'Right hand of demon god Diablo' vs 'Dragon hunter' (Dragons and their cons.pdf)",
+      "role conflict: 'Right hand of demon god Diablo' vs 'Extroverted authority figure' (silas and agnus behave.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Silas Eldercrest",
+    "alias": null,
+    "role": null,
+    "status": null,
+    "category": null,
+    "description": "Associated with magic and seals within the clan hierarchy.",
+    "quote": "Al-Ahd (sealing, secrecy) → Ramiz Duskmoor (berserkers) → Silas Eldercrest (magic, seals) → Liam’s line",
+    "sources": [
+      "infos.pdf"
+    ],
+    "evidence_quotes": [
+      "Al-Ahd (sealing, secrecy) → Ramiz Duskmoor (berserkers) → Silas Eldercrest (magic, seals) → Liam’s line"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Sloth",
+    "alias": null,
+    "role": "Antagonist",
+    "status": "Dead",
+    "description": "Brother of Arashi who killed him, later killed by Kazumi and Yoshiko.",
+    "quote": "where yoshiko and kazumi ended sloth",
+    "sources": [
+      "Slaughter of Kurohana clan -twin x Mashiho.pdf"
+    ],
+    "evidence_quotes": [
+      "where yoshiko and kazumi ended sloth"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Soa",
+    "alias": null,
+    "role": null,
+    "status": "Dead",
+    "description": "A rare host of Athena's Judgement who died by suicide due to intense training pressure.",
+    "quote": "Soa was trained. Pressured. Burdened. She broke. Her suicide wasn’t just tragedy — it was the philosophical wound that shaped Dorian forever.",
+    "sources": [
+      "Diablo war first and 2nd.pdf"
+    ],
+    "evidence_quotes": [
+      "Soa was trained. Pressured. Burdened. She broke. Her suicide wasn’t just tragedy — it was the philosophical wound that shaped Dorian forever."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Soa Aldercrest",
+    "alias": null,
+    "role": "Athena’s Judgement host",
+    "status": "Dead",
+    "description": "Suffered a stolen childhood due to Aldercrest desperation and died by suicide.",
+    "quote": "Aldercrest desperation pressured Soa Aldercrest (Athena’s Judgement host) → childhood stolen → suicide → Dorian’s ideological fracture.",
+    "sources": [
+      "canon events.pdf"
+    ],
+    "evidence_quotes": [
+      "Aldercrest desperation pressured Soa Aldercrest (Athena’s Judgement host) → childhood stolen → suicide → Dorian’s ideological fracture."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Steven Aldercrest",
+    "alias": null,
+    "role": "Guardian of the Architect's Cube",
+    "status": "Dead",
+    "category": "Protagonist",
+    "description": "Scholar and keeper of the Aldercrest estate who prepared for Khalid's attack for eleven years and sacrificed his life to delay him.",
+    "quote": "I've known you were coming for eleven years. The specific evening was less certain.",
+    "sources": [
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-3.pdf"
+    ],
+    "evidence_quotes": [
+      "I've known you were coming for eleven years. The specific evening was less certain."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Stitch",
+    "alias": null,
+    "role": "Experimenter",
+    "status": "Alive",
+    "description": "Left ECAP to join DEW in anger after Victor's son died, believing heroes must be controlled, and later tortured Ethan. An experimenter utilized by Alt David as a stepping stone to advance memory and mind alteration techniques. The entity responsible for separating Ethan and Elizah into distinct bodies. The corrupt former leader of ECAP who operated DEW secretly. A recruiter and operative for ECAP who acts as a mentor to Ethan. A deceased figure responsible for creating augmented bone and metal human creations. A character who begins showing an obsession with control. An individual who molded Marcello Corvani into ECAP's most dangerous young operative. The leader of ECAP who evaluates the recruitment of Orion.",
+    "quote": "Stitch leaves ECAP and joins DEW in anger He thinks heroes MUST be controlled now.",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf",
+      "Alt david.pdf",
+      "Ethan and his past bonds .pdf",
+      "rise of ayaan (1).pdf",
+      "s1 roadmap.pdf",
+      "Samuel x Arzuna.pdf",
+      "straight s1-s5.pdf",
+      "whale.freaking corvani.pdf",
+      "Whale and Beast meeting.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Stitch leaves ECAP and joins DEW in anger He thinks heroes MUST be controlled now.",
+      "He isn’t helping Stitch for ideology. He’s using him as a stepping stone.",
+      "After Stitch separates Ethan and Elizah... it feels natural that she already understands Elizah.",
+      "as ecap is about science and tech.he was the cheif authority there after stitch left ecap and made dew secretly.",
+      "Stitch-Don't be shocked,ethan.get used to this place.",
+      "Stitch is dead, but his sins have legs.",
+      "The cracks Stitch starts showing his control obsession.",
+      "before Stitch molded him into ECAP’s most dangerous young operative... Marcello Corvani served as an elite Navy scout",
+      "STITCH: “You brought me a child?” CORVANI: “I brought you a soldier with a brain.”"
+    ],
+    "conflicts": [
+      "role conflict: 'Experimenter' vs 'Entity' (Ethan and his past bonds .pdf)",
+      "role conflict: 'Experimenter' vs 'Chief of ECAP' (rise of ayaan (1).pdf)",
+      "role conflict: 'Experimenter' vs 'ECAP Operative' (s1 roadmap.pdf)",
+      "status conflict: 'Alive' vs 'Dead' (Samuel x Arzuna.pdf)",
+      "role conflict: 'Experimenter' vs 'Leader of ECAP' (Whale and Beast meeting.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Tamim",
+    "alias": "The Dagger Wolf",
+    "role": "Dagger wielder",
+    "status": null,
+    "category": "Anti-Hero",
+    "description": "Dagger wielder who carries El-Mansur’s calculating ruthlessness. Received the Cube from Jubayer, opened the portal linking universes, and delivered the Cube to his present-day counterpart.",
+    "quote": "Tamim — dagger wielder (The Dagger Wolf), also carries El-Mansur’s calculating ruthlessness.",
+    "sources": [
+      "Inhertances .pdf",
+      "The start and the end (1).pdf"
+    ],
+    "evidence_quotes": [
+      "Tamim — dagger wielder (The Dagger Wolf), also carries El-Mansur’s calculating ruthlessness.",
+      "Jubayer later realizes Jessy is the culprit, ambushes her, and steals the Cube — passing it to Tamim. Tamim opens the portal that links universes and delivers the Cube to his present-day counterpart."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Tareq",
+    "alias": null,
+    "role": null,
+    "status": "Dead",
+    "description": "An infected survivor who turned into a zombie and was killed after falling from a mall building.",
+    "quote": "another guy,tareq turns into a zombie as he was also infected later",
+    "sources": [
+      "Grace basic plot (1).pdf"
+    ],
+    "evidence_quotes": [
+      "another guy,tareq turns into a zombie as he was also infected later"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Tedmond",
+    "alias": null,
+    "role": null,
+    "status": "Dead",
+    "description": "Presence helped force Diablo to retreat during the Diablo War. Silas's father, a formidable warrior who once challenged Diablo.",
+    "quote": "Tedmond’s presence + kid-Dorian’s “madness” aura + Norman’s fearlessness forced Diablo to retreat.",
+    "sources": [
+      "canon events.pdf",
+      "Diablo war first and 2nd.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Tedmond’s presence + kid-Dorian’s “madness” aura + Norman’s fearlessness forced Diablo to retreat.",
+      "Tedmond appeared in thay fight with out any invitation.his enterfearance made diablo shook!"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Tedmond Duskmoor",
+    "alias": "Tedmond",
+    "role": "Duskmoor",
+    "status": "Dead",
+    "description": "A powerful Duskmoor who defended Freya and her egg from Gabriel before being killed. A past member of the Duskmoor bloodline who established the family's legacy as dragon hunters.",
+    "quote": "he was one of the strongest duskmoor(tedmond duskmoor) who killed the grandpa who was one of the stong of his kind too.and later the father killed that duskmoor too.",
+    "sources": [
+      "Freya and arthur_1.pdf",
+      "silas and agnus behave.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "he was one of the strongest duskmoor(tedmond duskmoor) who killed the grandpa who was one of the stong of his kind too.and later the father killed that duskmoor too.",
+      "Tedmond Duskmoor proved dragons can be killed, hunted, and driven back."
+    ],
+    "conflicts": [
+      "status conflict: 'Dead' vs 'Legend' (silas and agnus behave.pdf)",
+      "role conflict: 'Duskmoor' vs 'Historical executioner' (silas and agnus behave.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "The Guardian",
+    "alias": null,
+    "role": "Liam's father",
+    "status": "Dead",
+    "category": "Support",
+    "description": "Liam's father and guardian who fought Khalid for the Architect's Cube before passing it to John.",
+    "quote": "The Guardian — Liam’s father — saw it coming. Khalid came to claim the Architect’s Cube. The Guardian and Liam fought with all they had.",
+    "sources": [
+      "⚔️🔥 “THE DEMON BEFORE THE STORM”.pdf"
+    ],
+    "evidence_quotes": [
+      "The Guardian — Liam’s father — saw it coming. Khalid came to claim the Architect’s Cube. The Guardian and Liam fought with all they had."
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Vanguard",
+    "alias": "Rifat",
+    "role": "Experimented soldier",
+    "status": "Alive",
+    "description": "Character described as too procedural to wield Kara Yazgı. A soldier experimented upon by DEW who shares the same traumatic history of torture as Ethan. Group from which Grace retires.",
+    "quote": "Vanguard → too procedural",
+    "sources": [
+      "Kara Yazgi.pdf",
+      "stitch vs elizah.pdf",
+      "straight s1-s5.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Vanguard → too procedural",
+      "When Ethan was captured, you said he was in one cell and Vanguard (Rifat) was being experimented in the next room.",
+      "Grace retires with Vanguard, mentally exhausted."
+    ],
+    "conflicts": [
+      "kind conflict: kept 'character' but also extracted as 'organization' (straight s1-s5.pdf)",
+      "status conflict: 'Alive' vs 'Active' (straight s1-s5.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Victor",
+    "alias": null,
+    "role": "ECAP Chairperson",
+    "status": "Alive",
+    "description": "Became ECAP Chairperson following his son's death, described as gentle and moral but too soft to stop Stitch's radical shift. A renowned scientist, creator of advanced robotics, and idol of Ayman who attempted to protect him from corruption within ECAP. The leader of the ECAP organization who recruits Ethan. An associate at ECAP who supports Corvani's decision to bring Orion.",
+    "quote": "Victor becomes ECAP Chairperson Gentle, moral, but too soft to stop Stitch's radical shift.",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf",
+      "rise of ayaan (1).pdf",
+      "s1 roadmap.pdf",
+      "Whale and Beast meeting.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Victor becomes ECAP Chairperson Gentle, moral, but too soft to stop Stitch's radical shift.",
+      "it's about ayaan /ayman.as you know he is a tech genius who in the first season was the guy in the chair,helping the sentinels with digital infos,weakness of enemies and analysing them.",
+      "stitch- meet the head of ecap,Victor.",
+      "Victor smiles: VICTOR: “He saw potential, Stitch. Isn’t that what you used to do?”"
+    ],
+    "conflicts": [
+      "status conflict: 'Alive' vs 'Dead' (rise of ayaan (1).pdf)",
+      "role conflict: 'ECAP Chairperson' vs 'Scientist' (rise of ayaan (1).pdf)",
+      "role conflict: 'ECAP Chairperson' vs 'Head of ECAP' (s1 roadmap.pdf)",
+      "role conflict: 'ECAP Chairperson' vs 'ECAP personnel' (Whale and Beast meeting.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Weston Hale",
+    "alias": null,
+    "role": "Sentinel",
+    "status": "Alive",
+    "description": "A charismatic and athletic Sentinel known for being clumsy yet capable of sudden brilliance in battle using wind and lightning abilities.",
+    "quote": "WESTON HALE — Canon Personality (Your Exact Version) • Core Nature clumsy super athletic charming in any situation friendly with literally everyone extremely handsome (most handsome male Sentinel)",
+    "sources": [
+      "behave of characters.pdf"
+    ],
+    "evidence_quotes": [
+      "WESTON HALE — Canon Personality (Your Exact Version) • Core Nature clumsy super athletic charming in any situation friendly with literally everyone extremely handsome (most handsome male Sentinel)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Xinea",
+    "alias": "Nyxia",
+    "role": "Romantic partner",
+    "status": "Alive",
+    "description": "Ethan's final and most compatible partner who understands and accepts both Ethan and Elizah. A member of the Sentinels who eventually leads the team and possesses cosmic-like powers. A person whom both Ethan and Elizah seek to protect, though their methods differ.",
+    "quote": "Xinea becomes the final and most compatible partner. Like Grace... she notices Ethan's changes. Unlike Grace... she instinctively knows how to handle them.",
+    "sources": [
+      "Ethan and his past bonds .pdf",
+      "s1 roadmap.pdf",
+      "Truth of elizah and ethan (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Xinea becomes the final and most compatible partner. Like Grace... she notices Ethan's changes. Unlike Grace... she instinctively knows how to handle them.",
+      "then we see xinea was not ethans type.but some how they became friends and slowly they fall for each other.",
+      "before going he said -Xinea is fine,don't worry.i can protect her better than your shit kind ideology."
+    ],
+    "conflicts": [
+      "role conflict: 'Romantic partner' vs 'Leader of the Sentinels' (s1 roadmap.pdf)",
+      "role conflict: 'Romantic partner' vs 'Protege' (Truth of elizah and ethan (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Yoshiko",
+    "alias": "Arashi's daughter",
+    "role": "Warrior",
+    "status": "Alive",
+    "description": "A female character whose earlier death can give Nyxia's revenge clarity born from loss. Character described as too strategic to wield Kara Yazgı. Daughter of Arashi and twin sister to Kazumi. Initially presented as a manager. Arashi's daughter, Nyxia's childhood friend and secret protector, trained as a spy by Corvani.",
+    "quote": "If Yoshiko dies earlier: Nyxia’s revenge is not rage It’s clarity born from loss",
+    "sources": [
+      "clarification 2.pdf",
+      "Kara Yazgi.pdf",
+      "Slaughter of Kurohana clan -twin x Mashiho.pdf",
+      "straight s1-s5.pdf",
+      "yoshiko.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "If Yoshiko dies earlier: Nyxia’s revenge is not rage It’s clarity born from loss",
+      "Yoshiko → too strategic, not final",
+      "she was shocked to know kazumi and yoshiko are sisters and they look same untill they fight and yoshiko's face cover removed.",
+      "Yoshiko enters as “just a manager”... until she isn’t.",
+      "She was always watching Nyxia in shadows She returns as: her lawyer her manager secretly her protector She has Nullborn connection through Arashi"
+    ],
+    "conflicts": [
+      "role conflict: 'Warrior' vs 'Manager' (straight s1-s5.pdf)",
+      "role conflict: 'Warrior' vs 'Spy, lawyer, manager' (yoshiko.pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Zaan",
+    "alias": "The Vireon",
+    "role": "Ancestor",
+    "status": "Alive",
+    "description": "A living doctrine of immortality and rage who masters Bloodbinding beyond life or death. Trapped in the pocket dimension for centuries, holding shared ancient knowledge of hidden realms, Hisham's death, Khalid's betrayal, and the ancient war. A bloodline ancestor who used blood techniques for life-based, scientific, and spiritual purposes. Sealed ancient warrior; Robin is his reincarnation yet Zaan still exists. A man said to have defied death, killed 160, burned alive, and walked again, seeking the pendant to release an ancient entity. Helps Rowan carry Silas's body.",
+    "quote": "He is not made of flesh. He is made of memory. And memory... refuses to die.",
+    "sources": [
+      "Abilities (1) (1).pdf",
+      "aeric, corvani and elizah (1).pdf",
+      "First season structure (1).pdf",
+      "Inhertances .pdf",
+      "KHALID (2).pdf",
+      "straight s1-s5.pdf"
+    ],
+    "category": "Antagonist",
+    "evidence_quotes": [
+      "He is not made of flesh. He is made of memory. And memory... refuses to die.",
+      "Zaan has been trapped for centuries. Aeric connects with him through shared ancient knowledge. Corvani sees his entire worldview shattered.",
+      "Zaan’s art was still blood-based, but his use of it was scientific and spiritual—he treated blood as the essence of life and transformation, not a demonic weapon.",
+      "Zaan — The Immortal Stormblade — sealed ancient warrior; Robin is his reincarnation yet Zaan still exists.",
+      "Zaan: “Mind if I sit?” Khalid: “No one stopped you.” Zaan: “You’re not scared of me?” Khalid: “I’ve seen worse than burned skin.”",
+      "Zaan helps him carry it, explaining grief is heavier than steel."
+    ],
+    "conflicts": [
+      "status conflict: 'Alive' vs 'Dead' (First season structure (1).pdf)",
+      "role conflict: 'Ancestor' vs 'Sealed ancient warrior' (Inhertances .pdf)",
+      "role conflict: 'Ancestor' vs 'Legendary figure' (KHALID (2).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Zaan al-Murad",
+    "alias": "The Cursed Prodigy",
+    "role": "Scientist and cursed protagonist",
+    "status": "Alive",
+    "description": "A brilliant, tortured genius attempting to reverse death whose life is defined by tragedy and betrayal. A brilliant scientist and genius who becomes a cursed figure, seeking peace but plagued by the loss of loved ones and forbidden resurrection science.",
+    "quote": "Zaan al-Murad (nickname: The Cursed Prodigy) Age: 26 Appearance: Once considered the most handsome man of his generation. Tall, sharp-jawed, with intense eyes.",
+    "sources": [
+      "Trilogy of zaan, khalid and issabela (1).pdf",
+      "ZAAN  (1).pdf"
+    ],
+    "category": "Anti-Hero",
+    "evidence_quotes": [
+      "Zaan al-Murad (nickname: The Cursed Prodigy) Age: 26 Appearance: Once considered the most handsome man of his generation. Tall, sharp-jawed, with intense eyes."
+    ],
+    "conflicts": [
+      "role conflict: 'Scientist and cursed protagonist' vs 'Protagonist' (ZAAN  (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Zayn",
+    "alias": "None",
+    "role": "Brother of David",
+    "status": "Dead",
+    "description": "An individual present during a rift opening who cautiously steps back. David's brother from Earth Prime who wished to leave the hero life behind before dying during the collapse of their world. A warrior who unleashes red lightning as he stands against Arthur. A male character occupied elsewhere dealing with cosmic-level threats or ideological war. Older brother to David, revealed in season 2. A character who explodes when pushed, contrasting with Damian's calculated nature. Elizah's best friend who understands his nature and keeps the secret of his identity during season two. A figure who maintains independent friendships with the women in Ethan's life. Character described as too burdened by ideology to wield Kara Yazgı. An individual connected to Ethan's past before Ethan met Nilanjona. Ethan's childhood best friend with the ability to control lightning. A powerhouse who utilizes precise red lightning as a weapon, capable of both surgical strikes and devastating, boiling levels of rage. Inheritance trauma personified, Zayn is the son of a guardian, holds Dorian's red lightning, and chooses pain over ignorance. A confident and sharp character associated with lightning power. A childhood friend of Ethan who provides insight into Elizah's protective nature. Zayn is the best buddy of Elizah who roasts him and is the only one who recognizes Elizah in season 2. A warrior who uses his sword and personal connection to lightning to resurrect Weston. A warrior who killed his father Agnus, leaving him emotionally drained and exhausted, yet remaining defiant against the corrupted agency.",
+    "quote": "Nyxia senses abnormal energy. Zayn steps back cautiously.",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf",
+      "Alt david.pdf",
+      "Arthur vs Rowan.pdf",
+      "clarification 2.pdf",
+      "Dagger Wolf_1.pdf",
+      "DAMIAN BROWN Ability.pdf",
+      "elizah things (1).pdf",
+      "Ethan and his past bonds .pdf",
+      "Kara Yazgi.pdf",
+      "Nilanjona’s Arc – Origin of the Water Guardian.pdf",
+      "s1 roadmap.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf",
+      "see characters.pdf",
+      "straight s1-s5.pdf",
+      "Truth of elizah and ethan (1).pdf",
+      "Untitled document.pdf",
+      "Weston is back (1).pdf",
+      "zayn and elizah (1).pdf"
+    ],
+    "category": "Protagonist",
+    "evidence_quotes": [
+      "Nyxia senses abnormal energy. Zayn steps back cautiously.",
+      "in that universe zayn and david already knew they were brothers.",
+      "Zayn steps forward. Lightning gathers around him, red and furious.",
+      "While: Zayn Ethan / Elizah Corvani Arashi others are dealing with: Niharo cosmic-level threat ideological war",
+      "in season 2,it's revealed that basically zayn is his older brother.",
+      "Zayn explodes when pushed. Damian calculates.",
+      "Zayn is still his best buddy whom he roast more abd zayn roasts him too.",
+      "Zayn's relationship doesn't revolve around Ethan. He has independent relationships with every important woman in Ethan's life.",
+      "Zayn → too burdened by ideology",
+      "Ethan, broken and bullied after leaving Bogura and Zayn, met her in Saidpur.",
+      "then zayn says he also has ability,lightning.and then ethan first learns that there are people like him having ability.",
+      "His hand snaps forward and the red lightning threads — not the explosive discharge of full combat mode, the precise surgical expression of someone using current as a scalpel.",
+      "Zayn is not “cool lightning guy.” He is inheritance trauma personified. Son of a guardian Holder of Dorian’s red lightning Knows truths too early Hides truth to protect others (and fails)",
+      "Zayn feels like the lead — confident, sharp, lightning incarnate.",
+      "as zayn is his childhood friend.who told him that elizah only appeared when ethan is cornered.",
+      "Zayn draws his sword, slams its tip into the earth, and roars. A pillar of lightning tears through the sky, finds the blade, and launches through him like a conduit straight into Weston’s chest",
+      "his father.who is a greater in power.also killing his own father makes him emotionally tired too. there we see after the great fight zayn was captured by the corrupted agency"
+    ],
+    "conflicts": [
+      "status conflict: 'Dead' vs 'Alive' (Arthur vs Rowan.pdf)",
+      "role conflict: 'Brother of David' vs 'Older brother' (Dagger Wolf_1.pdf)",
+      "status conflict: 'Dead' vs 'Alive' (elizah things (1).pdf)",
+      "role conflict: 'Brother of David' vs 'Best friend of Elizah' (elizah things (1).pdf)",
+      "status conflict: 'Dead' vs 'Alive' (Ethan and his past bonds .pdf)",
+      "role conflict: 'Brother of David' vs 'Friend' (Ethan and his past bonds .pdf)",
+      "status conflict: 'Dead' vs 'Alive' (Nilanjona’s Arc – Origin of the Water Guardian.pdf)",
+      "status conflict: 'Dead' vs 'Alive' (s1 roadmap.pdf)",
+      "role conflict: 'Brother of David' vs 'Sentinel Member' (s1 roadmap.pdf)",
+      "status conflict: 'Dead' vs 'Alive' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf)",
+      "role conflict: 'Brother of David' vs 'Protagonist' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-2.pdf)",
+      "status conflict: 'Dead' vs 'Alive' (see characters.pdf)",
+      "role conflict: 'Brother of David' vs 'Holder of Dorian's red lightning' (see characters.pdf)",
+      "status conflict: 'Dead' vs 'Alive' (Truth of elizah and ethan (1).pdf)",
+      "role conflict: 'Brother of David' vs 'Childhood friend' (Truth of elizah and ethan (1).pdf)",
+      "status conflict: 'Dead' vs 'Alive' (Weston is back (1).pdf)",
+      "role conflict: 'Brother of David' vs 'Unknown' (Weston is back (1).pdf)",
+      "status conflict: 'Dead' vs 'Alive' (zayn and elizah (1).pdf)"
+    ]
+  },
+  {
+    "kind": "character",
+    "name": "Zayn Hayes",
+    "alias": "Knight of the Sentinel",
+    "role": "2nd in command",
+    "status": "Alive",
+    "description": "An extremely calculative, research-heavy strategist who acts as the team's official problem solver. Featured in the name list.",
+    "quote": "ZAYN HAYES — Your Canon Personality (No Additions) • Based on Jubayer (your real best friend) physically: dark brown skin, athletic witty, charming, respectful huge knowledge",
+    "sources": [
+      "behave of characters.pdf",
+      "canon events.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "ZAYN HAYES — Your Canon Personality (No Additions) • Based on Jubayer (your real best friend) physically: dark brown skin, athletic witty, charming, respectful huge knowledge",
+      "Zayn Hayes, Altan El-Mansur (Agnus), Silas Duskmoor, Eldrich Aldercrest, Dorian Cross, etc."
+    ]
+  },
+  {
+    "kind": "clan",
+    "name": "Al-Ahd",
+    "alias": "The Oath",
+    "role": "Ancient oath-bound warriors and leaders",
+    "status": "Active",
+    "description": "Listed as part of the clan anchors. Known for discipline, loyalty, and unshakable resolve, carrying a sacred vow through generations.",
+    "quote": "Clan anchors include Al-Ahd, Duskmoor, Eldercrest, El-Mansur, and demonic-clan line threads.",
+    "sources": [
+      "canon events.pdf",
+      "Inhertances .pdf"
+    ],
+    "category": "Bloodline",
+    "evidence_quotes": [
+      "Clan anchors include Al-Ahd, Duskmoor, Eldercrest, El-Mansur, and demonic-clan line threads.",
+      "Al-Ahd Known for: Ancient oath-bound warriors and leaders; legacy of discipline, loyalty, and unshakable resolve."
+    ],
+    "conflicts": [
+      "kind conflict: kept 'clan' but also extracted as 'bloodline' (Inhertances .pdf)"
+    ]
+  },
+  {
+    "kind": "clan",
+    "name": "Demonic clan",
+    "alias": null,
+    "role": null,
+    "status": "Active",
+    "category": "Clan",
+    "description": "A lineage of shapeshifters including Khalid, Norman, and Nur.",
+    "quote": "Demonic (shapeshifting) → Khalid → Norman → Nur",
+    "sources": [
+      "infos.pdf"
+    ],
+    "evidence_quotes": [
+      "Demonic (shapeshifting) → Khalid → Norman → Nur"
+    ]
+  },
+  {
+    "kind": "clan",
+    "name": "El-Mansur",
+    "alias": "The Victorious",
+    "role": "Conquerors and war tacticians",
+    "status": "Active",
+    "description": "Listed as part of the clan anchors. Characterized by brutal yet calculated dominance, imperial military tradition, and physical prowess.",
+    "quote": "Clan anchors include Al-Ahd, Duskmoor, Eldercrest, El-Mansur, and demonic-clan line threads.",
+    "sources": [
+      "canon events.pdf",
+      "Inhertances .pdf"
+    ],
+    "category": "Bloodline",
+    "evidence_quotes": [
+      "Clan anchors include Al-Ahd, Duskmoor, Eldercrest, El-Mansur, and demonic-clan line threads.",
+      "El-Mansur Known for: Conquerors and war tacticians; brutal yet calculated dominance on the battlefield."
+    ],
+    "conflicts": [
+      "kind conflict: kept 'clan' but also extracted as 'bloodline' (Inhertances .pdf)"
+    ]
+  },
+  {
+    "kind": "clan",
+    "name": "Eldercrest",
+    "alias": null,
+    "role": null,
+    "status": "Active",
+    "description": "Listed as part of the clan anchors.",
+    "quote": "Clan anchors include Al-Ahd, Duskmoor, Eldercrest, El-Mansur, and demonic-clan line threads.",
+    "sources": [
+      "canon events.pdf"
+    ],
+    "evidence_quotes": [
+      "Clan anchors include Al-Ahd, Duskmoor, Eldercrest, El-Mansur, and demonic-clan line threads."
+    ]
+  },
+  {
+    "kind": "clan",
+    "name": "Kurohana",
+    "alias": null,
+    "role": "Clan",
+    "status": "Inactive",
+    "description": "A family clan that was slaughtered by Kazumi, Yoshiko, and Mashiho.",
+    "quote": "from noon to evening to night.both sister slaughtered the entire family clan.",
+    "sources": [
+      "Slaughter of Kurohana clan -twin x Mashiho.pdf"
+    ],
+    "evidence_quotes": [
+      "from noon to evening to night.both sister slaughtered the entire family clan."
+    ]
+  },
+  {
+    "kind": "faction",
+    "name": "Nilanjonas’ people",
+    "alias": "The Observers",
+    "role": "Archivists of truth",
+    "status": "Active",
+    "description": "A powerful, hidden faction that recognized the truth of the Asetra incident but chose strategic non-intervention.",
+    "quote": "The Observers (Nilanjonas’ people) – Saw the truth. – Declined the war. – Did not intervene. – Preserved themselves.",
+    "sources": [
+      "Truth of asetra incident.pdf"
+    ],
+    "evidence_quotes": [
+      "The Observers (Nilanjonas’ people) – Saw the truth. – Declined the war. – Did not intervene. – Preserved themselves."
+    ]
+  },
+  {
+    "kind": "faction",
+    "name": "Nine Clans",
+    "alias": null,
+    "role": "Superior clans",
+    "status": "Active",
+    "category": "Faction",
+    "description": "The nine superior clans that fought Jessy during her prime in a war lasting seven days and nights. Clans founded from the myth of sealing Jessy, later divided by ability and ruling the human empire with oppression.",
+    "quote": "The 9 Superior Clans fought Jessy during her prime, in a war that raged for seven days and nights.",
+    "sources": [
+      "Inhertances .pdf",
+      "The start and the end (1).pdf"
+    ],
+    "evidence_quotes": [
+      "The 9 Superior Clans fought Jessy during her prime, in a war that raged for seven days and nights.",
+      "That became the founding myth of the Nine Clans. The Aftermath — Human Empire Clans divided by ability, basking in victory."
+    ],
+    "conflicts": [
+      "kind conflict: kept 'faction' but also extracted as 'organization' (The start and the end (1).pdf)"
+    ]
+  },
+  {
+    "kind": "faction",
+    "name": "RAB",
+    "alias": "Elite unit",
+    "role": "Elite police unit",
+    "status": "Active",
+    "description": "An elite unit in Bangladesh where Ethan's father served.",
+    "quote": "Ethan’s father is RAB (elite unit) Already met Agnus in the past Agnus was junior to him So Ethan's father outranked Zayn’s father",
+    "sources": [
+      "yoshiko.pdf"
+    ],
+    "evidence_quotes": [
+      "Ethan’s father is RAB (elite unit) Already met Agnus in the past Agnus was junior to him So Ethan's father outranked Zayn’s father"
+    ]
+  },
+  {
+    "kind": "faction",
+    "name": "Redline",
+    "alias": null,
+    "role": "Operational team and agency",
+    "status": "Active",
+    "category": "Faction",
+    "description": "A team including Samuel, Derek, Ayaan, and Damian. An operational agency that deploys tactical agents like Samuel, Derek, and Ayaan to investigate and contain threats.",
+    "quote": "Alistair Graye vs. Redline + Damian | Full Kinetic Version",
+    "sources": [
+      "Joker and the Chess master.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf"
+    ],
+    "evidence_quotes": [
+      "Alistair Graye vs. Redline + Damian | Full Kinetic Version",
+      "They sent the professional."
+    ],
+    "conflicts": [
+      "kind conflict: kept 'faction' but also extracted as 'organization' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf)"
+    ]
+  },
+  {
+    "kind": "faction",
+    "name": "The 9 bloodlines",
+    "alias": "The 9 clans",
+    "role": "Dominant political forces",
+    "status": "Active",
+    "description": "A collective of bloodlines that orchestrated the fear against Asetra and secured power through her sealing.",
+    "quote": "If 9 clans + multiple species + a Judgement bearer worked together, then what happened likely wasn’t: “We are stronger.” It was: “We are synchronized.”",
+    "sources": [
+      "Truth of asetra incident.pdf"
+    ],
+    "evidence_quotes": [
+      "If 9 clans + multiple species + a Judgement bearer worked together, then what happened likely wasn’t: “We are stronger.” It was: “We are synchronized.”"
+    ]
+  },
+  {
+    "kind": "faction",
+    "name": "The Umbral",
+    "alias": null,
+    "role": "Shadow assassin group and independent operation",
+    "status": "Active",
+    "category": "Faction",
+    "description": "A shadow team built by Valeria out of the rubble of Redline's loss, operating with ancient swordsmanship and invisible precision.",
+    "quote": "The Umbral. Not Redline. Not anything that Corvani built.",
+    "sources": [
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-7.pdf"
+    ],
+    "evidence_quotes": [
+      "The Umbral. Not Redline. Not anything that Corvani built."
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Aldercrest",
+    "alias": "Crest of the Old Trees",
+    "role": "Mystics and arcane tacticians",
+    "status": "Active",
+    "description": "A clan known for arcane strategies and hosting the rare ability Athena's Judgement. Mystics with refined magical bloodlines, known for arcane intelligence and political influence. A powerful magical lineage possessing domain mechanisms, correction logic, and historical legacies.",
+    "quote": "So after that war,when aldercrest learns soa has that athenas judgements ability,which choses it's host very rarely.so aldercrest tried to train her.",
+    "sources": [
+      "Diablo war first and 2nd.pdf",
+      "Inhertances .pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf"
+    ],
+    "category": "Bloodline",
+    "evidence_quotes": [
+      "So after that war,when aldercrest learns soa has that athenas judgements ability,which choses it's host very rarely.so aldercrest tried to train her.",
+      "Aldercrest Known for: Mystics and arcane tacticians with refined magical bloodlines; often rise to positions of scholarly or battlefield leadership.",
+      "That's how Aldercrest works."
+    ],
+    "conflicts": [
+      "kind conflict: kept 'organization' but also extracted as 'bloodline' (Inhertances .pdf)",
+      "role conflict: 'Mystics and arcane tacticians' vs 'Magical bloodline and legacy' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-5.pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Circo del Miracolo",
+    "alias": null,
+    "role": "Traveling circus",
+    "status": "Active",
+    "description": "A traveling circus that exploited Orion for profit.",
+    "quote": "A worn-out sign reads: “CIRCO DEL MIRACOLO.”",
+    "sources": [
+      "Whale and Beast meeting.pdf"
+    ],
+    "evidence_quotes": [
+      "A worn-out sign reads: “CIRCO DEL MIRACOLO.”"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Covenant",
+    "alias": null,
+    "role": "Dark Organization",
+    "status": "Active",
+    "description": "A secret dark organization led by Alt David to research mind alteration, hero blood, and memory rewriting. A faction connected to the conspiracy involving ECAP and DEW. A powerful organization led by a man who treats his subordinates as disposable tools.",
+    "quote": "made a dark org named covenant and he was covenant leader.",
+    "sources": [
+      "Alt david.pdf",
+      "Death of Ethan.pdf",
+      "stitch vs elizah.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "made a dark org named covenant and he was covenant leader.",
+      "This connects the Season 1 trial directly to the wider conspiracy: ECAP → DEW → Covenant.",
+      "he is basically the leader of covenant and now we see a scene where we see vanguard was watching all these.and then walk aways."
+    ],
+    "conflicts": [
+      "kind conflict: kept 'organization' but also extracted as 'faction' (stitch vs elizah.pdf)",
+      "role conflict: 'Dark Organization' vs 'Organization' (stitch vs elizah.pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "defense force",
+    "alias": null,
+    "role": "Military response unit",
+    "status": "Active",
+    "description": "The military organization guarding the infected mall area that mistakenly fires upon Rifat.",
+    "quote": "infront of the mall thousand of defemse forces with gun holding to grace.but looking at her they said she was fine.",
+    "sources": [
+      "Grace basic plot (1).pdf"
+    ],
+    "evidence_quotes": [
+      "infront of the mall thousand of defemse forces with gun holding to grace.but looking at her they said she was fine."
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Demon clan",
+    "alias": null,
+    "role": null,
+    "status": "Inactive",
+    "description": "The first clan subjected to genocide when humans manipulated the narrative and convinced other clans to wipe them out entirely.",
+    "quote": "They convinced the other clans to wipe the demon clan out entirely. The first genocide.",
+    "sources": [
+      "The start and the end (1).pdf"
+    ],
+    "evidence_quotes": [
+      "They convinced the other clans to wipe the demon clan out entirely. The first genocide."
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "DEW",
+    "alias": "Division of Experimental Warfare",
+    "role": "Researcher",
+    "status": "Active",
+    "description": "An organization that Stitch joined after departing ECAP in anger. A researcher conducting experiments with hero blood who is covertly assisted by Alt David. The agency responsible for creating experiments using demonic blood and human flesh. An organization that recognizes Marcello Corvani by his codename. A secret research organization founded by Stitch. The black-ops arm of ECAP that conducted forbidden human experimentation to create controllable meta-soldiers. A secret entity formed by Stitch after departing from ECAP. A hidden organization focused on training special, brutal soldiers for shadow missions. Organization conducting hidden experiments. A secretive organization responsible for human-mutation programs including Project Voren. An organization/event context where Samuel leaves after Ethans death. A powerful organization that recruits skilled fighters and utilizes parasitic technology.",
+    "quote": "Stitch leaves ECAP and joins DEW in anger He thinks heroes MUST be controlled now.",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf",
+      "Alt david.pdf",
+      "Arzuna x samuel.pdf",
+      "corvaniii.pdf",
+      "Death of Ethan.pdf",
+      "Dew (1)_1.pdf",
+      "rise of ayaan (1).pdf",
+      "s1 roadmap.pdf",
+      "straight s1-s5.pdf",
+      "The name is billy (1).pdf",
+      "timeline dorian khalid freya (1).pdf",
+      "Vanguard x (1).pdf"
+    ],
+    "category": "Organization",
+    "evidence_quotes": [
+      "Stitch leaves ECAP and joins DEW in anger He thinks heroes MUST be controlled now.",
+      "he knew dew and stitch has different reason to use heroes blood and experiment.",
+      "Stitch’s leftovers. DEW’s nightmare chemistry. Demonic blood threaded through human flesh like cursed wiring—muscle that shouldn’t move, bones that shouldn’t bend",
+      "The nickname stuck so hard that later ECAP, DEW, and even Nullborn operatives knew him by one name",
+      "The “old man” who orders Ethan’s arrest and public judgment is Major General Stitch, head of ECAP and secret architect of DEW.",
+      "D.E.W. — “Division of Experimental Warfare” Nature The black-ops arm of ECAP, initially hidden under research budget names. Not just studying metas — making them.",
+      "as ecap is about science and tech.he was the cheif authority there after stitch left ecap and made dew secretly.",
+      "later samuel joins dew,and then we get to learn it is basically a hidden org,which focuses on very well trained and special soldiers.",
+      "DEW experiments stay hidden, but the tone is wrong.",
+      "DEW covertly extracted him from ECAP custody, labeling him “rehabilitation candidate.”",
+      "when ethan was dead and samuel learns it was because of stitch after that event samuel leaves dew event happened .",
+      "he was invited by the DEW for his skilled fighting and his brutal stength as human is actually very surprising."
+    ],
+    "conflicts": [
+      "kind conflict: kept 'organization' but also extracted as 'character' (Alt david.pdf)",
+      "role conflict: 'Researcher' vs 'Research entity' (Arzuna x samuel.pdf)",
+      "role conflict: 'Researcher' vs 'Secret research initiative' (Death of Ethan.pdf)",
+      "status conflict: 'Active' vs 'Inactive' (Dew (1)_1.pdf)",
+      "role conflict: 'Researcher' vs 'Black-ops arm of ECAP' (Dew (1)_1.pdf)",
+      "role conflict: 'Researcher' vs 'Secret organization' (rise of ayaan (1).pdf)",
+      "role conflict: 'Researcher' vs 'Shadow Operatives' (s1 roadmap.pdf)",
+      "role conflict: 'Researcher' vs 'Experimental Research' (The name is billy (1).pdf)",
+      "role conflict: 'Researcher' vs 'Military and intelligence organization' (Vanguard x (1).pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Duskmoor clan",
+    "alias": null,
+    "role": "Dragon hunters",
+    "status": "Active",
+    "description": "A group of specialized hunters dedicated to the destruction of colossal beasts and the culling of dragons.",
+    "quote": "Enter Duskmoor clan → dragon hunters, slayers of colossal beasts.",
+    "sources": [
+      "Dragons and their cons.pdf"
+    ],
+    "evidence_quotes": [
+      "Enter Duskmoor clan → dragon hunters, slayers of colossal beasts."
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "ECAP",
+    "alias": null,
+    "role": "Operative agency",
+    "status": "Active",
+    "description": "An organization formerly chaired by Victor, previously associated with Stitch and Marcello Corvani before their departures in 2005. An organization that employs operatives like Marcello Corvani. A military organization headed by Major General Stitch. A science and technology organization previously headed by Stitch and later Ayman. Organization questioned by Samuel. An organization that Samuel leaves after the sentinel gets formed. An organization that employed Marcello Corvani as an operative. A military entity where Corvani, Stitch, and Victor operate.",
+    "quote": "2005 is the Year of Collapse for the old ECAP era. ✔ Victor’s son dies (power-casualty incident) → Victor crumbles emotionally → Stitch snaps ideologically",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf",
+      "corvaniii.pdf",
+      "Death of Ethan.pdf",
+      "rise of ayaan (1).pdf",
+      "straight s1-s5.pdf",
+      "timeline dorian khalid freya (1).pdf",
+      "whale.freaking corvani.pdf",
+      "Whale and Beast meeting.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "2005 is the Year of Collapse for the old ECAP era. ✔ Victor’s son dies (power-casualty incident) → Victor crumbles emotionally → Stitch snaps ideologically",
+      "before Stitch molded him into ECAP’s most dangerous young operative",
+      "The “old man” who orders Ethan’s arrest and public judgment is Major General Stitch, head of ECAP and secret architect of DEW.",
+      "although he joined ECAP.and also he is now the chief of ecap .as ecap is about science and tech.",
+      "Samuel (Ghost-01) is framed as an anti-hero: brutal, loyal to no banner, questioning ECAP and DEW.",
+      "Samuel leaves ecap after sentinel got formed.",
+      "before Stitch molded him into ECAP’s most dangerous young operative... Marcello Corvani served as an elite Navy scout",
+      "CUT TO — ECAP HQ, DAYS LATER Stitch watches a report."
+    ],
+    "conflicts": [
+      "role conflict: 'Operative agency' vs 'Military organization' (Death of Ethan.pdf)",
+      "role conflict: 'Operative agency' vs 'Science and Tech' (rise of ayaan (1).pdf)",
+      "role conflict: 'Operative agency' vs 'Operational organization' (whale.freaking corvani.pdf)",
+      "role conflict: 'Operative agency' vs 'Military organization' (Whale and Beast meeting.pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Hidden Ones",
+    "alias": null,
+    "role": "Elite assassins",
+    "status": "Active",
+    "description": "A disciplined group of assassins who operate in the shadows and reject the influence of the world order. An organization that intervened to stop the summoning of Maphistoe. A group that Ayman attempted to join following his rejection by Victor.",
+    "quote": "These people — they’re no puppets like the Sentinels. They don’t bow to corrupted world orders. They fight on their own terms.",
+    "sources": [
+      "Echorhythm.pdf",
+      "KHALID (2).pdf",
+      "rise of ayaan (1).pdf"
+    ],
+    "category": "Organization",
+    "evidence_quotes": [
+      "These people — they’re no puppets like the Sentinels. They don’t bow to corrupted world orders. They fight on their own terms.",
+      "Anna: “We stopped him. The Hidden Ones. We ended him. Not for vengeance. For survival.”",
+      "before 2nd season meeting samuel in hidden ones taboo."
+    ],
+    "conflicts": [
+      "role conflict: 'Elite assassins' vs 'Secret order' (KHALID (2).pdf)",
+      "role conflict: 'Elite assassins' vs 'Group' (rise of ayaan (1).pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Imperial Institute of Advanced Sciences",
+    "alias": null,
+    "role": "Elite academic institution",
+    "status": "Active",
+    "description": "A prestigious institution in Hayrabad where Zaan and Raisa engaged in advanced studies. The prestigious scientific institute in Hayrabad where Zaan and Raisa conducted their initial studies.",
+    "quote": "Among the most prestigious of these institutions was The Imperial Institute of Advanced Sciences — a place where only the brightest, most privileged minds dared to enter.",
+    "sources": [
+      "Trilogy of zaan, khalid and issabela (1).pdf",
+      "ZAAN  (1).pdf"
+    ],
+    "category": "Organization",
+    "evidence_quotes": [
+      "Among the most prestigious of these institutions was The Imperial Institute of Advanced Sciences — a place where only the brightest, most privileged minds dared to enter."
+    ],
+    "conflicts": [
+      "role conflict: 'Elite academic institution' vs 'Organization' (ZAAN  (1).pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "New Sentinels",
+    "alias": null,
+    "role": "Antagonist",
+    "status": "Active",
+    "category": "Organization",
+    "description": "An organization led by Niharo that surveilled the confrontation between Zayn and Agnus.",
+    "quote": "zayn notices,but we get to know that is none other than some members of new sentinels,zayn was tired and injured from previous fight.it was big for his mental health and physically .and the leader of new sentinels is none other than niharo himself.",
+    "sources": [
+      "david and maliha tragedy (1).pdf"
+    ],
+    "evidence_quotes": [
+      "zayn notices,but we get to know that is none other than some members of new sentinels,zayn was tired and injured from previous fight.it was big for his mental health and physically .and the leader of new sentinels is none other than niharo himself."
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Nullborn",
+    "alias": "Nullborn cult",
+    "role": "Cross-faction rebellion and secret committee",
+    "status": "Active",
+    "description": "An organization joined by Dorian Cross after realizing the greater good can kill innocents. A faction that recognizes Marcello Corvani by his codename. A group that Dorian joined after the death of Soa. The oldest active organization in the SCU's modern story, assembled in 1417 to ignore institutional rules and handle problems officials refused to touch. An underground rebellion organization originally meant to protect the world, operating under Rome's catacombs. A mysterious cult-like organization associated with the Architect Cube. An archival and protective organization focused on managing dangerous relics and historical secrets. A group that infiltrated the DEW and manipulated them into implanting a parasite. An organization that sought to imprison or kill balanced-power hosts. An organization formerly led by Arashi and later Anthony, misidentified by DEW as an evil cult despite their actual role in maintaining balance.",
+    "quote": "Dorian joins Nullborn because he learns: “Greater good” can kill innocents even without villains.",
+    "sources": [
+      "canon events.pdf",
+      "corvaniii.pdf",
+      "Diablo war first and 2nd.pdf",
+      "Docs All the institute of SCU.pdf",
+      "KHALID (2).pdf",
+      "s1 roadmap.pdf",
+      "SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-1.pdf",
+      "Vanguard x (1).pdf",
+      "yoshiko.pdf",
+      "yoshi,corvani, elizah, arashi (1).pdf"
+    ],
+    "category": "Organization",
+    "evidence_quotes": [
+      "Dorian joins Nullborn because he learns: “Greater good” can kill innocents even without villains.",
+      "The nickname stuck so hard that later ECAP, DEW, and even Nullborn operatives knew him by one name",
+      "After soas death,dorian had a very rough impact on his head and led him joining nullborn slowly.",
+      "Nullborn is the oldest active organization in the SCU's modern story. It was assembled in 1417, and the reason it was founded tells you everything about how this universe works: the people and institutions that were supposed to protect the world had rules. Nullborn was built specifically to ignore those rules.",
+      "Marco: “We’re Nullborn. A rebellion that was meant to protect the world. Until Rome twisted it.”",
+      "Valeria is in nullborn.the exact org ayaan knew that knows about cube.and that org isn't a good org.",
+      "The Nullborn at this foundational stage wasn't sinister. It was archival and protective.",
+      "in DEW there are some spy of NULLBORN.who are here with false intentions.",
+      "Nullborn wanted to imprison or kill balanced-power hosts. Arashi refused. So: He lost leadership He lost his reputation He lost his daughter He became hunted",
+      "Arashi on the other hand was a nullborn authority.before meeting arashi she thought nullborn as an evil cult.later she learns nullborn actually never been an evil cult."
+    ],
+    "conflicts": [
+      "role conflict: 'Cross-faction rebellion and secret committee' vs 'Rebellion group' (KHALID (2).pdf)",
+      "category conflict: 'Organization' vs 'Faction' (KHALID (2).pdf)",
+      "role conflict: 'Cross-faction rebellion and secret committee' vs 'Unknown' (s1 roadmap.pdf)",
+      "role conflict: 'Cross-faction rebellion and secret committee' vs 'Organization' (SCU timeline from start to present_20261102-031135/SCU timeline from start to present_20261102-031135_compressed-compressed-pages-1.pdf)",
+      "role conflict: 'Cross-faction rebellion and secret committee' vs 'Infiltrators' (Vanguard x (1).pdf)",
+      "role conflict: 'Cross-faction rebellion and secret committee' vs 'Organization' (yoshiko.pdf)",
+      "kind conflict: kept 'organization' but also extracted as 'faction' (yoshi,corvani, elizah, arashi (1).pdf)",
+      "category conflict: 'Organization' vs 'Faction' (yoshi,corvani, elizah, arashi (1).pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Ottoman Guards",
+    "alias": null,
+    "role": "Law enforcement",
+    "status": "Active",
+    "description": "The military arm of the empire, enforcing imperial law through violence and fear. Military forces representing the empire's law, frequently hunting Zaan due to his forbidden scientific research.",
+    "quote": "Represent law, order, and silence. They aren’t entirely evil—but they are products of a broken empire trying to retain control.",
+    "sources": [
+      "Trilogy of zaan, khalid and issabela (1).pdf",
+      "ZAAN  (1).pdf"
+    ],
+    "category": "Faction",
+    "evidence_quotes": [
+      "Represent law, order, and silence. They aren’t entirely evil—but they are products of a broken empire trying to retain control."
+    ],
+    "conflicts": [
+      "kind conflict: kept 'organization' but also extracted as 'faction' (ZAAN  (1).pdf)",
+      "role conflict: 'Law enforcement' vs 'Faction' (ZAAN  (1).pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Ravenblade",
+    "alias": null,
+    "role": "Operational command",
+    "status": "Active",
+    "description": "An organization that trains agents and issues specific operational orders. One of the women in the universe who carries emotional aftermath. A well-trained brutal character fighting alongside Ghost. Warrior who survives the psychological demands of Kara Yazgı and kills Khalid.",
+    "quote": "As she passed a broken pillar, her outline blurred for a second—not teleportation, just enough misdirection to remind anyone watching that Ravenblade’s training had stuck.",
+    "sources": [
+      "Arzuna x samuel.pdf",
+      "clarification 2.pdf",
+      "Dagger Wolf_1.pdf",
+      "Kara Yazgi.pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "As she passed a broken pillar, her outline blurred for a second—not teleportation, just enough misdirection to remind anyone watching that Ravenblade’s training had stuck.",
+      "Nyxia Yoshiko Grace Nilanjona Ravenblade Even Arzuna (from the other side)",
+      "while RavenBlade and Ghost is well trained brutal character.David is wild.",
+      "Ravenblade uses Kara Yazgı to kill Khalid"
+    ],
+    "conflicts": [
+      "kind conflict: kept 'organization' but also extracted as 'character' (clarification 2.pdf)",
+      "kind conflict: kept 'organization' but also extracted as 'character' (Dagger Wolf_1.pdf)",
+      "role conflict: 'Operational command' vs 'Fighter' (Dagger Wolf_1.pdf)",
+      "kind conflict: kept 'organization' but also extracted as 'character' (Kara Yazgi.pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "Sentinels",
+    "alias": "OG Sentinels",
+    "role": "Superpowered team/group",
+    "status": "Active",
+    "description": "An organization whose future leader is Ethan Thorne. A group of members whose identities must not be exposed by David. A group that has scattered, leaving cities vulnerable to other-realm threats. A group of heroes who are controlled by an agency and were disbanded following Ethan's supposed death. A team of heroes that Ayman supported during the first season before their disbandment. A team organized by ECAP to protect people from those who abuse their abilities. A team of heroes led by Samuel that fights against Stitch and his forces. A group of individuals including Nyxia Vale who combat threats. An organization after whose formation Samuel leaves ecap and Ghost gets recognition. The original group of heroes, contrasted against the new corrupted versions.",
+    "quote": "Ethan Thorne Future leader of the Sentinels The person whose life will eventually connect ALL of their fates",
+    "sources": [
+      "aeric, corvani and elizah (1).pdf",
+      "Dagger Wolf_1.pdf",
+      "Echorhythm.pdf",
+      "First season structure (1).pdf",
+      "rise of ayaan (1).pdf",
+      "s1 roadmap.pdf",
+      "stitch vs elizah.pdf",
+      "The name is billy (1).pdf",
+      "timeline dorian khalid freya (1).pdf",
+      "zayn and elizah (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "Ethan Thorne Future leader of the Sentinels The person whose life will eventually connect ALL of their fates",
+      "he never does anything that will expose the identity of sentinels members.",
+      "The Sentinels are broken. Cities groan under other-realm threats.",
+      "The public believes Ethan is dead. The Sentinels disband. The agency has crossed a moral line.",
+      "in sentinels from his early life in sentinels,we will see his minu cute robot assistant.who is very close to his heart.",
+      "then they gave it the name of sentinels.where basically sentinels is a new org, runs by ecap.",
+      "the og sentinels get together too.where,samuel ,ravenblade ,aariz,saya they were in a fight with stitch.",
+      "Nyxia Vale, the heart of the Sentinels’ emotional core — light and shadow in one body.",
+      "Samuel leaves ecap after sentinel got formed.ghost got recognization after sentinel was formed",
+      "new sentinels who are not saint like the og sentinels!they were brutal and dark."
+    ],
+    "conflicts": [
+      "kind conflict: kept 'organization' but also extracted as 'faction' (Echorhythm.pdf)",
+      "status conflict: 'Active' vs 'Inactive' (Echorhythm.pdf)",
+      "role conflict: 'Superpowered team/group' vs 'Defenders against other-realm threats' (Echorhythm.pdf)",
+      "status conflict: 'Active' vs 'Inactive' (First season structure (1).pdf)",
+      "role conflict: 'Superpowered team/group' vs 'Hero group' (First season structure (1).pdf)",
+      "status conflict: 'Active' vs 'Inactive' (rise of ayaan (1).pdf)",
+      "role conflict: 'Superpowered team/group' vs 'Heroes' (rise of ayaan (1).pdf)",
+      "role conflict: 'Superpowered team/group' vs 'Vigilante Team' (s1 roadmap.pdf)",
+      "role conflict: 'Superpowered team/group' vs 'Heroes' (stitch vs elizah.pdf)",
+      "role conflict: 'Superpowered team/group' vs 'Hero group' (The name is billy (1).pdf)",
+      "status conflict: 'Active' vs 'Inactive' (zayn and elizah (1).pdf)",
+      "role conflict: 'Superpowered team/group' vs 'Defenders' (zayn and elizah (1).pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "The agency",
+    "alias": null,
+    "role": "Monitors the barrier known as The Silence",
+    "status": "Active",
+    "description": "An organization that observed the invisible barrier known as The Silence for decades before sending an expedition force. A group seeking to create super-soldiers by experimenting on Sentinel blood, utilizing propaganda to control the public.",
+    "quote": "For decades, the agency watched the invisible barrier. A silent wall standing in plain sight, untouchable by satellites, undisturbed by storms.",
+    "sources": [
+      "Divine beast prologe.pdf",
+      "First season structure (1).pdf"
+    ],
+    "category": null,
+    "evidence_quotes": [
+      "For decades, the agency watched the invisible barrier. A silent wall standing in plain sight, untouchable by satellites, undisturbed by storms.",
+      "As agency was after the sentinels blood to experiment with their genes and make more super soldier ,they never believed these heroes"
+    ],
+    "conflicts": [
+      "role conflict: 'Monitors the barrier known as The Silence' vs 'Antagonistic regulatory body' (First season structure (1).pdf)"
+    ]
+  },
+  {
+    "kind": "organization",
+    "name": "the org",
+    "alias": null,
+    "role": "Heroic organization",
+    "status": "Active",
+    "description": "The central organization of heroes that Norman, Liam, and others were associated with, though it became hostile toward Norman.",
+    "quote": "norman first starts as a anti hero.but when others couldn't take his changes.he slowly get punished or avoided by other companion he had.",
+    "sources": [
+      "Norman and pristine outline .pdf"
+    ],
+    "evidence_quotes": [
+      "norman first starts as a anti hero.but when others couldn't take his changes.he slowly get punished or avoided by other companion he had."
+    ]
+  }
+]
