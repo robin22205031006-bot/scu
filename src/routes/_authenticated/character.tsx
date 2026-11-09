@@ -426,9 +426,9 @@ function CharacterDossier() {
               initial={animOn ? { opacity: 0, y: 12 } : false}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.35, ease: "easeOut" }}
-              whileHover={animOn ? { scale: 1.005 } : undefined}
+              whileHover={animOn ? { scale: 1.005 } : {}}
               className="relative mt-6 rounded-2xl border border-white/10 bg-black/50 p-5 backdrop-blur-xl will-change-transform"
-              style={animOn ? { borderColor: `color-mix(in oklab, ${accent} 45%, transparent)`, boxShadow: `0 0 24px -6px ${accent}, inset 0 0 0 1px rgba(255,255,255,.04)` } : undefined}
+              style={animOn ? { borderColor: `color-mix(in oklab, ${accent} 45%, transparent)`, boxShadow: `0 0 24px -6px ${accent}, inset 0 0 0 1px rgba(255,255,255,.04)` } : {}}
             >
               {animOn && (
                 <span className="pointer-events-none absolute right-3 top-3 flex h-2 w-2" aria-hidden>
