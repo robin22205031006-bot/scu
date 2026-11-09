@@ -379,7 +379,7 @@ export function ClanGraph() {
             </button>
             <div className="flex items-center gap-3">
               {quick.e.image_url ? (
-                <img src={quick.e.image_url} alt="" className="h-12 w-12 rounded-xl object-cover" />
+                <img src={quick.e.image_url} alt="" loading="lazy" decoding="async" className="h-12 w-12 rounded-xl object-cover" />
               ) : (
                 <div className="grid h-12 w-12 place-items-center rounded-xl bg-secondary font-display text-xl" style={{ color: KIND_COLOR[quick.e.kind] }}>{quick.e.name[0]}</div>
               )}

@@ -15,6 +15,7 @@ import { useUiToggles } from "@/lib/ui-toggles";
 import { useAnimationsEnabled, setAnimationsEnabled } from "@/lib/animations";
 import { sfx } from "@/lib/scu-audio";
 import { toast } from "sonner";
+import { motion } from "framer-motion";
 
 export const Route = createFileRoute("/_authenticated/character")({
   validateSearch: (s: Record<string, unknown>): { e?: string } =>
@@ -420,7 +421,21 @@ function CharacterDossier() {
             )}
 
             {/* Tab content */}
-            <div className="mt-6 rounded-2xl border border-white/10 bg-black/50 p-5 backdrop-blur-xl">
+            <motion.div
+              key={`${id}-${tab}`}
+              initial={animOn ? { opacity: 0, y: 12 } : false}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.35, ease: "easeOut" }}
+              whileHover={animOn ? { scale: 1.005 } : undefined}
+              className="relative mt-6 rounded-2xl border border-white/10 bg-black/50 p-5 backdrop-blur-xl will-change-transform"
+              style={animOn ? { borderColor: `color-mix(in oklab, ${accent} 45%, transparent)`, boxShadow: `0 0 24px -6px ${accent}, inset 0 0 0 1px rgba(255,255,255,.04)` } : undefined}
+            >
+              {animOn && (
+                <span className="pointer-events-none absolute right-3 top-3 flex h-2 w-2" aria-hidden>
+                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full opacity-60" style={{ background: accent }} />
+                  <span className="relative inline-flex h-2 w-2 rounded-full" style={{ background: accent }} />
+                </span>
+              )}
               {tab === "lore" && (
                 <div className="space-y-4">
                   {e.description && (
@@ -488,7 +503,7 @@ function CharacterDossier() {
                   {seasons.length === 0 && <li className="text-sm text-muted-foreground">No series data.</li>}
                 </ul>
               )}
-            </div>
+            </motion.div>
           </div>
         </section>
 
@@ -497,7 +512,7 @@ function CharacterDossier() {
           {e.image_url && (
             <div className="absolute inset-0 flex items-end justify-center overflow-hidden">
               <div className="absolute inset-0" style={{ background: `radial-gradient(ellipse at 50% 85%, ${accent} 0%, transparent 65%)`, opacity: 0.25 }} />
-              <img src={e.image_url} alt={e.name} className="relative h-[92%] w-auto max-w-full object-contain object-bottom [mask-image:linear-gradient(to_top,black_55%,transparent_98%)]" />
+              <motion.img key={e.id} initial={animOn ? { opacity: 0, x: 30 } : false} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.5, ease: "easeOut" }} decoding="async" src={e.image_url} alt={e.name} className="relative h-[92%] w-auto max-w-full object-contain object-bottom [mask-image:linear-gradient(to_top,black_55%,transparent_98%)]" />
             </div>
           )}
           <nav className="absolute right-0 top-0 flex h-full w-12 flex-col border-l border-white/10 bg-black/50" aria-label="Sections">

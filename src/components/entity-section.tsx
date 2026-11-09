@@ -327,7 +327,7 @@ function DetailOverlay({ e, from, onClose, isAdmin, onOpen }: { e: Entity; from:
               style={seasonIdx === -1 ? { borderLeft: "3px solid var(--accent)", boxShadow: "0 0 14px color-mix(in oklab, var(--accent) 30%, transparent)" } : {}}
             >
               <span className="h-10 w-10 shrink-0 overflow-hidden rounded-md bg-secondary">
-                {e.image_url ? <img src={e.image_url} alt="" className="h-full w-full object-cover" /> : <Avatar e={e} size="h-10 w-10" />}
+                {e.image_url ? <img src={e.image_url} alt="" loading="lazy" decoding="async" className="h-full w-full object-cover" /> : <Avatar e={e} size="h-10 w-10" />}
               </span>
               <span className="min-w-0">
                 <span className="block truncate text-xs font-semibold uppercase tracking-wide">{e.name}</span>
@@ -359,7 +359,7 @@ function DetailOverlay({ e, from, onClose, isAdmin, onOpen }: { e: Entity; from:
                     style={{ borderLeft: `3px solid hsl(${hue} 85% 60%)`, ...(open ? { boxShadow: `0 0 14px hsl(${hue} 85% 60% / .3)` } : {}) }}
                   >
                     <span className="h-10 w-10 shrink-0 overflow-hidden rounded-md bg-secondary">
-                      {s.cover_image_url ? <img src={s.cover_image_url} alt="" className="h-full w-full object-cover" /> : <span className="grid h-full w-full place-items-center text-[9px] uppercase text-muted-foreground">{s.title.slice(0, 2)}</span>}
+                      {s.cover_image_url ? <img src={s.cover_image_url} alt="" loading="lazy" decoding="async" className="h-full w-full object-cover" /> : <span className="grid h-full w-full place-items-center text-[9px] uppercase text-muted-foreground">{s.title.slice(0, 2)}</span>}
                     </span>
                     <span className="min-w-0 flex-1">
                       <span className="block truncate text-xs font-semibold uppercase tracking-wide">{s.title}</span>
