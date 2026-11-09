@@ -46,12 +46,10 @@ type Tab = (typeof TABS)[number][0] | "progress";
 const SERIES_GROUPS: Array<{ key: string; title: string; match: RegExp; seasons: string[] }> = [
   { key: "sentinels", title: "The Sentinels", match: /sentinel/i, seasons: ["S1", "S2", "S3", "S4", "S5"] },
   { key: "redline", title: "Redline", match: /redline/i, seasons: ["S1", "S2"] },
-  { key: "divine", title: "Divine Beasts", match: /divine|beast/i, seasons: [] },
-  { key: "bloodlines", title: "Bloodlines", match: /bloodline/i, seasons: [] },
-  { key: "standalone", title: "Standalone Epics", match: /standalone|epic/i, seasons: [] },
+  { key: "bloodlines", title: "Bloodline", match: /bloodline/i, seasons: ["S1"] },
+  { key: "divine", title: "Divine Beast", match: /divine|beast/i, seasons: ["S1"] },
+  { key: "standalone", title: "Standalone Epics", match: /standalone|epic|zaan|khalid|alister/i, seasons: ["Zaan", "Khalid", "Alister"] },
 ];
-
-const stripMerged = (t: string) => t.replace(/\[\s*Merged Info\s*:?\s*\]\s*:?/gi, "").replace(/Merged Info\s*:/gi, "").trim();
 
 const SANITIZE = /^\[(conflict|merge|Auto-Merged|Auto-Stub|scope|resolved|Merged Info)/i;
 
@@ -325,7 +323,7 @@ function CharacterDossier() {
                     <span className="grid h-9 w-9 shrink-0 place-items-center rounded-md bg-secondary text-[9px] uppercase text-muted-foreground">{g.title.replace(/^The\s+/i, "").slice(0, 2)}</span>
                     <span className="min-w-0 flex-1">
                       <span className="block truncate text-xs font-semibold uppercase tracking-wide">{g.title}</span>
-                      <span className="block text-[9px] uppercase text-muted-foreground">{memberIdx >= 0 ? seasons[memberIdx]!.status ?? "Appears" : g.seasons.length ? `S1–S${g.seasons.length}` : "Collection"}</span>
+                      <span className="block text-[9px] uppercase text-muted-foreground">{memberIdx >= 0 ? seasons[memberIdx]!.status ?? "Appears" : g.key === "standalone" ? `${g.seasons.length} epics` : g.seasons.length ? `S1–S${g.seasons.length}` : "Collection"}</span>
                     </span>
                     <span className={`text-xs text-muted-foreground transition-transform ${open ? "rotate-90" : ""}`}>›</span>
                   </button>
@@ -337,7 +335,7 @@ function CharacterDossier() {
                           onClick={() => { setCtxSeason(`${g.title} ${sn}`); setSeasonIdx(memberIdx); }}
                           className={`rounded px-2 py-1 text-left text-[10px] uppercase tracking-wide ${ctxSeason === `${g.title} ${sn}` ? "bg-accent/20 text-accent" : "text-muted-foreground hover:text-foreground"}`}
                         >
-                          {g.seasons.length ? `${g.title} ${sn}` : sn}
+                          {g.seasons.length && g.key !== "standalone" ? `${g.title} ${sn}` : sn}
                         </button>
                       ))}
                     </div>

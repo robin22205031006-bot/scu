@@ -4,6 +4,7 @@ export const CANON_SERIES = [
   { title: "Redline", seasons: [1, 2] },
   { title: "Bloodline", seasons: [1] },
   { title: "Divine Beast", seasons: [1] },
+  { title: "Standalone Epics", seasons: [] },
 ] as const;
 
 /** Flat list of selectable timeline scopes, e.g. "Sentinels S3". */

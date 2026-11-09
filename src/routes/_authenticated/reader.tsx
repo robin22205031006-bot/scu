@@ -1,4 +1,5 @@
 import { useMemo, useState } from "react";
+import { stripMerged } from "@/lib/sanitize-lore";
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { ArrowLeft, BookOpen, List } from "lucide-react";
@@ -135,7 +136,7 @@ function Reader() {
           <section id="sec-overview" className="mb-12 scroll-mt-28">
             <h2 className="mb-4 font-display text-2xl">Overview</h2>
             {entity.description ? (
-              <p className="whitespace-pre-line text-lg leading-9 text-foreground/85">{entity.description}</p>
+              <p className="whitespace-pre-line text-lg leading-9 text-foreground/85">{stripMerged(entity.description)}</p>
             ) : (
               <p className="text-muted-foreground">No description recorded.</p>
             )}
@@ -180,7 +181,7 @@ function Reader() {
               <p className="mb-1 text-[11px] uppercase tracking-widest text-muted-foreground">
                 {[n.source, new Date(n.created_at).toLocaleDateString()].filter(Boolean).join(" · ")}
               </p>
-              <p className="whitespace-pre-line text-lg leading-9 text-foreground/85">{n.text}</p>
+              <p className="whitespace-pre-line text-lg leading-9 text-foreground/85">{stripMerged(n.text)}</p>
             </section>
           ))}
         </article>
