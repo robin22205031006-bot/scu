@@ -139,8 +139,8 @@ export function SiteNav() {
       className={`fixed inset-x-0 top-3 z-40 flex flex-col items-center gap-1.5 px-2 transition-all duration-300 ease-in-out ${autoHidden || hudMode ? "pointer-events-none -translate-y-[120%] opacity-0" : "translate-y-0 opacity-100"}`}
       aria-hidden={autoHidden || hudMode ? true : undefined}
     >
-      <div className="glass glow-ring flex max-w-full items-center gap-0.5 rounded-full px-1.5 py-1.5">
-        <div className="relative flex items-center overflow-x-auto [scrollbar-width:none]">
+      <div className="glass glow-ring flex w-full max-w-full md:w-auto items-center gap-0.5 rounded-full px-1.5 py-1.5">
+        <div className="relative flex min-w-0 flex-1 items-center overflow-x-auto [scrollbar-width:none]">
           <span
             className="absolute inset-y-0 left-0 rounded-full bg-secondary transition-[transform,opacity,width] duration-500 ease-[cubic-bezier(.2,.8,.2,1)] will-change-transform"
             style={{ transform: `translateX(${pill.left}px)`, width: pill.width, opacity: active >= 0 ? 1 : 0 }}
@@ -163,7 +163,7 @@ export function SiteNav() {
             );
           })}
         </div>
-        <span className="mx-1 h-4 w-px bg-border" />
+        <span className="mx-1 h-4 w-px shrink-0 bg-border" />
         <MobileMenu
           main={tabs.map((t) => ({ to: t.to, label: t.label, icon: ICONS[t.icon] }))}
           extra={[
@@ -171,20 +171,28 @@ export function SiteNav() {
             { to: "/orgs", label: "Organizations", icon: Shield },
             { to: "/install", label: "Install app", icon: Download },
           ]}
+          tools={[
+            { label: "Zoom out text", icon: ZoomOut, onClick: () => zoom(-1) },
+            { label: "Zoom in text", icon: ZoomIn, onClick: () => zoom(1) },
+            { label: muted ? "Unmute sounds" : "Mute sounds", icon: muted ? VolumeX : Volume2, onClick: toggleMute },
+            { label: animOn ? "Animations on" : "Animations off", icon: Sparkles, onClick: () => setAnimationsEnabled(!animOn), on: animOn },
+            { label: ambient ? "Ambient music on" : "Ambient music off", icon: Music, onClick: toggleAmbient, on: ambient },
+            { label: hideSpoilers ? "Roles hidden" : "Hide roles (spoilers)", icon: EyeOff, onClick: () => setSpoilersHidden(!hideSpoilers), on: hideSpoilers },
+          ]}
         />
         <Link to="/install" aria-label="Install app" title="Install app" className="hidden h-7 w-7 shrink-0 place-items-center rounded-full text-muted-foreground hover:text-foreground md:grid">
           <Download className="h-3.5 w-3.5" />
         </Link>
         <UniversalSearch />
         <ThemeDrawer />
-        <button aria-label="Zoom out text" onClick={() => zoom(-1)} className="grid h-7 w-7 shrink-0 place-items-center rounded-full text-muted-foreground hover:text-foreground"><ZoomOut className="h-3.5 w-3.5" /></button>
-        <button aria-label="Zoom in text" onClick={() => zoom(1)} className="grid h-7 w-7 shrink-0 place-items-center rounded-full text-muted-foreground hover:text-foreground"><ZoomIn className="h-3.5 w-3.5" /></button>
+        <button aria-label="Zoom out text" onClick={() => zoom(-1)} className="hidden md:grid h-7 w-7 shrink-0 place-items-center rounded-full text-muted-foreground hover:text-foreground"><ZoomOut className="h-3.5 w-3.5" /></button>
+        <button aria-label="Zoom in text" onClick={() => zoom(1)} className="hidden md:grid h-7 w-7 shrink-0 place-items-center rounded-full text-muted-foreground hover:text-foreground"><ZoomIn className="h-3.5 w-3.5" /></button>
         <DayNightToggle />
         <button
           aria-label={muted ? "Unmute sounds" : "Mute sounds"}
           title={muted ? "Unmute" : "Mute"}
           onClick={toggleMute}
-          className="grid h-7 w-7 shrink-0 place-items-center rounded-full text-muted-foreground hover:text-foreground"
+          className="hidden md:grid h-7 w-7 shrink-0 place-items-center rounded-full text-muted-foreground hover:text-foreground"
         >
           {muted ? <VolumeX className="h-3.5 w-3.5" /> : <Volume2 className="h-3.5 w-3.5" />}
         </button>
@@ -192,7 +200,7 @@ export function SiteNav() {
           aria-label={animOn ? "Disable cinematic animations" : "Enable cinematic animations"}
           title={animOn ? "Animations on" : "Animations off"}
           onClick={() => setAnimationsEnabled(!animOn)}
-          className={`grid h-7 w-7 shrink-0 place-items-center rounded-full ${animOn ? "text-accent" : "text-muted-foreground hover:text-foreground"}`}
+          className={`hidden md:grid h-7 w-7 shrink-0 place-items-center rounded-full ${animOn ? "text-accent" : "text-muted-foreground hover:text-foreground"}`}
         >
           <Sparkles className="h-3.5 w-3.5" />
         </button>
@@ -200,7 +208,7 @@ export function SiteNav() {
           aria-label={ambient ? "Stop ambient music" : "Play ambient music"}
           title={ambient ? "Ambient off" : "Ambient on"}
           onClick={toggleAmbient}
-          className={`grid h-7 w-7 shrink-0 place-items-center rounded-full ${ambient ? "text-accent" : "text-muted-foreground hover:text-foreground"}`}
+          className={`hidden md:grid h-7 w-7 shrink-0 place-items-center rounded-full ${ambient ? "text-accent" : "text-muted-foreground hover:text-foreground"}`}
         >
           <Music className="h-3.5 w-3.5" />
         </button>
@@ -208,7 +216,7 @@ export function SiteNav() {
           aria-label={hideSpoilers ? "Show character roles" : "Hide character roles (spoiler-free)"}
           title={hideSpoilers ? "Show roles" : "Hide roles"}
           onClick={() => setSpoilersHidden(!hideSpoilers)}
-          className={`grid h-7 w-7 shrink-0 place-items-center rounded-full ${hideSpoilers ? "text-accent" : "text-muted-foreground hover:text-foreground"}`}
+          className={`hidden md:grid h-7 w-7 shrink-0 place-items-center rounded-full ${hideSpoilers ? "text-accent" : "text-muted-foreground hover:text-foreground"}`}
         >
           <EyeOff className="h-3.5 w-3.5" />
         </button>

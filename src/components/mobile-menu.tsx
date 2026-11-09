@@ -3,9 +3,10 @@ import { Menu } from "lucide-react";
 import { useState, type ComponentType } from "react";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 
+type Tool = { label: string; icon: ComponentType<{ className?: string }>; onClick: () => void; on?: boolean };
 type Item = { to: string; label: string; icon: ComponentType<{ className?: string }> };
 
-export function MobileMenu({ main, extra }: { main: Item[]; extra: Item[] }) {
+export function MobileMenu({ main, extra, tools = [] }: { main: Item[]; extra: Item[]; tools?: Tool[] }) {
   const [open, setOpen] = useState(false);
   const row = (t: Item) => {
     const Icon = t.icon;
@@ -37,6 +38,11 @@ export function MobileMenu({ main, extra }: { main: Item[]; extra: Item[] }) {
           {main.map(row)}
           <p className="mt-4 px-3 text-xs uppercase tracking-wider text-muted-foreground">Explore</p>
           {extra.map(row)}
+          {tools.length > 0 && <p className="mt-4 px-3 text-xs uppercase tracking-wider text-muted-foreground">Settings</p>}
+          {tools.map((t) => { const I = t.icon; return (
+            <button key={t.label} onClick={t.onClick} className={`flex items-center gap-3 rounded-lg px-3 py-2.5 text-left text-sm font-medium hover:text-foreground ${t.on ? "text-accent" : "text-muted-foreground"}`}>
+              <I className="h-4 w-4 text-accent" />{t.label}
+            </button>); })}
         </nav>
       </SheetContent>
     </Sheet>

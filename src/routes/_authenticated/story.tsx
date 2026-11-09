@@ -105,7 +105,7 @@ function Story() {
   }
 
   return (
-    <div className="mx-auto max-w-3xl px-4 py-10">
+    <div className="mx-auto max-w-3xl px-4 pb-24 pt-28">
       <h1 className="flex items-center gap-2 font-display text-4xl"><BookOpen className="h-7 w-7 text-accent" /> Story</h1>
       <p className="mt-1 text-sm text-muted-foreground">Official SCU epics and published stories.</p>
       <ul className="mt-6 grid gap-2">
