@@ -15,6 +15,7 @@ import { SiteNav } from "@/components/site-nav";
 import { FloatingNav } from "@/components/floating-nav";
 import { WelcomeVfx } from "@/components/welcome-vfx";
 import { AmbientField } from "@/components/ambient-field";
+import { PlexusWallpaper } from "@/components/plexus-wallpaper";
 import { ScrollProgress } from "@/components/scroll-progress";
 import { AppearanceProvider } from "@/hooks/use-appearance";
 import { TypographyProvider } from "@/hooks/use-typography";
@@ -211,6 +212,7 @@ function RootComponent() {
         <ErrorBoundary>
         <div className="ambient-bg relative min-h-screen">
           <AmbientField />
+          <PlexusWallpaper />
           <ScrollProgress />
           <SiteNav />
           <FloatingNav />
