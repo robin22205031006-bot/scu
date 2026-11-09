@@ -243,7 +243,8 @@ function Admin() {
       </AdminAccordion>
 
       {isAdmin && <AdminAccordion title="Series & Seasons"><AdminSeries /></AdminAccordion>}
-      {isAdmin && <AdminAccordion title="Typography & Theme"><AdminTypography /><AdminAppearance /></AdminAccordion>}
+      {isAdmin && <AdminAccordion title="Typography & Theme"><AdminTypography /></AdminAccordion>}
+      {isAdmin && <AdminAccordion title="Appearance Options"><AdminAppearance /></AdminAccordion>}
       {isAdmin && <AdminAccordion title="Ability Assignments"><AdminCharacterAbilities /></AdminAccordion>}
       {isAdmin && <AdminAccordion title="Audio Controls"><AdminAudio /></AdminAccordion>}
       {isAdmin && <AdminAccordion title="Reader UI Toggles"><AdminUiToggles /></AdminAccordion>}

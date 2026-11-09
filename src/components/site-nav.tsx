@@ -177,8 +177,8 @@ export function SiteNav() {
         </Link>
         <UniversalSearch />
         <ThemeDrawer />
-        <button aria-label="Zoom out text" onClick={() => zoom(-1)} className="hidden h-7 w-7 place-items-center rounded-full text-muted-foreground hover:text-foreground sm:grid"><ZoomOut className="h-3.5 w-3.5" /></button>
-        <button aria-label="Zoom in text" onClick={() => zoom(1)} className="hidden h-7 w-7 place-items-center rounded-full text-muted-foreground hover:text-foreground sm:grid"><ZoomIn className="h-3.5 w-3.5" /></button>
+        <button aria-label="Zoom out text" onClick={() => zoom(-1)} className="grid h-7 w-7 shrink-0 place-items-center rounded-full text-muted-foreground hover:text-foreground"><ZoomOut className="h-3.5 w-3.5" /></button>
+        <button aria-label="Zoom in text" onClick={() => zoom(1)} className="grid h-7 w-7 shrink-0 place-items-center rounded-full text-muted-foreground hover:text-foreground"><ZoomIn className="h-3.5 w-3.5" /></button>
         <DayNightToggle />
         <button
           aria-label={muted ? "Unmute sounds" : "Mute sounds"}
