@@ -119,7 +119,8 @@ export function FloatingNav() {
     (e.target as HTMLElement).releasePointerCapture?.(e.pointerId);
   };
 
-  if (mode !== "hud" || navHidden) return null;
+  // The full-screen character dossier has its own header; keep the floating menu off it.
+  if (mode !== "hud" || navHidden || (typeof window !== "undefined" && window.location.pathname === "/character")) return null;
   const items = [...TABS, { to: "/profile", label: "Profile" }, { to: "#theme", label: "Theme" }] as const;
   const spread = items.length > 8 ? 30 : 38;
   // Fan direction follows screen half so nodes never clip off-viewport.

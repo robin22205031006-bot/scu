@@ -176,7 +176,8 @@ function CharacterDossier() {
     : cleanNotes;
 
   return (
-    <div className="fixed inset-0 grid grid-rows-[auto_1fr] overflow-hidden bg-[#020408] text-foreground">
+    // Full viewport height (not `fixed`): the page-transition wrapper's transform would collapse a fixed box to zero height.
+    <div className="relative grid h-dvh w-full grid-rows-[auto_1fr] overflow-hidden bg-[#020408] text-foreground">
       {/* TOP HEADER */}
       <header className="relative z-20 flex items-center justify-between border-b border-white/10 bg-black/60 px-4 py-2 backdrop-blur-xl">
         <Link to="/" className="font-display text-sm tracking-[0.3em] text-accent">SCU</Link>

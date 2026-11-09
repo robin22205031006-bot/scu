@@ -10,13 +10,17 @@ export function WelcomeVfx() {
   const [leaving, setLeaving] = useState(false);
 
   useEffect(() => {
-    const seen = sessionStorage.getItem(KEY);
+    let seen: string | null = null;
+    try { seen = sessionStorage.getItem(KEY); } catch { /* storage unavailable */ }
     if (seen) return;
-    sessionStorage.setItem(KEY, "1");
     setShow(true);
     const t1 = setTimeout(() => setLeaving(true), 2400);
-    const t2 = setTimeout(() => setShow(false), 3000);
-    return () => { clearTimeout(t1); clearTimeout(t2); };
+    const t2 = setTimeout(() => {
+      // Mark as seen only once it has finished, so a re-run effect never strands the overlay on screen.
+      try { sessionStorage.setItem(KEY, "1"); } catch { /* storage unavailable */ }
+      setShow(false);
+    }, 3000);
+    return () => { clearTimeout(t1); clearTimeout(t2); setShow(false); };
   }, []);
 
   if (!show) return null;
